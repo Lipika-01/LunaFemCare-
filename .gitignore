@@ -60,5 +60,8 @@ Thumbs.db
 # ML / Data
 # ===========================
 *.h5
-*.pkl
 *.model
+*.pkl
+
+# Allow the trained model pipelines explicitly
+!ml/models/*.pkl
