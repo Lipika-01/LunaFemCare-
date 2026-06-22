@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-primary-50: #fdf2f8;
+  --color-primary-100: #fce7f3;
+  --color-primary-200: #fbcfe8;
+  --color-primary-300: #f9a8d4;
+  --color-primary-400: #f472b6;
+  --color-primary-500: #ec4899;
+  --color-primary-600: #db2777;
+  --color-primary-700: #be185d;
+  --color-primary-800: #9d174d;
+  --color-primary-900: #831843;
+  
+  --color-secondary-50: #f6f7f4;
+  --color-secondary-100: #e8eae1;
+  --color-secondary-200: #d1d6c5;
+  --color-secondary-300: #b2bba1;
+  --color-secondary-400: #949f7e;
+  --color-secondary-500: #8c9071;
+  --color-secondary-600: #616e49;
+  --color-secondary-700: #4c563b;
+  
+  --color-accent: #f4b8d4;
+  
+  --color-earth-100: #fff8f8;
+  --color-earth-200: #fff0f3;
+  --color-earth-300: #fce4ec;
+  --color-earth-400: #f8bbd9;
+  --color-earth-500: #d4a5b5;
+  --color-earth-600: #a87890;
+  --color-earth-700: #7a4f63;
+  --color-earth-800: #4a2f3f;
+  --color-earth-900: #2d1a25;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-outfit), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --background: #fff8f9;
+  --foreground: #4a2f3f;
+
+  /* Mesh gradient stop colors — used for the animated background */
+  --mesh-c1: #fce4ec;
+  --mesh-c2: #f8d7e3;
+  --mesh-c3: #fdf0f5;
+  --mesh-c4: #fff3e8;
+  --mesh-c5: #f9e4f0;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* ── Animated Mesh Gradient Background ──────────────────────────────── */
+.mesh-gradient-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse 80% 60% at 20% 20%, rgba(252, 228, 236, 0.95), transparent 70%),
+    radial-gradient(ellipse 70% 70% at 80% 10%, rgba(249, 228, 240, 0.85), transparent 65%),
+    radial-gradient(ellipse 60% 80% at 10% 80%, rgba(253, 240, 245, 0.90), transparent 60%),
+    radial-gradient(ellipse 90% 50% at 70% 85%, rgba(255, 240, 232, 0.80), transparent 70%),
+    radial-gradient(ellipse 50% 60% at 50% 50%, rgba(252, 232, 244, 0.70), transparent 65%);
+  background-color: #fff5f8;
+  animation: meshShift 20s ease-in-out infinite alternate;
+}
+
+@keyframes meshShift {
+  0% {
+    background:
+      radial-gradient(ellipse 80% 60% at 20% 20%, rgba(252, 228, 236, 0.95), transparent 70%),
+      radial-gradient(ellipse 70% 70% at 80% 10%, rgba(249, 228, 240, 0.85), transparent 65%),
+      radial-gradient(ellipse 60% 80% at 10% 80%, rgba(253, 240, 245, 0.90), transparent 60%),
+      radial-gradient(ellipse 90% 50% at 70% 85%, rgba(255, 240, 232, 0.80), transparent 70%),
+      radial-gradient(ellipse 50% 60% at 50% 50%, rgba(252, 232, 244, 0.70), transparent 65%);
+    background-color: #fff5f8;
+  }
+  25% {
+    background:
+      radial-gradient(ellipse 70% 80% at 30% 10%, rgba(253, 220, 240, 0.90), transparent 65%),
+      radial-gradient(ellipse 80% 60% at 75% 30%, rgba(252, 228, 248, 0.85), transparent 70%),
+      radial-gradient(ellipse 65% 65% at 5% 70%, rgba(248, 235, 252, 0.80), transparent 60%),
+      radial-gradient(ellipse 75% 55% at 60% 90%, rgba(255, 236, 230, 0.85), transparent 65%),
+      radial-gradient(ellipse 55% 70% at 45% 40%, rgba(250, 224, 245, 0.75), transparent 60%);
+    background-color: #fff2f7;
+  }
+  50% {
+    background:
+      radial-gradient(ellipse 85% 65% at 15% 35%, rgba(250, 232, 245, 0.92), transparent 68%),
+      radial-gradient(ellipse 65% 75% at 85% 20%, rgba(248, 220, 248, 0.80), transparent 62%),
+      radial-gradient(ellipse 70% 60% at 20% 85%, rgba(255, 236, 248, 0.88), transparent 65%),
+      radial-gradient(ellipse 80% 60% at 65% 75%, rgba(255, 243, 236, 0.82), transparent 68%),
+      radial-gradient(ellipse 45% 75% at 50% 55%, rgba(252, 230, 248, 0.72), transparent 62%);
+    background-color: #fffaf9;
+  }
+  75% {
+    background:
+      radial-gradient(ellipse 75% 70% at 25% 15%, rgba(253, 224, 242, 0.88), transparent 66%),
+      radial-gradient(ellipse 75% 65% at 78% 15%, rgba(248, 232, 252, 0.82), transparent 63%),
+      radial-gradient(ellipse 65% 75% at 8% 75%, rgba(252, 242, 248, 0.85), transparent 62%),
+      radial-gradient(ellipse 85% 52% at 68% 80%, rgba(254, 238, 228, 0.78), transparent 66%),
+      radial-gradient(ellipse 52% 65% at 48% 48%, rgba(250, 228, 246, 0.68), transparent 60%);
+    background-color: #fff0f5;
+  }
+  100% {
+    background:
+      radial-gradient(ellipse 78% 58% at 22% 22%, rgba(251, 224, 238, 0.93), transparent 69%),
+      radial-gradient(ellipse 72% 72% at 82% 12%, rgba(248, 226, 243, 0.83), transparent 66%),
+      radial-gradient(ellipse 62% 82% at 12% 82%, rgba(252, 238, 246, 0.88), transparent 61%),
+      radial-gradient(ellipse 88% 48% at 72% 87%, rgba(255, 242, 234, 0.78), transparent 71%),
+      radial-gradient(ellipse 48% 62% at 52% 52%, rgba(251, 230, 245, 0.68), transparent 66%);
+    background-color: #fff4f8;
+  }
+}
+
+/* ── Glassmorphism Utility ──────────────────────────────────────────── */
+.glass-card {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  box-shadow: 0 8px 32px rgba(236, 72, 153, 0.05), 0 2px 8px rgba(0,0,0,0.04);
+}
+
+/* Nutri-Score Circular Bar Classes */
+.nutri-score-red   { stroke: #f43f5e; transition: stroke 0.5s ease; }
+.nutri-score-amber { stroke: #f59e0b; transition: stroke 0.5s ease; }
+.nutri-score-sage  { stroke: #8c9071; transition: stroke 0.5s ease; }
+
+/* Subtle pulse for alert banners */
+@keyframes pulse-light {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+.animate-pulse-light {
+  animation: pulse-light 2s ease-in-out infinite;
+}
+
+/* Mobile-friendly DayPicker overrides */
+.rdp {
+  --rdp-cell-size: 38px !important;
+}
+@media (max-width: 640px) {
+  .rdp {
+    --rdp-cell-size: 32px !important;
+    font-size: 13px !important;
+  }
+}
+
+/* Smooth scrollbar for history panels */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 4px;
+}
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: transparent;
+}
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: rgba(236, 72, 153, 0.2);
+  border-radius: 4px;
+}
+
+/* Input field global style */
+.input-field {
+  width: 100%;
+  border: 1.5px solid rgba(244, 184, 212, 0.6);
+  border-radius: 0.875rem;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.875rem;
+  background: rgba(255, 255, 255, 0.80);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #4a2f3f;
+  outline: none;
+  transition: all 0.25s ease;
+}
+.input-field:focus {
+  border-color: #ec4899;
+  background: white;
+  box-shadow: 0 0 0 4px rgba(236, 72, 153, 0.12);
+}

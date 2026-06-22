@@ -1,0 +1,16 @@
+{
+  "name": "LunaFemCare",
+  "short_name": "Luna",
+  "description": "AI-Driven Women's Health & Menstrual Nutrition Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#B67664",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
