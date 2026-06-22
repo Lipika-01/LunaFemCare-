@@ -1,0 +1,1070 @@
+Food_Name,Category,Unit_Type,Serving_Size,Energy_kcal,Protein_g,Fat_g,Carbs_g,Fiber_g,Iron_mg,Calcium_mg,Vit_A_mcg,Sodium_mg
+Poha,Breakfast,Bowl,100g,150,2.5,4,28,1.5,1.2,15,50,300
+Upma,Breakfast,Bowl,100g,160,3,5,25,2,1,20,60,320
+Idli,Breakfast,Piece,100g,100,2,0.5,22,1,0.5,30,10,200
+MasalaDosa,Breakfast,Piece,150g,250,5,12,30,3,2,40,80,450
+MeduVada,Breakfast,Piece,100g,180,3.5,9,20,1.5,1,25,20,350
+Uttapam,Breakfast,Piece,100g,200,4,8,28,2.5,1.5,35,70,380
+Appam,Breakfast,Piece,100g,150,2,2,30,1,0.8,20,30,250
+Paniyaram,Snacks,Piece,100g,170,3,6,25,1.5,1.2,25,40,300
+BreadPakora,Snacks,Piece,100g,280,4,15,32,1.2,1.5,30,50,400
+AlooBonda,Snacks,Piece,100g,220,3,10,28,1,1,20,40,350
+MysoreBonda,Snacks,Piece,100g,210,3,9,27,1,1,22,35,320
+MirchiVada,Snacks,Piece,100g,250,3.5,12,30,1.5,1.2,25,60,400
+PyazKachori,Snacks,Piece,100g,270,4,14,32,2,1.5,30,40,450
+AlooKachori,Snacks,Piece,100g,260,3.8,13,31,1.8,1.4,28,45,420
+DalKachori,Snacks,Piece,100g,265,5,13,30,2.5,1.8,35,50,430
+Samosa,Snacks,Piece,100g,260,4.5,14,28,2,1.6,40,55,380
+AlooSamosa,Snacks,Piece,100g,255,4,13.5,29,1.9,1.5,35,50,370
+PaneerSamosa,Snacks,Piece,100g,280,7,15,25,1.5,2,150,80,400
+VegCutlet,Snacks,Piece,100g,190,4,8,25,2.5,1.2,40,60,350
+BreadRoll,Snacks,Piece,100g,210,4.5,9,28,1.8,1.3,45,55,360
+SabudanaKhichdi,Breakfast,Bowl,100g,230,1.5,7,38,1,0.8,20,10,280
+SabudanaVada,Snacks,Piece,100g,240,2,11,32,1.2,0.9,25,15,300
+MisalPav,Breakfast,Bowl,150g,300,8,12,40,5,2.5,60,150,500
+VadaPav,Snacks,Piece,100g,280,6,10,40,2,1.8,50,80,450
+Dabeli,Snacks,Piece,100g,290,5,12,42,2.5,2,45,70,420
+RagdaPatties,Snacks,Plate,150g,310,7,10,45,4,2.5,50,90,480
+AlooTikki,Snacks,Piece,100g,220,3.5,9,30,2.5,1.5,30,60,350
+PaniPuri,Street Food,Plate,100g,180,2.5,6,28,1.5,1,25,40,350
+SevPuri,Street Food,Plate,100g,250,3.5,11,35,2,1.2,30,50,400
+DahiPuri,Street Food,Plate,100g,260,4.5,12,32,1.8,1.5,80,70,380
+BhelPuri,Street Food,Plate,100g,220,3,7,35,2.5,1.5,35,60,360
+PapdiChaat,Street Food,Plate,100g,240,4,10,32,2,1.4,70,55,390
+RajKachori,Street Food,Piece,100g,300,5,15,35,3,2,100,80,450
+Dhokla,Snacks,Piece,100g,160,4,3,28,1.5,1,30,50,300
+Khandvi,Snacks,Piece,100g,150,4.5,4,24,1,1.2,35,45,280
+Fafda,Snacks,Piece,100g,320,6,18,32,1,1.5,20,30,450
+JalebiFafda,Breakfast,Plate,100g,380,3,15,55,0.5,1,30,20,300
+Handvo,Breakfast,Piece,100g,210,5,7,30,3,1.5,40,70,350
+Thepla,Breakfast,Piece,100g,190,4,6,28,2.5,1.5,45,90,300
+Muthiya,Snacks,Piece,100g,180,3.5,5,28,3,1.2,35,80,320
+DalVada,Snacks,Piece,100g,250,8,10,30,2,2,40,30,400
+BatataVada,Snacks,Piece,100g,230,3,11,28,1.5,1,25,40,350
+ParathaAloo,Breakfast,Piece,100g,240,5,9,32,2.5,1.8,40,60,360
+ParathaPaneer,Breakfast,Piece,100g,280,9,12,32,1.5,2,180,100,400
+ParathaGobhi,Breakfast,Piece,100g,210,4.5,7,30,3,1.5,35,70,320
+ParathaMooli,Breakfast,Piece,100g,190,4,6,28,2.5,1.2,30,60,300
+ParathaPyaz,Breakfast,Piece,100g,220,4.5,8,30,2,1.3,35,50,340
+StuffedKulcha,Breakfast,Piece,100g,260,6,9,38,2,1.5,40,30,400
+CholeBhature,Breakfast,Plate,200g,450,10,20,55,4,3,80,100,600
+BedmiPoori,Breakfast,Piece,100g,300,5,14,38,2.5,1.8,40,40,450
+NagoriHalwa,Breakfast,Bowl,100g,350,3,16,50,1,1.2,30,20,200
+Luchi,Breakfast,Piece,100g,320,5,15,40,1,1.5,30,10,350
+AloorDom,Main Course,Bowl,100g,140,2,6,18,2.5,1,25,60,300
+KachoriBengali,Snacks,Piece,100g,270,5,14,30,2,1.5,35,40,400
+Ghugni,Snacks,Bowl,100g,120,4,3,18,4,1.5,30,50,300
+Phuchka,Street Food,Plate,100g,180,2.5,6,28,1.5,1,25,40,350
+JhalMuri,Street Food,Plate,100g,200,3,5,35,2,1.5,30,50,400
+MoongDalChilla,Breakfast,Piece,100g,160,8,3,25,2,2,40,60,300
+BesanChilla,Breakfast,Piece,100g,170,7,4,25,1.5,1.8,35,50,320
+PaneerChilla,Breakfast,Piece,100g,200,10,7,22,1,2,150,70,350
+OatsIdli,Breakfast,Piece,100g,140,5,2,25,3,1.5,30,20,250
+RagiDosa,Breakfast,Piece,100g,180,4,3,32,3.5,2.5,200,40,300
+SetDosa,Breakfast,Piece,100g,160,3,1,32,1,1,25,10,250
+NeerDosa,Breakfast,Piece,100g,150,2,1,30,0.5,0.5,15,5,200
+Pesarattu,Breakfast,Piece,100g,170,9,3,25,2.5,2.2,40,70,300
+AkkiRoti,Breakfast,Piece,100g,200,3,5,35,2,1.5,35,60,320
+JoladaRoti,Breakfast,Piece,100g,210,4,2,42,3,2,30,20,300
+Thalipeeth,Breakfast,Piece,100g,190,5,4,32,3,2,40,80,350
+KandaPohe,Breakfast,Bowl,100g,150,2.5,4,28,1.5,1.2,15,50,300
+DadpePohe,Breakfast,Bowl,100g,160,3,5,25,2,1,20,60,320
+Misal,Breakfast,Bowl,150g,280,7,12,35,4,2,50,120,450
+UsalPav,Breakfast,Bowl,150g,270,6,10,38,4.5,2,45,100,420
+SabudanaThalipeeth,Breakfast,Piece,100g,220,2,7,35,1.5,1,25,10,300
+AluVadi,Snacks,Piece,100g,180,3,5,28,3,1.5,40,150,350
+KothimbirVadi,Snacks,Piece,100g,170,3.5,4,28,2.5,1.2,35,120,320
+SuraliVadi,Snacks,Piece,100g,160,4,3,26,1,1,30,50,300
+PuranPoli,Dessert,Piece,100g,350,6,10,60,3,2,50,40,300
+Modak,Dessert,Piece,100g,320,3,8,55,1,1,30,20,250
+UkadicheModak,Dessert,Piece,100g,300,2.5,5,58,1,0.8,25,10,200
+Shira,Dessert,Bowl,100g,340,3,15,50,0.5,1,20,30,250
+SujiKaHalwa,Dessert,Bowl,100g,330,3,14,50,0.5,1,20,30,250
+Sheera,Dessert,Bowl,100g,340,3,15,50,0.5,1,20,30,250
+MaggiMasala,Snacks,Packet,100g,450,8,18,65,2,2,30,10,1200
+CheeseMaggi,Snacks,Packet,100g,500,12,22,60,2,2,200,100,1400
+VegSandwich,Breakfast,Piece,150g,300,8,10,45,3,2,80,100,500
+GrilledSandwich,Breakfast,Piece,150g,320,8.5,12,44,3,2,90,110,550
+ClubSandwich,Breakfast,Piece,200g,400,12,15,50,3.5,2.5,120,150,700
+BombayToast,Breakfast,Piece,100g,250,5,10,35,2,1.5,40,50,400
+ButterToast,Breakfast,Piece,100g,260,4,12,35,1.5,1,30,80,450
+GarlicBread,Snacks,Piece,100g,350,8,16,45,2,1.5,100,60,600
+SpringRoll,Snacks,Piece,100g,220,4,10,28,2,1.2,30,50,400
+VegMomos,Street Food,Piece,100g,180,4,5,28,2,1,25,30,300
+PaneerMomos,Street Food,Piece,100g,220,8,10,25,1.5,1.5,120,60,350
+FriedMomos,Street Food,Piece,100g,250,4.5,12,30,1.8,1.2,30,40,450
+ChilliPaneer,Main Course,Bowl,150g,280,12,18,18,1.5,2,250,150,800
+VegManchurian,Main Course,Bowl,150g,240,5,12,28,2.5,1.5,40,80,700
+ChilliIdli,Snacks,Plate,150g,220,4,8,32,2,1.5,40,60,600
+MasalaPapad,Snacks,Piece,50g,120,3,2,22,1.5,1,20,10,300
+RoastedChana,Snacks,Bowl,50g,180,10,3,28,6,2.5,40,20,50
+MakhanaFry,Snacks,Bowl,50g,170,5,6,25,3,1.5,30,10,200
+MurmuraLaddu,Dessert,Piece,50g,200,2,1,45,0.5,0.5,10,5,50
+Chikki,Dessert,Piece,50g,250,6,12,30,1.5,1.5,40,20,30
+PeanutChikki,Dessert,Piece,50g,260,7,14,28,2,1.8,45,25,35
+TilLaddu,Dessert,Piece,50g,240,5,12,28,3,2,300,30,40
+BesanLaddu,Dessert,Piece,50g,270,5,15,30,1,1.5,30,40,50
+MotichoorLaddu,Dessert,Piece,50g,280,3,14,35,0.5,1,25,30,60
+AttaHalwa,Dessert,Bowl,100g,360,4,18,45,1.5,1.5,30,50,200
+GajarHalwa,Dessert,Bowl,100g,220,3,8,35,2,1,40,250,150
+MoongDalHalwa,Dessert,Bowl,100g,380,6,18,50,2,2,40,60,200
+BadamHalwa,Dessert,Bowl,100g,400,8,22,45,2.5,2.5,150,50,250
+SoojiUpma,Breakfast,Bowl,100g,160,3,5,25,2,1,20,60,320
+VermicelliUpma,Breakfast,Bowl,100g,170,3.5,6,26,1.5,1.2,25,50,300
+VegetableDalia,Breakfast,Bowl,150g,200,6,4,35,5,2,30,80,350
+DaliaKhichdi,Breakfast,Bowl,150g,210,6.5,5,35,5.5,2.2,35,90,360
+OatsUpma,Breakfast,Bowl,100g,150,5,3,25,4,1.8,30,40,300
+MasalaOats,Breakfast,Bowl,100g,160,5.5,4,25,4.5,1.8,35,50,350
+CornChaat,Street Food,Bowl,100g,140,4,2,28,3,1,20,40,300
+SproutedSalad,Healthy,Bowl,100g,120,8,1,22,5,2,40,50,200
+MoongSalad,Healthy,Bowl,100g,130,8.5,1.5,22,5.5,2.2,45,60,220
+ChanaSalad,Healthy,Bowl,100g,150,9,2,25,6,2.5,50,70,250
+BoiledCorn,Healthy,Piece,100g,110,3.5,1.5,22,2.5,0.8,10,30,10
+RoastedCorn,Street Food,Piece,100g,120,3.8,2,25,3,1,12,35,15
+MasalaPeanuts,Snacks,Bowl,50g,280,12,20,15,3,2,40,20,400
+FriedCashews,Snacks,Bowl,50g,290,9,22,15,1.5,2.5,20,10,200
+MasalaMakhana,Snacks,Bowl,50g,180,5,8,25,3,1.5,30,10,300
+Khakhra,Snacks,Piece,30g,120,4,3,20,2,1.2,20,10,150
+MethiKhakhra,Snacks,Piece,30g,125,4.2,3.5,20,2.5,1.3,25,50,160
+MasalaKhakhra,Snacks,Piece,30g,130,4,4,20,2,1.2,20,20,200
+Papadum,Snacks,Piece,20g,70,3,1,12,1,0.8,15,5,300
+MasalaPapad,Snacks,Piece,40g,100,3.5,2,18,1.5,1,20,10,400
+Fryums,Snacks,Bowl,30g,150,0.5,5,25,0.2,0.2,5,0,300
+Chakli,Snacks,Piece,50g,240,4,12,28,1,1,30,20,350
+Murukku,Snacks,Piece,50g,250,4.5,13,28,1.2,1.2,35,25,360
+Kodubale,Snacks,Piece,50g,260,5,14,28,1,1.3,30,30,380
+Nippattu,Snacks,Piece,50g,270,5.5,15,28,1.5,1.5,40,40,400
+MaddurVada,Snacks,Piece,50g,230,4,10,30,2,1.2,30,50,350
+MasalaVada,Snacks,Piece,50g,240,7,9,30,2.5,2,35,60,380
+Ambode,Snacks,Piece,50g,230,7.5,8,30,2.5,2,40,70,360
+Punugulu,Snacks,Piece,50g,220,3,9,30,1,1,25,30,300
+BondaSoup,Snacks,Bowl,150g,200,4,7,30,1.5,1.2,30,40,500
+GoliBaje,Snacks,Piece,50g,210,3.5,8,30,1,1,25,20,300
+MangaloreBuns,Breakfast,Piece,100g,280,4,8,45,2,1.5,30,30,350
+Pathrode,Breakfast,Piece,100g,190,4,5,30,4,2,50,200,400
+SemiyaUpma,Breakfast,Bowl,100g,180,3.5,5,30,1.5,1.2,25,40,320
+RavaDosa,Breakfast,Piece,100g,170,3,4,30,1,1,20,10,300
+OnionRavaDosa,Breakfast,Piece,100g,190,3.5,5,30,1.5,1.2,25,30,350
+MasalaRavaDosa,Breakfast,Piece,100g,210,4,7,30,2,1.5,30,50,400
+PesarattuUpma,Breakfast,Piece,100g,200,9,4,30,3,2.5,45,80,350
+ChanaSundal,Snacks,Bowl,100g,160,8,3,25,5,2,50,30,250
+PeanutSundal,Snacks,Bowl,100g,250,10,15,15,4,2,40,20,300
+DalTadka,Main Course,Bowl,100g,120,5,3,18,3,1.2,30,50,300
+DalMakhani,Main Course,Bowl,100g,200,6,12,15,4,1.5,50,80,400
+DalFry,Main Course,Bowl,100g,130,5.5,3.5,17,3,1.2,30,50,320
+YellowDal,Main Course,Bowl,100g,110,5,2.5,18,2.5,1,25,40,280
+ChanaDal,Main Course,Bowl,100g,140,6,3,20,3.5,1.5,40,60,350
+MasoorDal,Main Course,Bowl,100g,120,5.5,2,18,2.5,1.2,35,50,300
+RajmaMasala,Main Course,Bowl,100g,150,7,4,22,5,2,45,70,350
+CholeMasala,Main Course,Bowl,100g,160,7.5,4.5,23,5.5,2.2,50,80,360
+PindiChole,Main Course,Bowl,100g,170,8,5,22,5,2.2,50,80,380
+PaneerButterMasala,Main Course,Bowl,100g,280,10,20,15,1.5,1.5,150,120,500
+PaneerTikkaMasala,Main Course,Bowl,100g,250,9,16,15,2,1.8,140,100,450
+PaneerLababdar,Main Course,Bowl,100g,260,9.5,18,14,1.5,1.5,145,110,480
+PaneerBhurji,Main Course,Bowl,100g,220,12,15,10,1,2,200,150,400
+ShahiPaneer,Main Course,Bowl,100g,270,9,19,15,1.2,1.5,160,130,450
+MatarPaneer,Main Course,Bowl,100g,180,7,10,15,2.5,1.5,100,80,350
+PalakPaneer,Main Course,Bowl,100g,160,8,8,12,3,2.5,150,200,350
+KadaiPaneer,Main Course,Bowl,100g,210,8.5,12,12,2,1.8,120,90,400
+AlooMatar,Main Course,Bowl,100g,130,3,4,20,3,1.2,30,60,300
+DumAloo,Main Course,Bowl,100g,150,2.5,7,20,2.5,1,25,50,320
+JeeraAloo,Main Course,Bowl,100g,120,2,5,18,2,1,20,40,280
+AlooGobhi,Main Course,Bowl,100g,110,2.5,4,16,3,1.2,30,50,250
+BainganBharta,Main Course,Bowl,100g,100,2,4,14,3.5,1,25,40,200
+MixVeg,Main Course,Bowl,100g,110,3,3.5,17,3,1.2,35,70,250
+VegKorma,Main Course,Bowl,100g,140,3.5,6,16,2.5,1,40,60,300
+VegJalfrezi,Main Course,Bowl,100g,120,3,4,17,2.5,1,30,50,280
+BhindiMasala,Main Course,Bowl,100g,100,2,3.5,15,3,1,30,40,200
+MushroomMasala,Main Course,Bowl,100g,110,4,3,15,2.5,1.5,20,30,250
+MalaiKofta,Main Course,Bowl,100g,300,6,20,25,2,1.5,100,80,450
+VegBiryani,Main Course,Plate,200g,320,6,10,50,3,2,40,100,500
+MasalaRice,Main Course,Plate,200g,280,5,8,45,2.5,1.5,30,50,450
+VegPulav,Main Course,Plate,200g,260,5,7,42,2.5,1.5,30,50,400
+KashmiriPulav,Main Course,Plate,200g,350,6,12,50,2,1.5,50,60,300
+CurdRice,Main Course,Bowl,200g,220,5,8,30,1,0.5,150,40,300
+SambarRice,Main Course,Bowl,200g,240,6,4,40,4,2,60,80,600
+LemonRice,Main Course,Plate,200g,250,4,9,38,2,1.2,30,40,400
+TomatoRice,Main Course,Plate,200g,260,4.5,8,40,2.5,1.5,40,70,450
+CoconutRice,Main Course,Plate,200g,300,5,12,40,2,1,30,20,350
+TamarindRice,Main Course,Plate,200g,270,4.5,9,40,2.5,1.5,40,30,500
+MethiMatarMalai,Main Course,Bowl,100g,190,4.5,12,15,2.5,1.2,80,100,300
+SevTamatar,Main Course,Bowl,100g,220,4,14,20,2,1,50,40,450
+BesanGatta,Main Course,Bowl,100g,180,7,8,20,2,1.5,40,30,350
+KajuCurry,Main Course,Bowl,100g,350,8,25,20,2,2,50,30,300
+VegHandi,Main Course,Bowl,100g,130,3.5,6,15,2.5,1,40,60,300
+AlooMethi,Main Course,Bowl,100g,120,2.5,5,16,3,1.2,30,80,280
+PaneerDoPyaza,Main Course,Bowl,100g,230,9,16,12,1.5,1.5,130,90,400
+PaneerPasanda,Main Course,Bowl,100g,260,10,18,14,1.2,1.5,145,110,420
+PaneerKofta,Main Course,Bowl,100g,275,8,19,16,1.5,1.6,120,100,450
+PaneerAchari,Main Course,Bowl,100g,220,9,15,10,2,1.5,110,80,480
+PaneerHyderabadi,Main Course,Bowl,100g,240,9.5,16,12,2,1.8,125,120,460
+PaneerJalfrezi,Main Course,Bowl,100g,210,8.5,13,11,2.5,1.5,110,95,430
+PaneerMakhani,Main Course,Bowl,100g,270,9,19,13,1.2,1.4,140,130,470
+PaneerKaliMirch,Main Course,Bowl,100g,250,9.5,17,12,1.5,1.5,135,100,440
+PaneerCornMasala,Main Course,Bowl,100g,230,8,15,15,2.5,1.3,100,80,410
+PaneerCapsicum,Main Course,Bowl,100g,200,8,12,10,2,1.2,90,90,390
+PaneerDhoklaMasala,Main Course,Bowl,100g,240,7.5,14,20,1.5,1,80,60,400
+PaneerTawaMasala,Main Course,Bowl,100g,230,9,15,11,1.8,1.4,115,90,450
+PaneerKolhapuri,Main Course,Bowl,100g,245,8.5,16,13,2,1.7,110,110,500
+PaneerLazeez,Main Course,Bowl,100g,265,9,18,14,1.5,1.5,130,115,460
+PaneerChatpata,Main Course,Bowl,100g,225,8.5,14,12,1.5,1.3,105,85,470
+PaneerShahiKorma,Main Course,Bowl,100g,280,8,20,15,1,1.4,140,120,440
+PaneerPunjabi,Main Course,Bowl,100g,250,9.5,17,11,1.8,1.6,125,100,450
+PaneerKarahi,Main Course,Bowl,100g,220,8.5,14,10,2,1.5,110,90,460
+PaneerHandi,Main Course,Bowl,100g,260,9,18,12,1.5,1.5,130,110,480
+PaneerNawabi,Main Course,Bowl,100g,275,8.5,19,14,1,1.5,140,125,450
+PaneerLahori,Main Course,Bowl,100g,235,9,16,11,1.8,1.6,120,95,490
+PaneerMalai,Main Course,Bowl,100g,290,7.5,22,12,1,1.2,150,140,430
+PaneerBegumBahar,Main Course,Bowl,100g,280,8.5,20,14,1.2,1.5,135,115,460
+PaneerAngara,Main Course,Bowl,100g,255,9,17,12,1.8,1.7,125,105,520
+PaneerTikkaDry,Main Course,Plate,100g,240,11,15,8,1.5,1.8,150,90,550
+PaneerKadhaiStyle,Main Course,Bowl,100g,225,8.5,14,11,2,1.5,115,95,470
+PaneerMasalaDry,Main Course,Plate,100g,230,9.5,15,9,1.8,1.6,120,90,480
+PaneerStuffedCapsicum,Main Course,Plate,150g,260,8,16,18,3,1.8,140,130,500
+AlooDumKashmiri,Main Course,Bowl,100g,160,2.5,8,20,2.5,1.1,25,55,300
+AlooJeeraDry,Main Course,Plate,100g,130,2,6,18,2,1,20,40,280
+AlooMethiDry,Main Course,Plate,100g,125,2.5,5,17,3,1.2,35,90,270
+AlooGobhiAdraki,Main Course,Bowl,100g,115,2.5,4.5,16,3,1.2,30,55,260
+AlooBaingan,Main Course,Bowl,100g,105,2,4,15,3.5,1,25,40,220
+AlooBeans,Main Course,Bowl,100g,110,3,3,18,3,1.2,30,50,240
+AlooCapsicum,Main Course,Bowl,100g,115,2.5,4,17,2.5,1,25,45,250
+AlooMatarDry,Main Course,Bowl,100g,140,3.5,5,20,3,1.3,35,65,280
+AlooPanchmel,Main Course,Bowl,100g,120,3,4,18,3,1.2,35,60,260
+AlooSimlaMirch,Main Course,Bowl,100g,115,2.5,4,17,2.5,1,25,45,250
+AlooMushroom,Main Course,Bowl,100g,115,3.5,3.5,17,2.5,1.4,25,35,260
+AlooGajarMatar,Main Course,Bowl,100g,125,3,3.5,20,3,1.3,35,150,270
+AlooPattaGobhi,Main Course,Bowl,100g,105,2.5,3.5,16,3,1.2,30,50,240
+AlooPapaya,Main Course,Bowl,100g,100,2,3,17,2.5,1,25,40,230
+AlooPapadSabzi,Main Course,Bowl,100g,160,3,6,22,2,1.5,40,30,500
+AlooBariSabzi,Main Course,Bowl,100g,180,6,7,22,3,2,50,40,450
+AlooPoshto,Main Course,Bowl,100g,190,4,12,17,2.5,1.5,60,30,300
+AlooDumBanarasi,Main Course,Bowl,100g,155,2.5,7.5,20,2.5,1.1,28,55,310
+AlooDumBengali,Main Course,Bowl,100g,150,2.5,7,20,2.5,1.1,25,50,300
+AlooDumPunjabi,Main Course,Bowl,100g,165,3,8,21,2.5,1.2,30,60,350
+AlooDumHyderabadi,Main Course,Bowl,100g,170,3,8.5,21,2.5,1.2,35,65,380
+AlooDumLucknowi,Main Course,Bowl,100g,160,2.5,7.5,21,2,1.1,30,55,320
+BainganBhartaSmoky,Main Course,Bowl,100g,105,2,4.5,14,3.5,1,25,45,210
+BainganMasala,Main Course,Bowl,100g,100,2,4,14,3.5,1,25,40,200
+BainganFry,Main Course,Plate,100g,160,2,10,15,3,1,20,30,250
+BainganAloo,Main Course,Bowl,100g,110,2.5,4,16,3,1,25,45,230
+BainganChanaDal,Main Course,Bowl,100g,130,5,3.5,18,4,1.5,40,50,300
+BainganDahi,Main Course,Bowl,100g,115,3,5,14,3,1,60,50,220
+BainganAchari,Main Course,Bowl,100g,110,2,5,14,3.5,1,25,40,280
+BainganKalonji,Main Course,Bowl,100g,115,2,5,15,3,1,25,40,250
+BainganKohlapuri,Main Course,Bowl,100g,120,2.5,6,15,3,1.2,30,60,350
+BainganPachranga,Main Course,Bowl,100g,110,2.5,4,16,3,1.2,30,50,260
+BainganHyderabadi,Main Course,Bowl,100g,130,3,7,15,3,1.2,35,60,320
+BhindiDoPyaza,Main Course,Bowl,100g,110,2.5,5,14,3,1,35,40,260
+BhindiFry,Main Course,Plate,100g,170,2.5,12,14,2.5,1,30,40,250
+BhindiMasalaDry,Main Course,Plate,100g,120,2.5,6,14,3,1,35,50,280
+BhindiKurkuri,Main Course,Plate,100g,200,3,14,16,2,1,30,40,350
+BhindiStuffed,Main Course,Plate,100g,140,3,8,15,3,1.2,40,50,300
+BhindiDahi,Main Course,Bowl,100g,120,3.5,6,13,2.5,1,60,45,250
+BhindiBesan,Main Course,Bowl,100g,150,5,7,18,3,1.5,40,50,280
+BhindiKadhi,Main Course,Bowl,100g,130,4,5,17,2.5,1.2,70,50,300
+BhindiAchari,Main Course,Bowl,100g,120,2.5,6,14,3,1,35,45,300
+BhindiCorn,Main Course,Bowl,100g,130,3.5,5,18,3,1.2,30,60,280
+BhindiPaneer,Main Course,Bowl,100g,170,7,10,14,2.5,1.5,100,70,320
+BhindiCapsicum,Main Course,Bowl,100g,110,2.5,4,15,3,1,30,50,250
+BhindiPotato,Main Course,Bowl,100g,130,2.5,5,18,3,1,30,50,270
+MushroomDoPyaza,Main Course,Bowl,100g,130,4,7,13,2.5,1.5,20,30,300
+MushroomMatar,Main Course,Bowl,100g,120,4,5,15,3,1.5,25,40,280
+MushroomPalak,Main Course,Bowl,100g,110,5,4,10,3,2,50,150,280
+MushroomMasalaDry,Main Course,Plate,100g,120,4,6,12,2.5,1.5,20,30,300
+MushroomTikka,Main Course,Plate,100g,160,5,10,10,2,1.5,30,40,350
+MushroomKadhai,Main Course,Bowl,100g,130,4.5,7,12,2.5,1.5,25,40,320
+MushroomHandi,Main Course,Bowl,100g,150,4.5,9,12,2,1.5,30,45,350
+MushroomAchari,Main Course,Bowl,100g,130,4,7,12,2.5,1.5,20,35,330
+MushroomCorn,Main Course,Bowl,100g,140,4.5,6,16,3,1.5,30,50,300
+MushroomPaneer,Main Course,Bowl,100g,180,8,11,12,1.5,1.8,110,80,350
+MushroomCornPalak,Main Course,Bowl,100g,130,5,5,14,3,1.8,50,160,320
+MushroomKaliMirch,Main Course,Bowl,100g,140,4.5,9,10,2,1.5,25,40,350
+MushroomNawabi,Main Course,Bowl,100g,170,5,11,12,1.5,1.5,40,50,380
+MixVegKadhai,Main Course,Bowl,100g,120,3,5,16,3,1.2,35,70,280
+MixVegHandi,Main Course,Bowl,100g,130,3.5,6,16,2.5,1.2,40,80,300
+MixVegKolhapuri,Main Course,Bowl,100g,140,3.5,7,16,3,1.5,40,80,350
+MixVegJalfrezi,Main Course,Bowl,100g,120,3,5,16,3,1.2,35,70,280
+MixVegAchari,Main Course,Bowl,100g,120,3,5,16,3,1.2,35,70,300
+MixVegPaneer,Main Course,Bowl,100g,160,6,8,15,2.5,1.5,90,90,320
+MixVegCorn,Main Course,Bowl,100g,130,3.5,5,18,3,1.2,35,75,300
+MixVegMasala,Main Course,Bowl,100g,120,3,5,16,3,1.2,35,70,280
+DalPanchmel,Main Course,Bowl,100g,130,6,3.5,18,4,1.5,40,50,300
+DalMoradabadi,Main Course,Bowl,100g,110,5.5,2,18,3,1.2,30,40,280
+DalBukara,Main Course,Bowl,100g,220,7,14,16,4,1.8,60,90,450
+DalPalak,Main Course,Bowl,100g,110,5,2.5,15,3.5,1.5,50,150,280
+DalMakhaniSlowCooked,Main Course,Bowl,100g,210,6.5,13,15,4,1.6,55,85,420
+DalAmritsari,Main Course,Bowl,100g,140,6,4,19,4,1.5,40,50,350
+DalSultani,Main Course,Bowl,100g,150,6,5,19,3,1.5,50,60,320
+DalJodhpuri,Main Course,Bowl,100g,130,5.5,3.5,18,3,1.2,35,50,300
+DalMaharani,Main Course,Bowl,100g,160,6,6,18,3.5,1.5,50,70,350
+DalBanjara,Main Course,Bowl,100g,140,6,4,19,4,1.5,40,50,350
+DalMethi,Main Course,Bowl,100g,120,5,3,17,3.5,1.2,40,80,280
+DalChanaPunjabi,Main Course,Bowl,100g,150,6.5,4,21,4,1.5,45,50,350
+DalUrad,Main Course,Bowl,100g,140,6,3,20,4,1.5,40,40,300
+DalMoong,Main Course,Bowl,100g,110,5,2.5,18,3,1,25,40,250
+DalMasoorPunjabi,Main Course,Bowl,100g,125,5.5,3,18,3,1.2,35,50,280
+DalTadkaExtraSpicy,Main Course,Bowl,100g,130,5,3.5,18,3,1.2,30,50,400
+CholePunjabi,Main Course,Bowl,100g,170,8,5,22,5.5,2.2,50,80,380
+CholePindi,Main Course,Bowl,100g,175,8.5,5,23,5,2.2,50,85,390
+CholeAmritsari,Main Course,Bowl,100g,180,8,5.5,23,5.5,2.2,55,80,400
+CholePalak,Main Course,Bowl,100g,150,7,4,20,5,2,80,150,350
+CholePaneer,Main Course,Bowl,100g,220,10,12,18,3,1.8,130,100,420
+CholeMushroom,Main Course,Bowl,100g,140,6,4,18,4,1.5,40,60,320
+CholeAloo,Main Course,Bowl,100g,130,4,3.5,20,3.5,1.2,35,60,300
+CholeMasalaDry,Main Course,Plate,100g,180,8,5,25,5,2,50,70,400
+CholeKadhai,Main Course,Bowl,100g,170,7.5,5,22,4,1.8,45,75,370
+CholeAchari,Main Course,Bowl,100g,170,7.5,5.5,22,4,1.8,45,70,390
+CholeHandi,Main Course,Bowl,100g,175,7.5,6,22,4,1.8,45,75,380
+RajmaPunjabi,Main Course,Bowl,100g,150,7,4,22,5,2,45,70,350
+RajmaKashmiri,Main Course,Bowl,100g,160,7,5,23,5,2,45,75,360
+RajmaPalak,Main Course,Bowl,100g,130,6,3.5,18,4.5,1.8,80,150,320
+RajmaPaneer,Main Course,Bowl,100g,210,9,11,18,3,1.5,120,90,400
+RajmaMushroom,Main Course,Bowl,100g,135,6,4,18,4,1.5,40,60,300
+RajmaDal,Main Course,Bowl,100g,140,6.5,3.5,20,4,1.5,40,50,320
+RajmaMasalaDry,Main Course,Plate,100g,170,7.5,4.5,24,4.5,1.8,45,65,380
+RajmaHandi,Main Course,Bowl,100g,160,7,5,22,4,1.8,45,70,370
+RajmaAchari,Main Course,Bowl,100g,160,7,5,22,4,1.8,45,70,380
+KadhiPakora,Main Course,Bowl,150g,250,7,12,28,2,1.5,60,80,450
+KadhiPunjabi,Main Course,Bowl,150g,220,6,9,25,1.5,1.2,50,70,400
+KadhiGujarati,Main Course,Bowl,150g,210,5,8,25,1.5,1.2,50,60,380
+KadhiRajasthani,Main Course,Bowl,150g,230,6,10,26,1.5,1.2,55,65,420
+KadhiBhindi,Main Course,Bowl,150g,200,5,7,24,2.5,1.2,60,80,350
+KadhiPakodiDry,Main Course,Plate,100g,260,7,14,26,1.5,1.5,50,60,400
+KadhiPaneer,Main Course,Bowl,150g,280,10,15,25,1.5,1.8,150,110,480
+KadhiAloo,Main Course,Bowl,150g,210,4.5,8,28,2,1,45,60,360
+KadhiMethi,Main Course,Bowl,150g,200,5,7,25,2.5,1.2,60,100,350
+KadhiPalak,Main Course,Bowl,150g,190,5.5,7,22,3,1.5,70,180,340
+GatteKiSabzi,Main Course,Bowl,100g,190,7,8,20,2,1.5,40,30,350
+GatteKiSabziDry,Main Course,Plate,100g,200,7.5,9,20,2,1.5,40,30,380
+GatteMasala,Main Course,Bowl,100g,190,7,8.5,20,2,1.5,40,30,360
+GatteKadhi,Main Course,Bowl,150g,240,8,10,25,2,1.5,60,40,400
+GattePaneer,Main Course,Bowl,100g,250,11,14,18,2,1.8,130,90,450
+GatteCorn,Main Course,Bowl,100g,200,7,8,22,3,1.5,40,60,350
+GatteHandi,Main Course,Bowl,100g,210,7.5,9,20,2,1.5,40,35,380
+GatteAchari,Main Course,Bowl,100g,200,7,8.5,20,2,1.5,40,30,390
+GattePunjabi,Main Course,Bowl,100g,200,7.5,9,20,2,1.5,40,30,370
+SevTamatarIndori,Main Course,Bowl,100g,250,4,16,22,2,1.2,50,40,500
+SevTamatarGujarati,Main Course,Bowl,100g,240,4,15,21,2,1.2,50,40,480
+SevTamatarPunjabi,Main Course,Bowl,100g,260,4.5,17,22,2,1.2,55,45,550
+SevTamatarPaneer,Main Course,Bowl,100g,300,9,19,20,1.5,1.5,130,90,550
+SevTamatarKadhi,Main Course,Bowl,150g,280,5,15,28,2,1.2,70,50,550
+SevTamatarAloo,Main Course,Bowl,100g,230,3.5,14,22,2,1,40,50,450
+SevTamatarMasala,Main Course,Bowl,100g,250,4,16,22,2,1.2,50,40,500
+SevTamatarHandi,Main Course,Bowl,100g,250,4,16,22,2,1.2,50,40,520
+SevTamatarCorn,Main Course,Bowl,100g,240,4.5,15,22,2.5,1.2,50,60,500
+SevTamatarAchari,Main Course,Bowl,100g,250,4,16,22,2,1.2,50,40,530
+KajuPaneer,Main Course,Bowl,100g,320,9,22,18,1.5,1.8,140,100,450
+KajuKorma,Main Course,Bowl,100g,340,7,24,20,1.5,1.8,110,80,400
+KajuMasala,Main Course,Bowl,100g,330,8,23,18,2,1.8,110,80,420
+KajuMushroom,Main Course,Bowl,100g,310,8,21,18,2.5,1.8,100,70,400
+KajuCorn,Main Course,Bowl,100g,300,7.5,20,20,3,1.8,100,90,400
+KajuMatar,Main Course,Bowl,100g,310,8,21,18,3,1.8,100,80,400
+KajuHandi,Main Course,Bowl,100g,330,8,23,18,2,1.8,110,80,440
+KajuAchari,Main Course,Bowl,100g,330,8,23,18,2,1.8,110,80,450
+KajuPunjabi,Main Course,Bowl,100g,330,8.5,23,18,2,1.8,110,80,450
+KajuShahi,Main Course,Bowl,100g,350,8,25,20,1,1.8,130,100,420
+KajuKadai,Main Course,Bowl,100g,320,8,22,18,2,1.8,110,80,460
+KajuPalak,Main Course,Bowl,100g,300,8.5,20,15,3,2,140,180,400
+KajuPaneerTikka,Main Course,Plate,100g,330,12,22,15,1.5,2,180,110,500
+KajuKofta,Main Course,Bowl,100g,340,7,24,20,1.5,1.8,120,90,450
+KajuAloo,Main Course,Bowl,100g,280,6,18,20,2.5,1.5,80,60,350
+KajuMixVeg,Main Course,Bowl,100g,290,7,19,18,3,1.5,90,80,380
+KajuBhindi,Main Course,Bowl,100g,280,6,18,18,3,1.2,80,70,350
+KajuBaingan,Main Course,Bowl,100g,270,6,17,17,3.5,1.2,80,70,350
+KajuMakhana,Main Course,Bowl,100g,320,6,21,22,2.5,1.5,90,50,300
+KajuPaneerMakhani,Main Course,Bowl,100g,350,9,25,18,1.2,1.8,150,130,480
+KajuKoftaShahi,Main Course,Bowl,100g,360,7.5,26,20,1.2,1.8,140,100,460
+KajuKoftaKadhai,Main Course,Bowl,100g,340,7.5,24,20,2,1.8,120,90,480
+KajuKoftaMakhani,Main Course,Bowl,100g,360,7.5,26,20,1.2,1.8,140,100,480
+KajuKoftaLababdar,Main Course,Bowl,100g,360,8,26,20,1.5,1.8,145,105,500
+KajuKoftaAchari,Main Course,Bowl,100g,340,7.5,24,20,2,1.8,120,90,500
+KajuKoftaHandi,Main Course,Bowl,100g,350,7.5,25,20,1.5,1.8,130,95,500
+KajuKoftaPaneer,Main Course,Bowl,100g,370,11,26,18,1.5,2,180,120,520
+KajuKoftaMixVeg,Main Course,Bowl,100g,320,7,22,20,3,1.5,100,90,450
+KajuKoftaMatar,Main Course,Bowl,100g,330,7.5,23,20,3,1.5,110,90,450
+ChickenCurry,Main Course,Bowl,150g,280,22,18,8,1,2,40,60,500
+ButterChicken,Main Course,Bowl,150g,350,25,22,10,1.2,1.8,150,150,600
+ChickenTikkaMasala,Main Course,Bowl,150g,320,24,20,9,1.5,1.8,120,120,550
+ChickenKorma,Main Course,Bowl,150g,340,23,21,10,1,1.5,100,100,500
+ChickenMasala,Main Course,Bowl,150g,290,22,18,9,1.5,1.8,50,70,520
+ChickenMughlai,Main Course,Bowl,150g,360,25,23,12,1,1.5,130,120,550
+ChickenDoPyaza,Main Course,Bowl,150g,270,21,16,10,1.5,1.5,45,60,480
+ChickenHandi,Main Course,Bowl,150g,310,23,19,10,1.2,1.6,90,90,500
+ChickenFry,Main Course,Plate,150g,400,28,28,10,0.5,2,40,50,700
+Chicken65,Main Course,Plate,150g,380,26,25,12,0.8,2,50,60,800
+ChickenTikka,Main Course,Plate,150g,250,28,12,5,0.5,1.8,40,40,600
+ChickenHariyali,Main Course,Plate,150g,260,28,13,6,1,1.8,50,200,600
+ChickenAchari,Main Course,Bowl,150g,280,22,18,8,1.5,1.6,45,70,550
+ChickenKadai,Main Course,Bowl,150g,290,23,18,9,2,1.8,60,90,520
+ChickenLababdar,Main Course,Bowl,150g,320,24,20,10,1.5,1.7,140,110,550
+ChickenRoganJosh,Main Course,Bowl,150g,330,25,20,8,1,2.5,40,80,500
+ChickenStew,Main Course,Bowl,200g,220,20,10,12,2,1.5,50,100,450
+ChickenJalfrezi,Main Course,Bowl,150g,260,22,15,10,2,1.5,80,120,500
+ChickenChettinad,Main Course,Bowl,150g,300,24,19,8,1.5,2,40,70,600
+ChickenVindaloo,Main Course,Bowl,150g,310,23,20,9,1.2,1.8,40,60,650
+ChickenXacuti,Main Course,Bowl,150g,320,23,22,8,1.5,1.5,50,50,550
+ChickenCafreal,Main Course,Plate,150g,280,26,16,7,1,1.5,40,150,500
+ChickenSukka,Main Course,Plate,150g,290,27,16,6,1.5,1.8,40,50,550
+ChickenSaag,Main Course,Bowl,150g,240,22,14,8,2.5,2.5,100,500,450
+ChickenBharta,Main Course,Bowl,150g,270,23,16,8,1,1.8,80,90,500
+ChickenKeema,Main Course,Bowl,150g,280,24,17,8,1.5,2.2,50,70,550
+ChickenShaamKebab,Main Course,Plate,100g,260,20,16,8,1.5,1.5,30,40,500
+ChickenTangriKebab,Main Course,Plate,150g,300,28,18,5,0.5,1.8,40,50,600
+ChickenReshmiKebab,Main Course,Plate,150g,280,27,15,6,0.5,1.5,60,50,550
+ChickenMalaiKebab,Main Course,Plate,150g,320,26,20,6,0.5,1.5,100,60,550
+ChickenSeekhKebab,Main Course,Plate,100g,250,22,15,6,1,2,30,40,600
+ChickenShamiKebab,Main Course,Plate,100g,240,21,14,7,1.5,1.8,35,45,550
+ChickenBotiKebab,Main Course,Plate,100g,270,26,16,5,0.5,2,30,40,600
+ChickenKalmiKebab,Main Course,Plate,150g,310,28,19,5,0.5,1.8,40,50,600
+ChickenGheeRoast,Main Course,Plate,150g,350,25,24,7,0.5,1.5,50,80,650
+ChickenKolhapuri,Main Course,Bowl,150g,300,23,19,9,1.5,1.8,40,70,600
+ChickenHyderabadi,Main Course,Bowl,150g,310,23,20,9,1.2,1.6,45,80,550
+ChickenLucknowi,Main Course,Bowl,150g,320,24,20,10,1,1.5,60,90,500
+ChickenPunjabi,Main Course,Bowl,150g,290,22,18,9,1.5,1.8,50,70,520
+ChickenAmritsari,Main Course,Bowl,150g,300,23,19,9,1.5,1.8,50,70,550
+ChickenBengali,Main Course,Bowl,150g,270,21,17,9,1.5,1.5,45,60,500
+ChickenKashmiri,Main Course,Bowl,150g,330,22,21,11,1.5,1.5,60,100,500
+ChickenGoan,Main Course,Bowl,150g,310,23,20,9,1.2,1.6,40,60,550
+ChickenMangalorean,Main Course,Bowl,150g,320,23,21,9,1.5,1.5,50,70,550
+ChickenMalwani,Main Course,Bowl,150g,310,23,20,9,1.5,1.5,45,60,550
+ChickenAwadhi,Main Course,Bowl,150g,320,24,20,10,1,1.5,60,90,500
+ChickenNawabi,Main Course,Bowl,150g,340,24,22,11,1,1.5,80,100,550
+ChickenAfghani,Main Course,Plate,150g,330,26,21,7,0.5,1.5,90,70,550
+ChickenTurkish,Main Course,Plate,150g,300,25,18,9,1,1.5,50,60,550
+ChickenChinese,Main Course,Plate,150g,280,22,16,12,1,1.2,30,50,700
+ChickenSchezwan,Main Course,Plate,150g,290,22,17,13,1.5,1.2,30,60,800
+ChickenManchurian,Main Course,Bowl,150g,280,20,18,12,1,1.2,30,50,700
+ChickenChilli,Main Course,Bowl,150g,270,20,17,11,1,1.2,30,50,750
+ChickenHoneyGarlic,Main Course,Bowl,150g,300,21,16,18,1,1.2,30,50,600
+ChickenLemon,Main Course,Bowl,150g,240,22,12,10,1,1.2,30,50,550
+ChickenPepper,Main Course,Bowl,150g,250,23,13,10,1,1.2,30,50,550
+ChickenGarlic,Main Course,Bowl,150g,260,22,14,10,1,1.2,30,50,600
+ChickenDry,Main Course,Plate,150g,270,25,15,8,0.5,1.5,30,40,500
+ChickenGravy,Main Course,Bowl,150g,260,22,14,10,1,1.2,30,50,550
+ChickenSoup,Beverage,Bowl,250ml,150,12,6,10,0.5,0.8,20,40,600
+ChickenBiryani,Main Course,Plate,250g,400,20,15,45,2,2,40,80,700
+ChickenPulav,Main Course,Plate,250g,350,18,12,42,2,1.8,30,60,600
+ChickenFriedRice,Main Course,Plate,250g,380,18,14,45,2,1.8,30,60,750
+ChickenRice,Main Course,Plate,250g,320,17,10,40,1.5,1.5,30,50,500
+ChickenKhichdi,Main Course,Bowl,250g,300,16,8,40,3,1.8,40,70,500
+ChickenDalia,Main Course,Bowl,200g,280,16,7,38,4,1.8,40,70,450
+ChickenPasta,Main Course,Plate,200g,350,18,12,42,2,1.5,50,90,600
+ChickenSandwich,Breakfast,Piece,150g,300,18,12,30,2,1.5,80,100,550
+ChickenBurger,Breakfast,Piece,200g,450,20,20,45,2,2,100,120,700
+ChickenPizza,Main Course,Piece,150g,400,18,18,40,2,1.5,200,150,750
+ChickenRoll,Snacks,Piece,150g,350,18,15,35,2,1.5,80,100,600
+ChickenWrap,Snacks,Piece,150g,320,18,13,32,2.5,1.5,70,90,550
+ChickenSalad,Healthy,Bowl,200g,200,25,8,8,3,2,50,150,400
+ChickenPopcorn,Snacks,Plate,100g,350,20,20,20,1,1.5,30,40,650
+ChickenNuggets,Snacks,Plate,100g,320,18,18,20,1,1.5,30,40,600
+ChickenWings,Snacks,Plate,150g,380,22,25,12,0.5,1.5,30,50,700
+ChickenLeg,Main Course,Piece,150g,300,25,18,5,0,1.8,30,50,500
+ChickenBreast,Main Course,Piece,150g,250,30,8,0,0,1.5,20,30,400
+ChickenLiver,Main Course,Bowl,100g,170,25,5,5,0,9,20,5000,300
+ChickenGizzard,Main Course,Bowl,100g,150,30,3,0,0,2.5,20,40,300
+ChickenHeart,Main Course,Bowl,100g,160,28,4,0,0,3.5,20,40,300
+ChickenNeck,Main Course,Bowl,100g,200,20,12,0,0,1.5,50,40,300
+MuttonRoganJosh,Main Course,Bowl,150g,350,22,25,8,1,3.5,40,60,550
+MuttonCurry,Main Course,Bowl,150g,320,20,22,8,1,3,30,50,500
+MuttonKeema,Main Course,Bowl,150g,300,22,20,6,1.5,3,30,40,550
+MuttonStew,Main Course,Bowl,200g,260,20,15,10,2,2.5,40,60,450
+MuttonDoPyaza,Main Course,Bowl,150g,330,21,23,8,1,3,30,50,520
+MuttonHandi,Main Course,Bowl,150g,340,22,24,8,1,3,35,50,550
+MuttonMasala,Main Course,Bowl,150g,310,21,21,8,1,3,30,50,500
+MuttonKorma,Main Course,Bowl,150g,360,20,26,10,1,2.5,60,80,550
+MuttonKadai,Main Course,Bowl,150g,320,22,22,8,1.5,3,40,60,580
+MuttonAchari,Main Course,Bowl,150g,330,21,23,8,1,3,30,50,600
+MuttonLababdar,Main Course,Bowl,150g,350,22,24,9,1,3,50,70,550
+MuttonHariyali,Main Course,Bowl,150g,300,23,19,7,2,3,40,150,500
+MuttonSukka,Main Course,Plate,150g,340,25,23,5,1,3.5,30,40,600
+MuttonGheeRoast,Main Course,Plate,150g,380,24,28,6,0.5,3,40,60,700
+MuttonKolhapuri,Main Course,Bowl,150g,330,22,23,8,1,3,35,50,650
+MuttonHyderabadi,Main Course,Bowl,150g,320,22,22,8,1,3,40,60,580
+MuttonLucknowi,Main Course,Bowl,150g,340,23,24,8,1,3,50,70,550
+MuttonPunjabi,Main Course,Bowl,150g,310,21,21,8,1,3,30,50,520
+MuttonAmritsari,Main Course,Bowl,150g,320,22,22,8,1,3,35,50,550
+MuttonBengali,Main Course,Bowl,150g,290,20,19,8,1,2.8,30,50,500
+MuttonKashmiri,Main Course,Bowl,150g,350,21,25,10,1,3,40,70,550
+MuttonGoan,Main Course,Bowl,150g,330,22,23,8,1,3,35,50,550
+MuttonMangalorean,Main Course,Bowl,150g,340,22,24,8,1,3,40,60,550
+MuttonMalwani,Main Course,Bowl,150g,330,22,23,8,1,3,35,50,550
+MuttonAwadhi,Main Course,Bowl,150g,340,23,24,8,1,3,50,70,520
+MuttonNawabi,Main Course,Bowl,150g,360,23,26,9,1,3,60,90,550
+MuttonAfghani,Main Course,Plate,150g,350,25,24,6,0.5,3,50,60,550
+MuttonSeekhKebab,Main Course,Plate,100g,280,22,18,6,1,3.5,30,40,650
+MuttonShamiKebab,Main Course,Plate,100g,270,21,17,7,1.5,3.2,35,45,600
+MuttonBotiKebab,Main Course,Plate,100g,290,25,18,5,0.5,3.5,30,40,650
+MuttonGaloutiKebab,Main Course,Plate,100g,310,18,24,5,0.5,3,40,50,550
+MuttonKakoriKebab,Main Course,Plate,100g,300,20,22,5,0.5,3,35,45,580
+MuttonShammiKebab,Main Course,Plate,100g,270,21,17,7,1.5,3.2,35,45,600
+MuttonPasanda,Main Course,Plate,150g,350,24,24,7,1,3,50,70,550
+MuttonChaap,Main Course,Plate,150g,380,26,27,6,0.5,3.5,40,60,650
+MuttonNalliNihari,Main Course,Bowl,200g,450,28,32,8,1,4,50,80,700
+MuttonPaya,Main Course,Bowl,200g,300,25,18,5,0.5,3.5,100,50,600
+MuttonBrainMasala,Main Course,Bowl,100g,220,18,14,4,0.5,2.5,20,30,400
+MuttonLiverMasala,Main Course,Bowl,100g,190,26,6,5,0.5,9,20,5000,300
+MuttonKidneyMasala,Main Course,Bowl,100g,180,25,5,5,0.5,4,20,40,300
+MuttonBiryani,Main Course,Plate,250g,550,22,25,55,2.5,3.5,50,100,800
+MuttonPulav,Main Course,Plate,250g,450,20,20,50,2,3,40,80,700
+MuttonRice,Main Course,Plate,250g,400,18,15,50,1.5,2.5,30,60,600
+MuttonKhichdi,Main Course,Bowl,250g,420,18,16,48,3.5,2.8,40,70,600
+MuttonDalia,Main Course,Bowl,200g,350,18,12,42,4.5,2.5,40,70,500
+MuttonPasta,Main Course,Plate,200g,400,20,18,45,2,2,50,90,650
+MuttonSandwich,Breakfast,Piece,150g,350,20,18,30,2,2,80,100,600
+MuttonBurger,Breakfast,Piece,200g,500,22,25,48,2,2.5,100,120,750
+MuttonRoll,Snacks,Piece,150g,400,20,20,35,2,2,80,100,650
+MuttonWrap,Snacks,Piece,150g,380,20,18,35,2.5,2,70,90,600
+MuttonSalad,Healthy,Bowl,200g,250,28,10,10,3,3,50,150,450
+EggCurry,Main Course,Bowl,150g,220,12,15,8,1,1.5,40,150,450
+AndaMasala,Main Course,Bowl,150g,210,12,14,8,1,1.5,40,150,450
+EggBhurji,Main Course,Bowl,100g,180,11,12,5,0.5,1.2,30,120,350
+BoiledEgg,Breakfast,Piece,50g,75,6,5,0.5,0,0.6,25,70,60
+FriedEgg,Breakfast,Piece,50g,90,6,7,0.5,0,0.6,25,70,80
+PoachedEgg,Breakfast,Piece,50g,70,6,4.5,0.5,0,0.6,25,70,60
+ScrambledEgg,Breakfast,Plate,100g,150,11,10,1,0,1.2,50,140,120
+EggOmelette,Breakfast,Piece,100g,160,11,11,2,0.5,1.2,50,140,250
+EggMasalaFry,Main Course,Plate,100g,190,11,13,5,1,1.2,40,130,350
+EggKorma,Main Course,Bowl,150g,240,12,16,9,0.5,1.2,60,150,400
+EggKadai,Main Course,Bowl,150g,220,12,14,8,1,1.2,40,150,450
+EggAchari,Main Course,Bowl,150g,220,12,14,8,1,1.2,40,150,480
+EggLababdar,Main Course,Bowl,150g,250,13,17,9,1,1.5,80,160,500
+EggHariyali,Main Course,Bowl,150g,210,12,13,8,2,1.5,50,300,400
+EggSukka,Main Course,Plate,150g,230,13,15,6,1,1.2,40,140,450
+EggKolhapuri,Main Course,Bowl,150g,230,12,15,8,1,1.5,40,150,500
+EggHyderabadi,Main Course,Bowl,150g,230,12,15,8,1,1.5,40,150,480
+EggPunjabi,Main Course,Bowl,150g,220,12,14,8,1,1.5,40,150,450
+EggBengali,Main Course,Bowl,150g,220,12,14,8,1,1.5,40,150,450
+EggKashmiri,Main Course,Bowl,150g,240,12,15,9,1,1.5,50,160,450
+EggBiryani,Main Course,Plate,250g,380,18,15,45,2,2.5,80,200,600
+EggPulav,Main Course,Plate,250g,350,16,12,42,2,2,60,180,500
+EggFriedRice,Main Course,Plate,250g,360,16,14,45,2,2,60,180,650
+EggRice,Main Course,Plate,250g,320,15,10,40,1.5,1.5,50,150,450
+EggKhichdi,Main Course,Bowl,250g,300,15,8,40,3,2,70,170,450
+EggPasta,Main Course,Plate,200g,340,16,14,40,2,1.5,80,180,550
+EggSandwich,Breakfast,Piece,150g,280,14,12,30,2,1.5,80,150,500
+EggBurger,Breakfast,Piece,200g,420,16,18,45,2,2,100,180,650
+EggRoll,Snacks,Piece,150g,320,15,14,35,2,1.5,80,150,550
+EggWrap,Snacks,Piece,150g,300,15,12,32,2.5,1.5,70,150,500
+EggSalad,Healthy,Bowl,200g,180,15,10,8,3,2,60,180,400
+FishCurry,Main Course,Bowl,150g,180,20,8,6,0.5,1,30,40,400
+FishFry,Main Course,Plate,150g,250,22,15,6,0.5,1,30,40,500
+PrawnMasala,Main Course,Bowl,150g,200,22,8,8,0.5,2,50,50,500
+FishTikka,Main Course,Plate,150g,220,24,10,5,0.5,1,30,40,500
+FishMasala,Main Course,Bowl,150g,190,20,9,6,0.5,1,30,40,450
+FishKadai,Main Course,Bowl,150g,200,20,10,7,1,1,30,50,450
+FishAchari,Main Course,Bowl,150g,200,20,10,7,1,1,30,50,480
+FishLababdar,Main Course,Bowl,150g,230,21,13,8,1,1.2,50,70,500
+FishHariyali,Main Course,Bowl,150g,190,21,9,6,1.5,1,40,150,450
+FishSukka,Main Course,Plate,150g,220,22,12,5,0.5,1,30,40,500
+FishGheeRoast,Main Course,Plate,150g,280,21,18,6,0.5,1,40,60,550
+FishKolhapuri,Main Course,Bowl,150g,210,20,11,8,1,1,30,50,500
+FishHyderabadi,Main Course,Bowl,150g,210,20,11,8,1,1,30,50,500
+FishPunjabi,Main Course,Bowl,150g,200,20,10,7,1,1,30,50,450
+FishBengali,Main Course,Bowl,150g,200,20,10,7,1,1,30,50,450
+FishKashmiri,Main Course,Bowl,150g,220,20,11,9,1,1,40,60,450
+FishGoan,Main Course,Bowl,150g,210,20,11,8,1,1,30,50,500
+FishMangalorean,Main Course,Bowl,150g,210,20,11,8,1,1,30,50,500
+FishMalwani,Main Course,Bowl,150g,210,20,11,8,1,1,30,50,500
+FishAwadhi,Main Course,Bowl,150g,220,21,12,8,0.5,1.2,40,60,500
+FishNawabi,Main Course,Bowl,150g,240,21,14,9,0.5,1.2,50,70,550
+FishAfghani,Main Course,Plate,150g,230,22,13,6,0.5,1,40,50,500
+PrawnCurry,Main Course,Bowl,150g,210,22,10,8,0.5,2,50,50,500
+PrawnFry,Main Course,Plate,150g,260,24,15,7,0.5,2,50,50,550
+PrawnTikka,Main Course,Plate,150g,230,25,11,6,0.5,2,50,50,500
+PrawnMasala,Main Course,Bowl,150g,220,23,10,8,0.5,2,50,50,500
+PrawnKadai,Main Course,Bowl,150g,220,23,10,8,1,2,50,60,500
+PrawnAchari,Main Course,Bowl,150g,220,23,10,8,1,2,50,60,550
+PrawnLababdar,Main Course,Bowl,150g,250,24,13,9,1,2.2,70,80,550
+PrawnHariyali,Main Course,Bowl,150g,210,24,10,6,1.5,2,60,200,500
+PrawnSukka,Main Course,Plate,150g,240,25,13,5,0.5,2,50,50,550
+PrawnGheeRoast,Main Course,Plate,150g,300,24,19,7,0.5,2,60,80,600
+PrawnKolhapuri,Main Course,Bowl,150g,230,23,12,8,1,2,50,60,550
+PrawnHyderabadi,Main Course,Bowl,150g,230,23,12,8,1,2,50,60,550
+PrawnPunjabi,Main Course,Bowl,150g,220,23,11,8,1,2,50,60,500
+PrawnBengali,Main Course,Bowl,150g,220,23,11,8,1,2,50,60,500
+PrawnKashmiri,Main Course,Bowl,150g,240,23,12,9,1,2,60,80,500
+PrawnGoan,Main Course,Bowl,150g,230,23,12,8,1,2,50,60,550
+PrawnMangalorean,Main Course,Bowl,150g,230,23,12,8,1,2,50,60,550
+PrawnMalwani,Main Course,Bowl,150g,230,23,12,8,1,2,50,60,550
+PrawnAwadhi,Main Course,Bowl,150g,240,24,12,8,0.5,2.2,60,80,500
+PrawnNawabi,Main Course,Bowl,150g,260,24,15,9,0.5,2.2,80,100,550
+PrawnAfghani,Main Course,Plate,150g,250,25,14,6,0.5,2,60,70,500
+FishBiryani,Main Course,Plate,250g,420,25,16,45,2,2.5,60,150,700
+FishPulav,Main Course,Plate,250g,380,22,13,42,2,2,50,120,600
+FishFriedRice,Main Course,Plate,250g,400,22,15,45,2,2,50,120,750
+FishRice,Main Course,Plate,250g,350,20,11,40,1.5,1.8,40,100,500
+FishKhichdi,Main Course,Bowl,250g,330,20,9,40,3,2,60,140,500
+FishPasta,Main Course,Plate,200g,380,22,15,40,2,1.8,80,180,600
+FishSandwich,Breakfast,Piece,150g,320,20,14,30,2,1.5,80,150,550
+PrawnBiryani,Main Course,Plate,250g,450,28,18,45,2,2.5,60,150,750
+PrawnPulav,Main Course,Plate,250g,400,25,15,42,2,2,50,120,650
+PrawnFriedRice,Main Course,Plate,250g,420,25,17,45,2,2,50,120,800
+PrawnRice,Main Course,Plate,250g,370,23,13,40,1.5,1.8,40,100,550
+PrawnKhichdi,Main Course,Bowl,250g,350,23,11,40,3,2,60,140,550
+PrawnPasta,Main Course,Plate,200g,400,25,17,40,2,1.8,80,180,650
+PrawnSandwich,Breakfast,Piece,150g,340,23,16,30,2,1.5,80,150,600
+CrabMasala,Main Course,Bowl,150g,180,25,6,8,0.5,2,80,60,550
+CrabCurry,Main Course,Bowl,150g,170,24,5,8,0.5,2,70,50,500
+CrabFry,Main Course,Plate,150g,220,26,10,7,0.5,2,70,50,600
+LobsterMasala,Main Course,Bowl,150g,200,30,5,7,0.5,2.5,90,70,550
+LobsterCurry,Main Course,Bowl,150g,190,29,4,7,0.5,2.5,80,60,500
+LobsterFry,Main Course,Plate,150g,250,32,10,7,0.5,2.5,80,60,650
+SquidMasala,Main Course,Bowl,150g,190,28,5,7,0.5,2,40,50,500
+SquidCurry,Main Course,Bowl,150g,180,27,4,7,0.5,2,35,45,450
+SquidFry,Main Course,Plate,150g,230,29,10,6,0.5,2,40,50,600
+DuckCurry,Main Course,Bowl,150g,380,25,28,7,0.5,3,30,50,550
+DuckFry,Main Course,Plate,150g,420,28,30,6,0.5,3,30,50,650
+DuckMasala,Main Course,Bowl,150g,400,26,29,8,0.5,3,30,50,600
+QuailMasala,Main Course,Bowl,100g,210,25,10,5,0.5,2.5,20,30,350
+QuailFry,Main Course,Plate,100g,250,27,13,4,0.5,2.5,20,30,450
+QuailCurry,Main Course,Bowl,100g,220,26,11,5,0.5,2.5,20,30,400
+TurkeyMasala,Main Course,Bowl,150g,260,30,12,6,0.5,2,30,50,500
+TurkeyFry,Main Course,Plate,150g,300,32,15,5,0.5,2,30,50,600
+TurkeyCurry,Main Course,Bowl,150g,280,31,13,6,0.5,2,30,50,550
+PaneerButterMasalaJain,Jain,Bowl,100g,270,9,19,14,1.2,1.4,140,110,400
+DalTadkaJain,Jain,Bowl,100g,110,5,2.5,17,2.5,1,25,40,250
+DalMakhaniJain,Jain,Bowl,100g,190,5.5,11,14,3.5,1.2,45,70,350
+KadhiPakoraJain,Jain,Bowl,150g,240,6,11,25,1.5,1.2,50,70,400
+MatarPaneerJain,Jain,Bowl,100g,170,6.5,9,14,2,1.2,90,70,300
+PalakPaneerJain,Jain,Bowl,100g,150,7.5,7.5,11,2.5,2,140,180,300
+KadaiPaneerJain,Jain,Bowl,100g,200,8,11,11,1.5,1.5,110,80,350
+PaneerLababdarJain,Jain,Bowl,100g,250,9,17,13,1.2,1.4,135,100,400
+MalaiKoftaJain,Jain,Bowl,100g,290,5.5,19,22,1.5,1.2,90,70,400
+VegKormaJain,Jain,Bowl,100g,130,3,5.5,15,2,0.8,30,50,250
+VegJalfreziJain,Jain,Bowl,100g,110,2.5,3.5,15,2,0.8,25,40,220
+MushroomMasalaJain,Jain,Bowl,100g,100,3.5,2.5,14,2,1.2,15,20,200
+MixVegJain,Jain,Bowl,100g,100,2.5,3,15,2.5,1,30,60,200
+DalFryJain,Jain,Bowl,100g,120,5,3,16,2.5,1,25,40,250
+YellowDalJain,Jain,Bowl,100g,100,4.5,2,16,2,0.8,20,30,200
+ChanaDalJain,Jain,Bowl,100g,130,5.5,2.5,18,3,1.2,35,50,250
+MasoorDalJain,Jain,Bowl,100g,110,5,1.5,16,2,1,30,40,200
+PaneerBhurjiJain,Jain,Bowl,100g,210,11,14,9,0.5,1.8,190,140,300
+ShahiPaneerJain,Jain,Bowl,100g,260,8.5,18,14,1,1.4,150,120,350
+PaneerPasandaJain,Jain,Bowl,100g,250,9.5,17,13,1,1.4,135,100,350
+PaneerKoftaJain,Jain,Bowl,100g,265,7.5,18,15,1.2,1.4,110,90,350
+PaneerAchariJain,Jain,Bowl,100g,210,8.5,14,9,1.5,1.4,100,70,350
+PaneerHyderabadiJain,Jain,Bowl,100g,230,9,15,11,1.5,1.5,115,110,350
+PaneerJalfreziJain,Jain,Bowl,100g,200,8,12,10,2,1.4,100,85,300
+PaneerMakhaniJain,Jain,Bowl,100g,260,8.5,18,12,1,1.2,130,120,350
+PaneerKaliMirchJain,Jain,Bowl,100g,240,9,16,11,1.2,1.4,125,90,300
+PaneerCornMasalaJain,Jain,Bowl,100g,220,7.5,14,14,2,1.2,90,70,300
+PaneerCapsicumJain,Jain,Bowl,100g,190,7.5,11,9,1.5,1,80,80,250
+PaneerDhoklaMasalaJain,Jain,Bowl,100g,230,7,13,19,1,0.8,70,50,300
+PaneerTawaMasalaJain,Jain,Bowl,100g,220,8.5,14,10,1.5,1.2,105,80,350
+PaneerKolhapuriJain,Jain,Bowl,100g,235,8,15,12,1.5,1.5,100,100,400
+PaneerLazeezJain,Jain,Bowl,100g,255,8.5,17,13,1.2,1.4,120,105,350
+PaneerChatpataJain,Jain,Bowl,100g,215,8,13,11,1.2,1.2,95,75,350
+PaneerShahiKormaJain,Jain,Bowl,100g,270,7.5,19,14,0.8,1.2,130,110,350
+PaneerPunjabiJain,Jain,Bowl,100g,240,9,16,10,1.5,1.4,115,90,350
+PaneerKarahiJain,Jain,Bowl,100g,210,8,13,9,1.5,1.2,100,80,350
+PaneerHandiJain,Jain,Bowl,100g,250,8.5,17,11,1.2,1.2,120,100,350
+PaneerNawabiJain,Jain,Bowl,100g,265,8,18,13,0.8,1.2,130,115,350
+PaneerLahoriJain,Jain,Bowl,100g,225,8.5,15,10,1.5,1.4,110,85,400
+PaneerMalaiJain,Jain,Bowl,100g,280,7,21,11,0.8,1,140,130,350
+PaneerBegumBaharJain,Jain,Bowl,100g,270,8,19,13,1,1.2,125,105,350
+PaneerAngaraJain,Jain,Bowl,100g,245,8.5,16,11,1.5,1.4,115,95,400
+PaneerKadaiStyleJain,Jain,Bowl,100g,215,8,13,10,1.5,1.2,105,85,350
+PaneerMasalaDryJain,Jain,Plate,100g,220,9,14,8,1.5,1.4,110,80,350
+PaneerStuffedCapsicumJain,Jain,Plate,150g,250,7.5,15,17,2.5,1.5,130,120,350
+MixVegKadhaiJain,Jain,Bowl,100g,110,2.5,4,15,2.5,1,30,60,200
+MixVegHandiJain,Jain,Bowl,100g,120,3,5,15,2,1,35,70,250
+MixVegKolhapuriJain,Jain,Bowl,100g,130,3,6,15,2.5,1.2,35,70,300
+MixVegJalfreziJain,Jain,Bowl,100g,110,2.5,4,15,2.5,1,30,60,200
+MixVegAchariJain,Jain,Bowl,100g,110,2.5,4,15,2.5,1,30,60,250
+MixVegPaneerJain,Jain,Bowl,100g,150,5.5,7,14,2,1.2,80,80,250
+MixVegCornJain,Jain,Bowl,100g,120,3,4,17,2.5,1,30,65,250
+MixVegMasalaJain,Jain,Bowl,100g,110,2.5,4,15,2.5,1,30,60,200
+DalPanchmelJain,Jain,Bowl,100g,120,5.5,3,17,3.5,1.2,35,45,250
+DalMoradabadiJain,Jain,Bowl,100g,100,5,1.5,17,2.5,1,25,35,200
+DalBukaraJain,Jain,Bowl,100g,200,6.5,12,15,3.5,1.4,50,75,350
+DalPalakJain,Jain,Bowl,100g,100,4.5,2,14,3,1.2,45,140,200
+DalMakhaniSlowCookedJain,Jain,Bowl,100g,195,6,12,14,3.5,1.4,50,80,350
+DalAmritsariJain,Jain,Bowl,100g,130,5.5,3.5,18,3.5,1.2,35,45,250
+DalSultaniJain,Jain,Bowl,100g,140,5.5,4.5,18,2.5,1.2,45,55,250
+DalJodhpuriJain,Jain,Bowl,100g,120,5,3,17,2.5,1,30,45,200
+DalMaharaniJain,Jain,Bowl,100g,150,5.5,5.5,17,3,1.2,45,65,250
+DalBanjaraJain,Jain,Bowl,100g,130,5.5,3.5,18,3.5,1.2,35,45,250
+DalMethiJain,Jain,Bowl,100g,110,4.5,2.5,16,3,1,35,75,200
+DalChanaPunjabiJain,Jain,Bowl,100g,140,6,3.5,20,3.5,1.2,40,45,250
+DalUradJain,Jain,Bowl,100g,130,5.5,2.5,19,3.5,1.2,35,35,200
+DalMoongJain,Jain,Bowl,100g,100,4.5,2,17,2.5,0.8,20,35,200
+DalMasoorPunjabiJain,Jain,Bowl,100g,115,5,2.5,17,2.5,1,30,45,200
+DalTadkaExtraSpicyJain,Jain,Bowl,100g,120,5,3,17,2.5,1,25,40,300
+KadhiGujaratiJain,Jain,Bowl,150g,210,5,8,25,1.5,1.2,50,60,380
+KadhiRajasthaniJain,Jain,Bowl,150g,230,6,10,26,1.5,1.2,55,65,420
+KadhiPaneerJain,Jain,Bowl,150g,280,10,15,25,1.5,1.8,150,110,480
+KadhiMethiJain,Jain,Bowl,150g,200,5,7,25,2.5,1.2,60,100,350
+KadhiPalakJain,Jain,Bowl,150g,190,5.5,7,22,3,1.5,70,180,340
+GatteKiSabziJain,Jain,Bowl,100g,190,7,8,20,2,1.5,40,30,350
+GatteKiSabziDryJain,Jain,Plate,100g,200,7.5,9,20,2,1.5,40,30,380
+GatteMasalaJain,Jain,Bowl,100g,190,7,8.5,20,2,1.5,40,30,360
+GatteKadhiJain,Jain,Bowl,150g,240,8,10,25,2,1.5,60,40,400
+GattePaneerJain,Jain,Bowl,100g,250,11,14,18,2,1.8,130,90,450
+GatteCornJain,Jain,Bowl,100g,200,7,8,22,3,1.5,40,60,350
+GatteHandiJain,Jain,Bowl,100g,210,7.5,9,20,2,1.5,40,35,380
+GatteAchariJain,Jain,Bowl,100g,200,7,8.5,20,2,1.5,40,30,390
+GattePunjabiJain,Jain,Bowl,100g,200,7.5,9,20,2,1.5,40,30,370
+KajuPaneerJain,Jain,Bowl,100g,320,9,22,18,1.5,1.8,140,100,450
+KajuKormaJain,Jain,Bowl,100g,340,7,24,20,1.5,1.8,110,80,400
+KajuMasalaJain,Jain,Bowl,100g,330,8,23,18,2,1.8,110,80,420
+KajuMushroomJain,Jain,Bowl,100g,310,8,21,18,2.5,1.8,100,70,400
+KajuCornJain,Jain,Bowl,100g,300,7.5,20,20,3,1.8,100,90,400
+KajuMatarJain,Jain,Bowl,100g,310,8,21,18,3,1.8,100,80,400
+KajuHandiJain,Jain,Bowl,100g,330,8,23,18,2,1.8,110,80,440
+KajuAchariJain,Jain,Bowl,100g,330,8,23,18,2,1.8,110,80,450
+KajuPunjabiJain,Jain,Bowl,100g,330,8.5,23,18,2,1.8,110,80,450
+KajuShahiJain,Jain,Bowl,100g,350,8,25,20,1,1.8,130,100,420
+KajuKadaiJain,Jain,Bowl,100g,320,8,22,18,2,1.8,110,80,460
+KajuPalakJain,Jain,Bowl,100g,300,8.5,20,15,3,2,140,180,400
+KajuPaneerTikkaJain,Jain,Plate,100g,330,12,22,15,1.5,2,180,110,500
+KajuKoftaJain,Jain,Bowl,100g,340,7,24,20,1.5,1.8,120,90,450
+KajuMixVegJain,Jain,Bowl,100g,290,7,19,18,3,1.5,90,80,380
+KajuMakhanaJain,Jain,Bowl,100g,320,6,21,22,2.5,1.5,90,50,300
+KajuPaneerMakhaniJain,Jain,Bowl,100g,350,9,25,18,1.2,1.8,150,130,480
+KajuKoftaShahiJain,Jain,Bowl,100g,360,7.5,26,20,1.2,1.8,140,100,460
+KajuKoftaKadhaiJain,Jain,Bowl,100g,340,7.5,24,20,2,1.8,120,90,480
+KajuKoftaMakhaniJain,Jain,Bowl,100g,360,7.5,26,20,1.2,1.8,140,100,480
+KajuKoftaLababdarJain,Jain,Bowl,100g,360,8,26,20,1.5,1.8,145,105,500
+KajuKoftaAchariJain,Jain,Bowl,100g,340,7.5,24,20,2,1.8,120,90,500
+KajuKoftaHandiJain,Jain,Bowl,100g,350,7.5,25,20,1.5,1.8,130,95,500
+KajuKoftaPaneerJain,Jain,Bowl,100g,370,11,26,18,1.5,2,180,120,520
+KajuKoftaMixVegJain,Jain,Bowl,100g,320,7,22,20,3,1.5,100,90,450
+KajuKoftaMatarJain,Jain,Bowl,100g,330,7.5,23,20,3,1.5,110,90,450
+MushroomMatarJain,Jain,Bowl,100g,120,4,5,15,3,1.5,25,40,280
+MushroomPalakJain,Jain,Bowl,100g,110,5,4,10,3,2,50,150,280
+MushroomMasalaDryJain,Jain,Plate,100g,120,4,6,12,2.5,1.5,20,30,300
+MushroomKadhaiJain,Jain,Bowl,100g,130,4.5,7,12,2.5,1.5,25,40,320
+MushroomHandiJain,Jain,Bowl,100g,150,4.5,9,12,2,1.5,30,45,350
+MushroomAchariJain,Jain,Bowl,100g,130,4,7,12,2.5,1.5,20,35,330
+MushroomCornJain,Jain,Bowl,100g,140,4.5,6,16,3,1.5,30,50,300
+MushroomPaneerJain,Jain,Bowl,100g,180,8,11,12,1.5,1.8,110,80,350
+MushroomCornPalakJain,Jain,Bowl,100g,130,5,5,14,3,1.8,50,160,320
+MushroomKaliMirchJain,Jain,Bowl,100g,140,4.5,9,10,2,1.5,25,40,350
+MushroomNawabiJain,Jain,Bowl,100g,170,5,11,12,1.5,1.5,40,50,380
+CornMasalaJain,Jain,Bowl,100g,150,4,6,20,2.5,1,20,40,300
+CornPalakJain,Jain,Bowl,100g,120,4.5,5,15,3,1.2,50,150,280
+CornMakhaniJain,Jain,Bowl,100g,180,4,10,18,2,1,40,70,350
+CornKadhaiJain,Jain,Bowl,100g,160,4.5,7,18,2,1,30,50,320
+CornPaneerJain,Jain,Bowl,100g,210,7.5,12,16,2,1.2,100,80,350
+CornMushroomJain,Jain,Bowl,100g,150,5,6,18,2.5,1.2,30,45,300
+CornHandiJain,Jain,Bowl,100g,170,4.5,8,18,2,1,35,55,350
+CornAchariJain,Jain,Bowl,100g,160,4,7,18,2,1,30,50,330
+CornNawabiJain,Jain,Bowl,100g,190,5,10,18,2,1,40,60,380
+CornLababdarJain,Jain,Bowl,100g,200,5.5,11,18,2,1.2,50,70,400
+LaukiKoftaJain,Jain,Bowl,150g,180,4,9,20,3,1.2,40,50,350
+LaukiMasalaJain,Jain,Bowl,150g,110,2,4,16,3.5,1,30,40,250
+LaukiChanaDalJain,Jain,Bowl,150g,140,5,3.5,20,4,1.2,40,40,300
+LaukiPaneerJain,Jain,Bowl,150g,160,6,7,17,3,1.2,90,70,300
+LaukiMakhaniJain,Jain,Bowl,150g,170,3,8,18,3,1,50,60,350
+LaukiKadhaiJain,Jain,Bowl,150g,120,2.5,5,16,3.5,1,30,40,300
+LaukiHandiJain,Jain,Bowl,150g,130,2.5,6,16,3,1,35,45,320
+LaukiAchariJain,Jain,Bowl,150g,120,2,5,16,3.5,1,30,40,300
+LaukiNawabiJain,Jain,Bowl,150g,160,3.5,8,17,3,1,40,50,350
+LaukiPalakJain,Jain,Bowl,150g,110,3,4,15,4,1.5,60,150,280
+BottleGourdMasalaJain,Jain,Bowl,150g,110,2,4,16,3.5,1,30,40,250
+PumpkinMasalaJain,Jain,Bowl,150g,100,2,3.5,15,3,0.8,25,200,200
+PumpkinMakhaniJain,Jain,Bowl,150g,160,2.5,8,18,2.5,0.8,40,250,300
+PumpkinKadhaiJain,Jain,Bowl,150g,110,2,4.5,16,2.5,0.8,25,200,250
+PumpkinHandiJain,Jain,Bowl,150g,120,2,5,16,2.5,0.8,30,200,280
+PumpkinAchariJain,Jain,Bowl,150g,110,2,4.5,16,3,0.8,25,200,250
+PumpkinPaneerJain,Jain,Bowl,150g,160,6,8,16,2,1.2,90,250,300
+PumpkinCornJain,Jain,Bowl,150g,130,3,4.5,19,3,1,30,210,250
+PumpkinNawabiJain,Jain,Bowl,150g,150,3,7,17,2.5,0.8,40,220,300
+PumpkinLababdarJain,Jain,Bowl,150g,170,3,9,17,2.5,0.8,45,230,350
+PumpkinPalakJain,Jain,Bowl,150g,110,3,4,15,4,1.5,60,350,250
+CapsicumMasalaJain,Jain,Bowl,150g,90,2,3,14,3,0.8,20,80,200
+CapsicumPaneerJain,Jain,Bowl,150g,150,6.5,8,13,2.5,1.2,90,100,300
+CapsicumCornJain,Jain,Bowl,150g,120,3.5,4,17,3,1,30,90,250
+CapsicumKadhaiJain,Jain,Bowl,150g,100,2,4,14,3,0.8,20,80,250
+CapsicumHandiJain,Jain,Bowl,150g,110,2,5,14,3,0.8,25,85,280
+CapsicumAchariJain,Jain,Bowl,150g,100,2,4,14,3,0.8,20,80,250
+CapsicumMakhaniJain,Jain,Bowl,150g,150,2.5,8,16,2.5,0.8,35,100,300
+CapsicumNawabiJain,Jain,Bowl,150g,140,3,7,15,2.5,0.8,30,90,300
+CapsicumLababdarJain,Jain,Bowl,150g,160,3,9,16,2.5,0.8,40,100,350
+CapsicumPalakJain,Jain,Bowl,150g,100,3,3.5,13,3.5,1.5,55,200,250
+PeasMasalaJain,Jain,Bowl,150g,140,5,3.5,22,4,1.5,30,60,250
+PeasPaneerJain,Jain,Bowl,150g,200,8,10,18,3,1.8,100,90,350
+PeasCornJain,Jain,Bowl,150g,160,5,4.5,24,4,1.5,30,70,300
+PeasKadhaiJain,Jain,Bowl,150g,150,5,5,21,3.5,1.5,30,60,300
+PeasHandiJain,Jain,Bowl,150g,160,5,6,21,3.5,1.5,35,65,320
+PeasAchariJain,Jain,Bowl,150g,150,5,5,21,3.5,1.5,30,60,300
+PeasMakhaniJain,Jain,Bowl,150g,190,5.5,9,22,3,1.5,40,80,350
+PeasNawabiJain,Jain,Bowl,150g,180,5.5,8,21,3,1.5,40,70,350
+PeasLababdarJain,Jain,Bowl,150g,200,5.5,10,22,3,1.5,45,80,400
+PeasPalakJain,Jain,Bowl,150g,140,5.5,4,18,4,2,60,200,300
+BeansMasalaJain,Jain,Bowl,150g,100,3,3,15,4,1.2,40,50,200
+BeansPaneerJain,Jain,Bowl,150g,160,7.5,8,14,3,1.5,110,80,300
+BeansCornJain,Jain,Bowl,150g,130,4,4,19,3.5,1.2,40,60,250
+BeansKadhaiJain,Jain,Bowl,150g,110,3,4,14,3.5,1.2,40,50,250
+BeansHandiJain,Jain,Bowl,150g,120,3,5,14,3.5,1.2,45,55,280
+BeansAchariJain,Jain,Bowl,150g,110,3,4,14,3.5,1.2,40,50,250
+BeansMakhaniJain,Jain,Bowl,150g,150,3.5,8,16,3,1.2,50,70,300
+BeansNawabiJain,Jain,Bowl,150g,140,4,7,15,3,1.2,45,60,300
+BeansLababdarJain,Jain,Bowl,150g,160,4,9,16,3,1.2,55,80,350
+BeansPalakJain,Jain,Bowl,150g,100,3.5,3.5,12,4,1.8,65,200,250
+RawBananaMasalaJain,Jain,Bowl,150g,140,2,4,25,3,1,20,30,250
+RawBananaKoftaJain,Jain,Bowl,150g,200,3,9,27,3,1.2,30,40,350
+RawBananaPaneerJain,Jain,Bowl,150g,190,6,8,23,2.5,1.5,90,60,300
+RawBananaKadhaiJain,Jain,Bowl,150g,150,2,5,25,3,1,20,35,300
+RawBananaHandiJain,Jain,Bowl,150g,160,2,6,25,3,1,25,40,320
+RawBananaAchariJain,Jain,Bowl,150g,150,2,5,25,3,1,20,35,300
+RawBananaMakhaniJain,Jain,Bowl,150g,190,2.5,9,26,2.5,1,40,50,350
+RawBananaNawabiJain,Jain,Bowl,150g,180,3,8,25,2.5,1,30,45,350
+RawBananaLababdarJain,Jain,Bowl,150g,200,3,10,26,2.5,1,45,55,400
+RawBananaPalakJain,Jain,Bowl,150g,140,3,4,22,3.5,1.5,55,200,280
+ClusterBeansMasalaJain,Jain,Bowl,150g,90,3.5,2.5,13,5,1.5,50,40,200
+ClusterBeansPaneerJain,Jain,Bowl,150g,150,7.5,7.5,12,4,1.8,120,70,300
+ClusterBeansCornJain,Jain,Bowl,150g,120,4,3.5,17,4.5,1.5,50,50,250
+ClusterBeansKadhaiJain,Jain,Bowl,150g,100,3.5,3.5,13,4.5,1.5,50,45,250
+ClusterBeansHandiJain,Jain,Bowl,150g,110,3.5,4.5,13,4.5,1.5,55,50,280
+ClusterBeansAchariJain,Jain,Bowl,150g,100,3.5,3.5,13,4.5,1.5,50,45,250
+ClusterBeansMakhaniJain,Jain,Bowl,150g,140,4,7.5,14,4,1.5,60,60,300
+ClusterBeansNawabiJain,Jain,Bowl,150g,130,4,6.5,13,4,1.5,55,55,300
+ClusterBeansLababdarJain,Jain,Bowl,150g,150,4,8.5,14,4,1.5,65,70,350
+ClusterBeansPalakJain,Jain,Bowl,150g,90,4,3,11,5,2,75,200,250
+DrumstickMasalaJain,Jain,Bowl,150g,100,3,3,15,4,1.2,40,50,200
+DrumstickPaneerJain,Jain,Bowl,150g,160,7.5,8,14,3,1.5,110,80,300
+DrumstickCornJain,Jain,Bowl,150g,130,4,4,19,3.5,1.2,40,60,250
+DrumstickKadhaiJain,Jain,Bowl,150g,110,3,4,14,3.5,1.2,40,50,250
+DrumstickHandiJain,Jain,Bowl,150g,120,3,5,14,3.5,1.2,45,55,280
+DrumstickAchariJain,Jain,Bowl,150g,110,3,4,14,3.5,1.2,40,50,250
+DrumstickMakhaniJain,Jain,Bowl,150g,150,3.5,8,16,3,1.2,50,70,300
+DrumstickNawabiJain,Jain,Bowl,150g,140,4,7,15,3,1.2,45,60,300
+DrumstickLababdarJain,Jain,Bowl,150g,160,4,9,16,3,1.2,55,80,350
+DrumstickPalakJain,Jain,Bowl,150g,100,3.5,3.5,12,4,1.8,65,200,250
+SuranMasalaJain,Jain,Bowl,150g,160,3,4,28,3.5,1.5,30,40,250
+SuranKoftaJain,Jain,Bowl,150g,210,4,9,29,3,1.5,40,50,350
+SuranPaneerJain,Jain,Bowl,150g,200,7,8,26,3,1.8,100,70,300
+SuranKadhaiJain,Jain,Bowl,150g,170,3,5,28,3.5,1.5,35,45,300
+SuranHandiJain,Jain,Bowl,150g,180,3,6,28,3,1.5,40,50,320
+SuranAchariJain,Jain,Bowl,150g,170,3,5,28,3.5,1.5,35,45,300
+SuranMakhaniJain,Jain,Bowl,150g,210,3.5,9,29,3,1.5,50,60,350
+SuranNawabiJain,Jain,Bowl,150g,190,4,8,27,3,1.5,45,55,350
+SuranLababdarJain,Jain,Bowl,150g,220,4,10,29,3,1.5,55,65,400
+SuranPalakJain,Jain,Bowl,150g,160,4,5,25,4,2,65,200,280
+ArbiMasalaJain,Jain,Bowl,150g,150,3,4,26,4,1.2,30,40,250
+ArbiKoftaJain,Jain,Bowl,150g,200,4,9,27,3.5,1.5,40,50,350
+ArbiPaneerJain,Jain,Bowl,150g,190,7,8,24,3,1.5,100,70,300
+ArbiKadhaiJain,Jain,Bowl,150g,160,3,5,26,4,1.2,35,45,300
+ArbiHandiJain,Jain,Bowl,150g,170,3,6,26,3.5,1.2,40,50,320
+ArbiAchariJain,Jain,Bowl,150g,160,3,5,26,4,1.2,35,45,300
+ArbiMakhaniJain,Jain,Bowl,150g,200,3.5,9,27,3.5,1.2,50,60,350
+ArbiNawabiJain,Jain,Bowl,150g,180,4,8,25,3.5,1.2,45,55,350
+ArbiLababdarJain,Jain,Bowl,150g,210,4,10,27,3.5,1.2,55,65,400
+ArbiPalakJain,Jain,Bowl,150g,150,4,5,23,4.5,1.8,65,200,280
+JimikandMasalaJain,Jain,Bowl,150g,170,3,4,30,4,1.5,30,40,250
+JimikandKoftaJain,Jain,Bowl,150g,220,4,9,31,3.5,1.5,40,50,350
+JimikandPaneerJain,Jain,Bowl,150g,210,7,8,28,3.5,1.8,100,70,300
+JimikandKadhaiJain,Jain,Bowl,150g,180,3,5,30,4,1.5,35,45,300
+JimikandHandiJain,Jain,Bowl,150g,190,3,6,30,3.5,1.5,40,50,320
+JimikandAchariJain,Jain,Bowl,150g,180,3,5,30,4,1.5,35,45,300
+JimikandMakhaniJain,Jain,Bowl,150g,220,3.5,9,31,3.5,1.5,50,60,350
+JimikandNawabiJain,Jain,Bowl,150g,200,4,8,29,3.5,1.5,45,55,350
+JimikandLababdarJain,Jain,Bowl,150g,230,4,10,31,3.5,1.5,55,65,400
+JimikandPalakJain,Jain,Bowl,150g,170,4,5,27,4.5,1.8,65,200,280
+ChaiMasala,Beverage,Cup,150ml,60,1.5,2.5,8,0,0.5,40,10,25
+AdrakChai,Beverage,Cup,150ml,55,1.5,2.5,7.5,0,0.5,40,10,20
+ElaichiChai,Beverage,Cup,150ml,60,1.5,2.5,8,0,0.5,40,10,25
+TulsiChai,Beverage,Cup,150ml,50,1.5,2.5,7,0,0.5,40,10,20
+LemonTea,Beverage,Cup,150ml,30,0,0,7.5,0,0.2,5,5,10
+GreenTea,Beverage,Cup,150ml,5,0,0,1,0,0.1,5,5,5
+BlackTea,Beverage,Cup,150ml,5,0,0,1,0,0.1,5,5,5
+IceTeaLemon,Beverage,Glass,250ml,80,0,0,20,0,0.2,10,5,15
+IceTeaPeach,Beverage,Glass,250ml,90,0,0,22,0,0.2,10,5,15
+ColdCoffee,Beverage,Glass,250ml,250,5,8,40,0,0.5,150,100,100
+HotCoffee,Beverage,Cup,150ml,60,2,2.5,8,0,0.5,60,30,30
+EspressoIndianStyle,Beverage,Cup,50ml,20,1,0.5,3,0,0.2,10,5,5
+FilterCoffee,Beverage,Cup,150ml,70,2.5,3,9,0,0.5,80,40,40
+CappuccinoIndianStyle,Beverage,Cup,150ml,120,4,5,15,0,0.5,120,60,60
+MangoShake,Beverage,Glass,250ml,280,4,6,52,2,1,100,200,60
+BananaShake,Beverage,Glass,250ml,260,5,6,48,2.5,1,100,150,60
+StrawberryShake,Beverage,Glass,250ml,240,4,6,42,1.5,0.8,100,100,60
+ChocolateShake,Beverage,Glass,250ml,320,5,10,50,1,1.5,120,100,80
+VanillaShake,Beverage,Glass,250ml,280,4,8,46,0.5,0.8,110,100,60
+ButterscotchShake,Beverage,Glass,250ml,300,4,9,50,0.5,0.8,110,100,70
+OreoShake,Beverage,Glass,250ml,350,5,12,55,1,1.5,100,80,150
+KitkatShake,Beverage,Glass,250ml,360,5,14,55,1,1.5,100,80,150
+RoseMilk,Beverage,Glass,250ml,200,6,7,28,0,0.5,180,100,70
+BadamMilk,Beverage,Glass,250ml,250,8,10,30,2,1.5,200,100,80
+Thandai,Beverage,Glass,250ml,280,6,12,35,2,1.5,150,100,60
+KesarDoodh,Beverage,Glass,250ml,220,7,8,28,0,0.5,200,120,70
+HaldiDoodh,Beverage,Glass,250ml,180,7,6,25,0.5,0.8,200,150,60
+LassiSweet,Beverage,Glass,250ml,220,6,6,35,0,0.5,180,80,50
+LassiSalted,Beverage,Glass,250ml,150,6,6,15,0,0.5,180,80,300
+MasalaChaas,Beverage,Glass,250ml,80,4,3,8,0,0.5,120,60,350
+NimbuPani,Beverage,Glass,250ml,100,0.5,0,25,0.5,0.5,20,10,100
+Shikanji,Beverage,Glass,250ml,110,0.5,0,28,0.5,0.8,25,15,200
+Jaljeera,Beverage,Glass,250ml,40,0.5,0,10,0.5,1,20,10,400
+CoconutWater,Beverage,Glass,250ml,45,1,0,10,1,0.5,60,0,250
+RoohAfza,Beverage,Glass,250ml,160,0,0,40,0,0.2,10,5,30
+KhusSharbat,Beverage,Glass,250ml,180,0,0,45,0,0.2,10,5,40
+GulabSharbat,Beverage,Glass,250ml,170,0,0,42,0,0.2,10,5,40
+KokumSharbat,Beverage,Glass,250ml,120,0.5,0,30,1,0.5,20,10,50
+BelSharbat,Beverage,Glass,250ml,140,1,0.5,35,2,0.8,30,40,30
+AamPanna,Beverage,Glass,250ml,130,0.5,0,32,1,0.5,20,60,50
+BaelSharbat,Beverage,Glass,250ml,140,1,0.5,35,2,0.8,30,40,30
+SugarcaneJuice,Beverage,Glass,250ml,180,1,0,45,0,1,50,0,30
+WatermelonJuice,Beverage,Glass,250ml,90,1.5,0.5,22,1,0.8,20,150,10
+OrangeJuice,Beverage,Glass,250ml,120,2,0.5,28,0.5,0.5,30,200,10
+PineappleJuice,Beverage,Glass,250ml,130,1,0,32,1,0.5,30,40,10
+MixedFruitJuice,Beverage,Glass,250ml,140,1,0,35,1,0.5,30,100,20
+PomegranateJuice,Beverage,Glass,250ml,150,1.5,0.5,38,1,0.8,20,20,10
+GrapeJuice,Beverage,Glass,250ml,160,1,0,40,0.5,0.5,30,20,10
+PapayaJuice,Beverage,Glass,250ml,110,1,0.5,28,2,0.5,40,300,15
+CarrotBeetrootJuice,Beverage,Glass,250ml,100,2,0.5,24,3,1,50,1500,80
+ChocolateCake,Dessert,Slice,100g,350,4,15,50,1,1.5,40,50,200
+VanillaCake,Dessert,Slice,100g,330,3.5,14,50,0.5,1,30,40,180
+ButterscotchCake,Dessert,Slice,100g,360,4,16,52,0.5,1,40,50,220
+StrawberryCake,Dessert,Slice,100g,320,3.5,12,52,1,1,30,40,180
+BlackForestCake,Dessert,Slice,100g,340,4,15,48,1.5,1.5,40,50,200
+WhiteForestCake,Dessert,Slice,100g,340,4,15,48,0.5,1,50,60,200
+PineappleCake,Dessert,Slice,100g,320,3,12,52,1,0.8,30,40,180
+RedVelvetCake,Dessert,Slice,100g,360,4.5,17,48,0.5,1.2,50,60,250
+CoffeeCake,Dessert,Slice,100g,340,4,15,48,0.5,1,40,50,200
+FruitCake,Dessert,Slice,100g,350,4,14,55,2,1.5,40,50,150
+MarbleCake,Dessert,Slice,100g,340,4,15,48,0.5,1,40,50,200
+CarrotCake,Dessert,Slice,100g,360,4,16,50,2,1.5,50,800,200
+BlueberryCake,Dessert,Slice,100g,330,3.5,13,52,1.5,1,30,40,180
+MangoCake,Dessert,Slice,100g,320,3.5,12,52,1,1,30,150,180
+TruffleCake,Dessert,Slice,100g,400,5,22,45,1,2,60,80,250
+ChocoChipCake,Dessert,Slice,100g,370,4.5,17,50,1,1.8,50,60,220
+OreoCake,Dessert,Slice,100g,380,5,18,50,1,1.8,60,70,250
+KitkatCake,Dessert,Slice,100g,400,5,20,52,1,2,70,80,260
+NutellaCake,Dessert,Slice,100g,420,6,22,50,1.5,2,80,90,250
+RainbowCake,Dessert,Slice,100g,350,3.5,15,52,0.5,1,40,50,200
+Brownie,Dessert,Piece,50g,230,3,12,28,1.5,1.5,20,30,120
+ChocolateBrownie,Dessert,Piece,50g,240,3.5,13,28,1.5,1.8,25,35,130
+WalnutBrownie,Dessert,Piece,50g,260,4,15,26,2,1.8,30,40,120
+FudgeBrownie,Dessert,Piece,50g,250,3,14,28,1,1.5,25,35,120
+ChocoLavaCake,Dessert,Piece,100g,450,6,25,50,1,2,70,90,250
+CupcakeVanilla,Dessert,Piece,60g,200,2,9,28,0.2,0.5,20,25,100
+CupcakeChocolate,Dessert,Piece,60g,220,2.5,10,28,0.5,0.8,25,30,110
+CupcakeStrawberry,Dessert,Piece,60g,200,2,8,30,0.5,0.5,20,25,100
+CupcakeRedVelvet,Dessert,Piece,60g,230,2.5,11,28,0.2,0.8,30,35,120
+CupcakeBlueberry,Dessert,Piece,60g,200,2,8,30,0.8,0.5,20,25,100
+MuffinVanilla,Dessert,Piece,80g,280,3,12,40,0.5,0.8,40,50,150
+MuffinChocolate,Dessert,Piece,80g,300,3.5,14,40,1,1.2,45,60,160
+MuffinBlueberry,Dessert,Piece,80g,280,3,12,40,1.5,0.8,40,50,150
+CheesecakeClassic,Dessert,Slice,100g,350,6,25,30,0.5,0.8,150,200,300
+CheesecakeBlueberry,Dessert,Slice,100g,360,6,25,32,1,0.8,150,200,300
+CheesecakeStrawberry,Dessert,Slice,100g,360,6,25,32,1,0.8,150,200,300
+CheesecakeMango,Dessert,Slice,100g,360,6,25,32,1,0.8,150,250,300
+CheesecakeChocolate,Dessert,Slice,100g,400,7,28,30,1,1.2,160,220,350
+DonutGlazed,Dessert,Piece,60g,250,3,12,32,0.5,1,30,40,200
+DonutChocolate,Dessert,Piece,60g,280,3.5,15,32,0.8,1.2,35,45,220
+DonutStrawberry,Dessert,Piece,60g,260,3,13,32,0.5,1,30,40,200
+DonutCaramel,Dessert,Piece,60g,270,3,14,32,0.5,1,30,40,210
+PastryChocolate,Dessert,Piece,80g,280,3,16,30,1,1.5,40,50,150
+PastryPineapple,Dessert,Piece,80g,260,2.5,14,30,0.5,1,30,40,140
+PastryBlackForest,Dessert,Piece,80g,270,3,15,30,1,1.2,35,45,150
+PastryRedVelvet,Dessert,Piece,80g,290,3.5,17,28,0.5,1.2,40,50,160
+PastryTruffle,Dessert,Piece,80g,320,4,20,28,0.5,1.5,50,60,180
+IceCreamVanilla,Dessert,Scoop,100g,210,3,12,25,0,0.5,120,100,60
+IceCreamChocolate,Dessert,Scoop,100g,240,3.5,14,26,0.5,0.8,130,100,70
+IceCreamButterscotch,Dessert,Scoop,100g,250,3,14,28,0.5,0.5,120,100,80
+IceCreamStrawberry,Dessert,Scoop,100g,220,3,12,26,0.5,0.5,120,100,60
+IceCreamMango,Dessert,Scoop,100g,230,3,12,28,0.5,0.5,120,150,60
+IceCreamPista,Dessert,Scoop,100g,260,4,15,26,0.5,0.8,130,100,70
+IceCreamKesarPista,Dessert,Scoop,100g,270,4,15,28,0.5,0.8,130,100,70
+IceCreamChocoChip,Dessert,Scoop,100g,250,3.5,15,26,0.5,0.8,130,100,70
+IceCreamCoffee,Dessert,Scoop,100g,230,3,13,26,0,0.5,120,100,60
+IceCreamOreo,Dessert,Scoop,100g,270,3.5,15,30,0.5,0.8,120,100,90
+IceCreamKitkat,Dessert,Scoop,100g,280,3.5,16,30,0.5,0.8,120,100,90
+IceCreamNutella,Dessert,Scoop,100g,290,3.5,17,30,0.5,0.8,120,100,100
+IceCreamBlueberry,Dessert,Scoop,100g,220,3,12,26,0.5,0.5,120,100,60
+IceCreamBlackCurrant,Dessert,Scoop,100g,220,3,12,26,0.5,0.5,120,100,60
+IceCreamAnjeer,Dessert,Scoop,100g,240,3.5,13,28,0.5,0.8,130,100,60
+IceCreamSitaphal,Dessert,Scoop,100g,240,3.5,13,28,0.5,0.8,130,100,60
+IceCreamTenderCoconut,Dessert,Scoop,100g,230,3,13,26,0.5,0.5,120,100,60
+IceCreamRajbhog,Dessert,Scoop,100g,280,4,16,28,0.5,0.8,130,100,70
+IceCreamKajuDraksh,Dessert,Scoop,100g,270,4,15,28,0.5,0.8,130,100,70
+IceCreamCaramel,Dessert,Scoop,100g,250,3,14,28,0,0.5,120,100,80
+KulfiMalai,Dessert,Piece,100g,260,5,15,26,0,0.5,180,100,70
+KulfiPista,Dessert,Piece,100g,280,6,16,26,0.5,1,180,100,70
+KulfiKesar,Dessert,Piece,100g,270,5,15,28,0,0.5,180,120,70
+KulfiMango,Dessert,Piece,100g,250,5,14,28,0.5,0.5,180,150,70
+KulfiRose,Dessert,Piece,100g,250,5,14,28,0,0.5,180,100,70
+KulfiBadam,Dessert,Piece,100g,290,7,18,26,0.5,1.2,200,100,80
+Falooda,Dessert,Glass,250ml,300,5,8,50,1,1,150,80,100
+FaloodaKulfi,Dessert,Glass,250ml,400,8,18,50,1,1.5,200,100,150
+FaloodaRoyal,Dessert,Glass,250ml,350,6,12,55,1,1.2,180,100,120
+FaloodaChocolate,Dessert,Glass,250ml,380,6,15,55,1,1.5,180,100,150
+GulabJamun,Dessert,Piece,50g,200,2,8,30,0.5,0.5,30,10,60
+GulabJamunKesar,Dessert,Piece,50g,210,2,8,32,0.5,0.5,30,20,60
+GulabJamunRabri,Dessert,Bowl,100g,350,5,15,48,0.5,1,150,60,100
+Rasgulla,Dessert,Piece,50g,150,2.5,2,30,0.2,0.5,20,5,50
+RasgullaNolenGur,Dessert,Piece,50g,160,2.5,2,32,0.2,0.5,20,5,50
+RasMalai,Dessert,Piece,80g,220,5,10,25,0.5,0.8,120,50,100
+RasMalaiKesar,Dessert,Piece,80g,230,5,10,28,0.5,0.8,120,60,100
+Jalebi,Dessert,Piece,50g,250,1,8,40,0.2,0.5,10,5,80
+JalebiRabri,Dessert,Bowl,100g,350,4,15,50,0.5,1,150,60,120
+KajuKatli,Dessert,Piece,20g,100,2,4,14,0.5,0.5,10,2,20
+KajuPistaKatli,Dessert,Piece,20g,105,2,4.5,14,0.5,0.5,12,5,20
+BadamBarfi,Dessert,Piece,30g,150,3,6,20,0.5,0.8,40,10,30
+KesarBarfi,Dessert,Piece,30g,140,2.5,5,20,0.5,0.5,40,20,30
+PistaBarfi,Dessert,Piece,30g,145,3,6,20,0.5,0.5,45,15,30
+ChocolateBarfi,Dessert,Piece,30g,150,2.5,7,20,0.5,0.5,40,10,35
+BesanLadoo,Dessert,Piece,50g,250,4,12,32,1,1,30,20,50
+MotichoorLadoo,Dessert,Piece,50g,260,3.5,14,32,0.5,1,30,20,50
+BoondiLadoo,Dessert,Piece,50g,250,3.5,13,32,0.5,1,30,20,50
+CoconutLadoo,Dessert,Piece,40g,180,2,10,22,1,0.5,20,10,30
+TilLadoo,Dessert,Piece,40g,200,4,10,25,1.5,1.5,150,10,20
+GajarHalwa,Dessert,Bowl,100g,220,3,8,35,2,1,40,250,150
+MoongDalHalwa,Dessert,Bowl,100g,380,6,18,50,2,2,40,60,200
+SoojiHalwa,Dessert,Bowl,100g,330,3,14,50,0.5,1,20,30,250
+AttaHalwa,Dessert,Bowl,100g,360,4,18,45,1.5,1.5,30,50,200
+BadamHalwa,Dessert,Bowl,100g,400,8,22,45,2.5,2.5,150,50,250
+DoodhiHalwa,Dessert,Bowl,100g,210,3,7,35,1.5,0.8,40,60,150
+Kheer,Dessert,Bowl,100g,180,4,5,30,0.5,0.5,120,30,80
+Payasam,Dessert,Bowl,100g,190,4,6,30,0.5,0.5,120,30,80
+RiceKheer,Dessert,Bowl,100g,180,4,5,30,0.5,0.5,120,30,80
+VermicelliKheer,Dessert,Bowl,100g,190,4,5.5,30,0.5,0.5,120,30,80
+SagoKheer,Dessert,Bowl,100g,200,2,5,35,0.5,0.5,100,20,80
+Rabri,Dessert,Bowl,100g,250,5,12,30,0.5,0.5,150,60,100
+Shrikhand,Dessert,Bowl,100g,230,5,7,35,0,0.5,150,60,40
+ShrikhandAmrakhand,Dessert,Bowl,100g,240,5,7,38,0.5,0.5,150,150,40
+ShrikhandElaichi,Dessert,Bowl,100g,230,5,7,35,0,0.5,150,60,40
+Sandesh,Dessert,Piece,40g,120,4,5,15,0.2,0.5,100,30,30
+ChamCham,Dessert,Piece,50g,160,3,4,28,0.2,0.5,80,20,50
+Petha,Dessert,Piece,50g,180,0.5,0,45,0.5,0.2,10,5,20
+AgraPetha,Dessert,Piece,50g,180,0.5,0,45,0.5,0.2,10,5,20
+MishtiDoi,Dessert,Bowl,100g,150,4,5,22,0,0.5,120,40,40
+Phirni,Dessert,Bowl,100g,180,4,5,30,0.5,0.5,120,30,60
+PhirniKesar,Dessert,Bowl,100g,190,4,5,32,0.5,0.5,120,40,60
+PhirniBadam,Dessert,Bowl,100g,200,5,7,30,1,0.8,130,40,60
+DodaBarfi,Dessert,Piece,50g,220,3,10,30,1,1,50,30,80
+Patishapta,Dessert,Piece,60g,180,3,5,30,0.5,0.8,60,30,40
+Malpua,Dessert,Piece,60g,250,3,10,35,0.5,1,40,30,60
+MalpuaRabri,Dessert,Bowl,100g,350,5,15,48,0.5,1,150,60,100
+LobongoLatika,Dessert,Piece,60g,260,3,12,35,0.5,1,40,30,70
+Kalakand,Dessert,Piece,50g,180,5,8,22,0.2,0.5,150,50,50
+MysorePak,Dessert,Piece,50g,280,3,18,25,0.2,0.5,40,30,80
+PuranPoli,Dessert,Piece,100g,350,6,10,60,3,2,50,40,300
+Modak,Dessert,Piece,50g,160,1.5,4,30,0.5,0.5,15,10,50
+UkadicheModak,Dessert,Piece,50g,150,1.2,2.5,30,0.5,0.5,12,5,40
+Shira,Dessert,Bowl,100g,340,3,15,50,0.5,1,20,30,250
+KheerKadam,Dessert,Piece,50g,170,3,5,28,0.2,0.5,80,20,50
+Ledikeni,Dessert,Piece,50g,180,3,6,28,0.2,0.5,80,20,50
+Sitabhog,Dessert,Bowl,100g,300,5,10,48,0.5,1,100,30,80
+Mihidana,Dessert,Bowl,100g,320,4,12,50,0.5,1,80,20,100
+Chandrakala,Dessert,Piece,60g,260,3,12,35,0.5,1,40,30,70
+Suryakala,Dessert,Piece,60g,260,3,12,35,0.5,1,40,30,70
+Ghevar,Dessert,Piece,80g,350,4,20,40,0.5,1,60,50,150
+GhevarRabri,Dessert,Bowl,100g,400,6,22,45,0.5,1.2,160,80,200
+GhevarPlain,Dessert,Piece,80g,320,3.5,18,40,0.5,0.8,50,40,130
+SohanPapdi,Dessert,Piece,40g,200,2,10,26,0.5,0.5,30,10,40
+MakhanaKheer,Dessert,Bowl,100g,160,4,4,28,1.5,1,100,20,60
+PaneerKheer,Dessert,Bowl,100g,200,7,8,25,0.5,0.8,150,40,80
+AppleHalwa,Dessert,Bowl,100g,180,1,5,35,2,0.5,20,40,30
+PumpkinHalwa,Dessert,Bowl,100g,170,2,6,30,2.5,0.8,30,250,40
+AnjeerHalwa,Dessert,Bowl,100g,250,3,8,42,4,1.5,80,50,50
+BananaHalwa,Dessert,Bowl,100g,200,1.5,6,38,2,0.8,20,30,40
+CustardFruit,Dessert,Bowl,150g,180,3,4,32,2,0.5,100,60,50
+CustardVanilla,Dessert,Bowl,150g,160,3,5,26,0,0.5,100,50,60
+CustardChocolate,Dessert,Bowl,150g,180,3.5,6,28,0.5,0.8,100,50,70
+TriflePudding,Dessert,Bowl,150g,250,4,10,38,1,0.8,120,60,80
+CaramelCustard,Dessert,Piece,100g,220,5,8,32,0,0.5,120,60,70
+BreadPudding,Dessert,Piece,100g,260,5,10,38,0.5,1,120,60,100
+ChocolateMousse,Dessert,Bowl,100g,300,4,20,28,1,1.5,100,60,100
+MangoMousse,Dessert,Bowl,100g,260,3,15,28,0.5,0.5,100,150,80
+StrawberryMousse,Dessert,Bowl,100g,260,3,15,28,0.5,0.5,100,60,80

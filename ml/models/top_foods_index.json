@@ -1,0 +1,716 @@
+{
+  "Iron_mg": [
+    {
+      "Food_Name": "MuttonLiverMasala",
+      "Category": "Main Course",
+      "value_per100g": 9.0
+    },
+    {
+      "Food_Name": "ChickenLiver",
+      "Category": "Main Course",
+      "value_per100g": 9.0
+    },
+    {
+      "Food_Name": "RoastedChana",
+      "Category": "Snacks",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "FriedCashews",
+      "Category": "Snacks",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "MethiKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 4.333333333333334
+    },
+    {
+      "Food_Name": "Papadum",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "TilLaddu",
+      "Category": "Dessert",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "MuttonKidneyMasala",
+      "Category": "Main Course",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "Ambode",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "Khakhra",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "MasalaPeanuts",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "MasalaVada",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "MasalaKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 4.0
+    },
+    {
+      "Food_Name": "TilLadoo",
+      "Category": "Dessert",
+      "value_per100g": 3.75
+    },
+    {
+      "Food_Name": "ChocolateBrownie",
+      "Category": "Dessert",
+      "value_per100g": 3.6000000000000005
+    },
+    {
+      "Food_Name": "WalnutBrownie",
+      "Category": "Dessert",
+      "value_per100g": 3.6000000000000005
+    },
+    {
+      "Food_Name": "PeanutChikki",
+      "Category": "Dessert",
+      "value_per100g": 3.6000000000000005
+    },
+    {
+      "Food_Name": "ChickenHeart",
+      "Category": "Main Course",
+      "value_per100g": 3.5000000000000004
+    },
+    {
+      "Food_Name": "MuttonBotiKebab",
+      "Category": "Main Course",
+      "value_per100g": 3.5000000000000004
+    },
+    {
+      "Food_Name": "MuttonSeekhKebab",
+      "Category": "Main Course",
+      "value_per100g": 3.5000000000000004
+    }
+  ],
+  "Calcium_mg": [
+    {
+      "Food_Name": "TilLaddu",
+      "Category": "Dessert",
+      "value_per100g": 600.0
+    },
+    {
+      "Food_Name": "TilLadoo",
+      "Category": "Dessert",
+      "value_per100g": 375.0
+    },
+    {
+      "Food_Name": "Kalakand",
+      "Category": "Dessert",
+      "value_per100g": 300.0
+    },
+    {
+      "Food_Name": "Sandesh",
+      "Category": "Dessert",
+      "value_per100g": 250.0
+    },
+    {
+      "Food_Name": "RagiDosa",
+      "Category": "Breakfast",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "PaneerBhurji",
+      "Category": "Main Course",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "KulfiBadam",
+      "Category": "Dessert",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "CheeseMaggi",
+      "Category": "Snacks",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "PaneerBhurjiJain",
+      "Category": "Jain",
+      "value_per100g": 190.0
+    },
+    {
+      "Food_Name": "KajuPaneerTikka",
+      "Category": "Main Course",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KajuKoftaPaneer",
+      "Category": "Main Course",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KulfiRose",
+      "Category": "Dessert",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KulfiKesar",
+      "Category": "Dessert",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KulfiPista",
+      "Category": "Dessert",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KulfiMango",
+      "Category": "Dessert",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "ParathaPaneer",
+      "Category": "Breakfast",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KulfiMalai",
+      "Category": "Dessert",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KajuKoftaPaneerJain",
+      "Category": "Jain",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KajuPaneerTikkaJain",
+      "Category": "Jain",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "ChilliPaneer",
+      "Category": "Main Course",
+      "value_per100g": 166.66666666666669
+    }
+  ],
+  "Protein_g": [
+    {
+      "Food_Name": "ChickenGizzard",
+      "Category": "Main Course",
+      "value_per100g": 30.0
+    },
+    {
+      "Food_Name": "ChickenHeart",
+      "Category": "Main Course",
+      "value_per100g": 28.000000000000004
+    },
+    {
+      "Food_Name": "QuailFry",
+      "Category": "Main Course",
+      "value_per100g": 27.0
+    },
+    {
+      "Food_Name": "MuttonLiverMasala",
+      "Category": "Main Course",
+      "value_per100g": 26.0
+    },
+    {
+      "Food_Name": "QuailCurry",
+      "Category": "Main Course",
+      "value_per100g": 26.0
+    },
+    {
+      "Food_Name": "ChickenBotiKebab",
+      "Category": "Main Course",
+      "value_per100g": 26.0
+    },
+    {
+      "Food_Name": "ChickenLiver",
+      "Category": "Main Course",
+      "value_per100g": 25.0
+    },
+    {
+      "Food_Name": "QuailMasala",
+      "Category": "Main Course",
+      "value_per100g": 25.0
+    },
+    {
+      "Food_Name": "MuttonBotiKebab",
+      "Category": "Main Course",
+      "value_per100g": 25.0
+    },
+    {
+      "Food_Name": "MuttonKidneyMasala",
+      "Category": "Main Course",
+      "value_per100g": 25.0
+    },
+    {
+      "Food_Name": "MasalaPeanuts",
+      "Category": "Snacks",
+      "value_per100g": 24.0
+    },
+    {
+      "Food_Name": "MuttonSeekhKebab",
+      "Category": "Main Course",
+      "value_per100g": 22.0
+    },
+    {
+      "Food_Name": "ChickenSeekhKebab",
+      "Category": "Main Course",
+      "value_per100g": 22.0
+    },
+    {
+      "Food_Name": "LobsterFry",
+      "Category": "Main Course",
+      "value_per100g": 21.333333333333336
+    },
+    {
+      "Food_Name": "TurkeyFry",
+      "Category": "Main Course",
+      "value_per100g": 21.333333333333336
+    },
+    {
+      "Food_Name": "ChickenShamiKebab",
+      "Category": "Main Course",
+      "value_per100g": 21.0
+    },
+    {
+      "Food_Name": "MuttonShamiKebab",
+      "Category": "Main Course",
+      "value_per100g": 21.0
+    },
+    {
+      "Food_Name": "MuttonShammiKebab",
+      "Category": "Main Course",
+      "value_per100g": 21.0
+    },
+    {
+      "Food_Name": "TurkeyCurry",
+      "Category": "Main Course",
+      "value_per100g": 20.666666666666668
+    },
+    {
+      "Food_Name": "RoastedChana",
+      "Category": "Snacks",
+      "value_per100g": 20.0
+    }
+  ],
+  "Fiber_g": [
+    {
+      "Food_Name": "RoastedChana",
+      "Category": "Snacks",
+      "value_per100g": 12.0
+    },
+    {
+      "Food_Name": "MethiKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 8.333333333333332
+    },
+    {
+      "Food_Name": "Khakhra",
+      "Category": "Snacks",
+      "value_per100g": 6.666666666666667
+    },
+    {
+      "Food_Name": "MasalaKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 6.666666666666667
+    },
+    {
+      "Food_Name": "MakhanaFry",
+      "Category": "Snacks",
+      "value_per100g": 6.0
+    },
+    {
+      "Food_Name": "TilLaddu",
+      "Category": "Dessert",
+      "value_per100g": 6.0
+    },
+    {
+      "Food_Name": "MasalaMakhana",
+      "Category": "Snacks",
+      "value_per100g": 6.0
+    },
+    {
+      "Food_Name": "ChanaSalad",
+      "Category": "Healthy",
+      "value_per100g": 6.0
+    },
+    {
+      "Food_Name": "MasalaPeanuts",
+      "Category": "Snacks",
+      "value_per100g": 6.0
+    },
+    {
+      "Food_Name": "CholeMasala",
+      "Category": "Main Course",
+      "value_per100g": 5.5
+    },
+    {
+      "Food_Name": "MoongSalad",
+      "Category": "Healthy",
+      "value_per100g": 5.5
+    },
+    {
+      "Food_Name": "CholePunjabi",
+      "Category": "Main Course",
+      "value_per100g": 5.5
+    },
+    {
+      "Food_Name": "CholeAmritsari",
+      "Category": "Main Course",
+      "value_per100g": 5.5
+    },
+    {
+      "Food_Name": "CholeMasalaDry",
+      "Category": "Main Course",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "Papadum",
+      "Category": "Snacks",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "RajmaPunjabi",
+      "Category": "Main Course",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "RajmaKashmiri",
+      "Category": "Main Course",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "CholePalak",
+      "Category": "Main Course",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "SproutedSalad",
+      "Category": "Healthy",
+      "value_per100g": 5.0
+    },
+    {
+      "Food_Name": "PindiChole",
+      "Category": "Main Course",
+      "value_per100g": 5.0
+    }
+  ],
+  "Vit_A_mcg": [
+    {
+      "Food_Name": "ChickenLiver",
+      "Category": "Main Course",
+      "value_per100g": 5000.0
+    },
+    {
+      "Food_Name": "MuttonLiverMasala",
+      "Category": "Main Course",
+      "value_per100g": 5000.0
+    },
+    {
+      "Food_Name": "CarrotCake",
+      "Category": "Dessert",
+      "value_per100g": 800.0
+    },
+    {
+      "Food_Name": "CarrotBeetrootJuice",
+      "Category": "Beverage",
+      "value_per100g": 600.0
+    },
+    {
+      "Food_Name": "ChickenSaag",
+      "Category": "Main Course",
+      "value_per100g": 333.33333333333337
+    },
+    {
+      "Food_Name": "GajarHalwa",
+      "Category": "Dessert",
+      "value_per100g": 250.0
+    },
+    {
+      "Food_Name": "PumpkinHalwa",
+      "Category": "Dessert",
+      "value_per100g": 250.0
+    },
+    {
+      "Food_Name": "CheesecakeMango",
+      "Category": "Dessert",
+      "value_per100g": 250.0
+    },
+    {
+      "Food_Name": "GajarHalwa",
+      "Category": "Dessert",
+      "value_per100g": 250.0
+    },
+    {
+      "Food_Name": "PumpkinPalakJain",
+      "Category": "Jain",
+      "value_per100g": 233.33333333333334
+    },
+    {
+      "Food_Name": "CheesecakeChocolate",
+      "Category": "Dessert",
+      "value_per100g": 220.00000000000003
+    },
+    {
+      "Food_Name": "CheesecakeClassic",
+      "Category": "Dessert",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "EggHariyali",
+      "Category": "Main Course",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "Pathrode",
+      "Category": "Breakfast",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "PalakPaneer",
+      "Category": "Main Course",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "CheesecakeBlueberry",
+      "Category": "Dessert",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "CheesecakeStrawberry",
+      "Category": "Dessert",
+      "value_per100g": 200.0
+    },
+    {
+      "Food_Name": "KajuPalakJain",
+      "Category": "Jain",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "PalakPaneerJain",
+      "Category": "Jain",
+      "value_per100g": 180.0
+    },
+    {
+      "Food_Name": "KajuPalak",
+      "Category": "Main Course",
+      "value_per100g": 180.0
+    }
+  ],
+  "Energy_kcal": [
+    {
+      "Food_Name": "FriedCashews",
+      "Category": "Snacks",
+      "value_per100g": 580.0
+    },
+    {
+      "Food_Name": "MysorePak",
+      "Category": "Dessert",
+      "value_per100g": 560.0
+    },
+    {
+      "Food_Name": "MotichoorLaddu",
+      "Category": "Dessert",
+      "value_per100g": 560.0
+    },
+    {
+      "Food_Name": "MasalaPeanuts",
+      "Category": "Snacks",
+      "value_per100g": 560.0
+    },
+    {
+      "Food_Name": "Nippattu",
+      "Category": "Snacks",
+      "value_per100g": 540.0
+    },
+    {
+      "Food_Name": "BesanLaddu",
+      "Category": "Dessert",
+      "value_per100g": 540.0
+    },
+    {
+      "Food_Name": "KajuPistaKatli",
+      "Category": "Dessert",
+      "value_per100g": 525.0
+    },
+    {
+      "Food_Name": "Kodubale",
+      "Category": "Snacks",
+      "value_per100g": 520.0
+    },
+    {
+      "Food_Name": "MotichoorLadoo",
+      "Category": "Dessert",
+      "value_per100g": 520.0
+    },
+    {
+      "Food_Name": "WalnutBrownie",
+      "Category": "Dessert",
+      "value_per100g": 520.0
+    },
+    {
+      "Food_Name": "PeanutChikki",
+      "Category": "Dessert",
+      "value_per100g": 520.0
+    },
+    {
+      "Food_Name": "FudgeBrownie",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "TilLadoo",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "SohanPapdi",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "Jalebi",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "BesanLadoo",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "BoondiLadoo",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "ChocolateBarfi",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "KajuKatli",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    },
+    {
+      "Food_Name": "BadamBarfi",
+      "Category": "Dessert",
+      "value_per100g": 500.0
+    }
+  ],
+  "Carbs_g": [
+    {
+      "Food_Name": "Petha",
+      "Category": "Dessert",
+      "value_per100g": 90.0
+    },
+    {
+      "Food_Name": "AgraPetha",
+      "Category": "Dessert",
+      "value_per100g": 90.0
+    },
+    {
+      "Food_Name": "MurmuraLaddu",
+      "Category": "Dessert",
+      "value_per100g": 90.0
+    },
+    {
+      "Food_Name": "Fryums",
+      "Category": "Snacks",
+      "value_per100g": 83.33333333333334
+    },
+    {
+      "Food_Name": "Jalebi",
+      "Category": "Dessert",
+      "value_per100g": 80.0
+    },
+    {
+      "Food_Name": "KajuKatli",
+      "Category": "Dessert",
+      "value_per100g": 70.0
+    },
+    {
+      "Food_Name": "KajuPistaKatli",
+      "Category": "Dessert",
+      "value_per100g": 70.0
+    },
+    {
+      "Food_Name": "MotichoorLaddu",
+      "Category": "Dessert",
+      "value_per100g": 70.0
+    },
+    {
+      "Food_Name": "PistaBarfi",
+      "Category": "Dessert",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "BadamBarfi",
+      "Category": "Dessert",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "MasalaKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "Khakhra",
+      "Category": "Snacks",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "ChocolateBarfi",
+      "Category": "Dessert",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "MethiKhakhra",
+      "Category": "Snacks",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "KesarBarfi",
+      "Category": "Dessert",
+      "value_per100g": 66.66666666666666
+    },
+    {
+      "Food_Name": "MaggiMasala",
+      "Category": "Snacks",
+      "value_per100g": 65.0
+    },
+    {
+      "Food_Name": "SohanPapdi",
+      "Category": "Dessert",
+      "value_per100g": 65.0
+    },
+    {
+      "Food_Name": "BoondiLadoo",
+      "Category": "Dessert",
+      "value_per100g": 64.0
+    },
+    {
+      "Food_Name": "RasgullaNolenGur",
+      "Category": "Dessert",
+      "value_per100g": 64.0
+    },
+    {
+      "Food_Name": "MotichoorLadoo",
+      "Category": "Dessert",
+      "value_per100g": 64.0
+    }
+  ]
+}

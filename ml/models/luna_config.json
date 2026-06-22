@@ -1,0 +1,179 @@
+{
+  "version": "1.0.0",
+  "norm_cols": [
+    "Energy_kcal_per100g",
+    "Protein_g_per100g",
+    "Fat_g_per100g",
+    "Carbs_g_per100g",
+    "Fiber_g_per100g",
+    "Iron_mg_per100g",
+    "Calcium_mg_per100g",
+    "Vit_A_mcg_per100g",
+    "Sodium_mg_per100g"
+  ],
+  "nutrient_cols": [
+    "Energy_kcal",
+    "Protein_g",
+    "Fat_g",
+    "Carbs_g",
+    "Fiber_g",
+    "Iron_mg",
+    "Calcium_mg",
+    "Vit_A_mcg",
+    "Sodium_mg"
+  ],
+  "phase_multipliers": {
+    "Menstrual": {
+      "Iron_mg": 1.5,
+      "Calcium_mg": 1.2,
+      "Fiber_g": 1.1,
+      "Energy_kcal": 1.05,
+      "Protein_g": 1.0,
+      "Vit_A_mcg": 1.0,
+      "Fat_g": 1.0,
+      "Carbs_g": 1.0,
+      "Sodium_mg": 1.0
+    },
+    "Follicular": {
+      "Iron_mg": 1.1,
+      "Protein_g": 1.2,
+      "Energy_kcal": 1.0,
+      "Calcium_mg": 1.0,
+      "Fiber_g": 1.1,
+      "Fat_g": 1.0,
+      "Carbs_g": 1.1,
+      "Vit_A_mcg": 1.1,
+      "Sodium_mg": 1.0
+    },
+    "Ovulatory": {
+      "Protein_g": 1.15,
+      "Fiber_g": 1.2,
+      "Iron_mg": 1.0,
+      "Calcium_mg": 1.0,
+      "Energy_kcal": 1.05,
+      "Fat_g": 1.0,
+      "Carbs_g": 1.0,
+      "Vit_A_mcg": 1.2,
+      "Sodium_mg": 1.0
+    },
+    "Luteal": {
+      "Calcium_mg": 1.3,
+      "Fiber_g": 1.3,
+      "Iron_mg": 1.0,
+      "Protein_g": 1.1,
+      "Energy_kcal": 1.1,
+      "Fat_g": 1.1,
+      "Carbs_g": 1.15,
+      "Vit_A_mcg": 1.0,
+      "Sodium_mg": 0.9
+    },
+    "Pregnancy": {
+      "Iron_mg": 2.0,
+      "Calcium_mg": 1.5,
+      "Protein_g": 1.5,
+      "Energy_kcal": 1.3,
+      "Fiber_g": 1.2,
+      "Vit_A_mcg": 1.3,
+      "Fat_g": 1.1,
+      "Carbs_g": 1.1,
+      "Sodium_mg": 1.0
+    }
+  },
+  "symptom_nutrient_map": {
+    "fatigue": [
+      "Iron_mg",
+      "Energy_kcal",
+      "Protein_g"
+    ],
+    "cramps": [
+      "Calcium_mg",
+      "Fiber_g"
+    ],
+    "bloating": [
+      "Fiber_g",
+      "Sodium_mg"
+    ],
+    "mood_swings": [
+      "Calcium_mg",
+      "Carbs_g"
+    ],
+    "acne": [
+      "Vit_A_mcg",
+      "Fiber_g"
+    ],
+    "headache": [
+      "Iron_mg",
+      "Sodium_mg"
+    ],
+    "nausea": [
+      "Protein_g",
+      "Carbs_g"
+    ],
+    "backache": [
+      "Calcium_mg",
+      "Iron_mg"
+    ],
+    "insomnia": [
+      "Calcium_mg",
+      "Protein_g"
+    ],
+    "heavy_flow": [
+      "Iron_mg",
+      "Protein_g"
+    ]
+  },
+  "unit_to_grams": {
+    "g": 1.0,
+    "gram": 1.0,
+    "grams": 1.0,
+    "kg": 1000.0,
+    "kilogram": 1000.0,
+    "ml": 1.0,
+    "milliliter": 1.0,
+    "millilitre": 1.0,
+    "l": 1000.0,
+    "liter": 1000.0,
+    "litre": 1000.0,
+    "cup": 240.0,
+    "cups": 240.0,
+    "tbsp": 15.0,
+    "tablespoon": 15.0,
+    "tablespoons": 15.0,
+    "tsp": 5.0,
+    "teaspoon": 5.0,
+    "teaspoons": 5.0,
+    "bowl": 200.0,
+    "bowls": 200.0,
+    "plate": 250.0,
+    "plates": 250.0,
+    "piece": 100.0,
+    "pieces": 100.0,
+    "packet": 100.0,
+    "serving": 100.0,
+    "servings": 100.0
+  },
+  "baseline_normal": {
+    "Required_Energy_kcal": 1815.3,
+    "Required_Protein_g": 61.5,
+    "Required_Fat_g": 50.4,
+    "Required_Carbs_g": 249.6,
+    "Required_Fiber_g": 25.0,
+    "Required_Iron_mg": 18.0,
+    "Required_Calcium_mg": 1000.0,
+    "Required_Vit_A_mcg": 700.0,
+    "Required_Sodium_mg": 2000.0
+  },
+  "baseline_pregnant": {
+    "Required_Energy_kcal": 2334.7,
+    "Required_Protein_g": 60.0,
+    "Required_Fat_g": 64.9,
+    "Required_Carbs_g": 321.0,
+    "Required_Fiber_g": 25.0,
+    "Required_Iron_mg": 27.0,
+    "Required_Calcium_mg": 1000.0,
+    "Required_Vit_A_mcg": 700.0,
+    "Required_Sodium_mg": 2000.0
+  },
+  "deficiency_threshold": 75,
+  "top_k_suggestions": 5
+}

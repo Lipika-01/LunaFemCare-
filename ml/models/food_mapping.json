@@ -1,0 +1,8554 @@
+[
+  {
+    "frontend_label": "Poha",
+    "model_key": "Poha",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Upma",
+    "model_key": "Upma",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Idli",
+    "model_key": "Idli",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Masala Dosa",
+    "model_key": "MasalaDosa",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Medu Vada",
+    "model_key": "MeduVada",
+    "calories": 180.0,
+    "protein": 3.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Uttapam",
+    "model_key": "Uttapam",
+    "calories": 200.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Appam",
+    "model_key": "Appam",
+    "calories": 150.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Paniyaram",
+    "model_key": "Paniyaram",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Bread Pakora",
+    "model_key": "BreadPakora",
+    "calories": 280.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Aloo Bonda",
+    "model_key": "AlooBonda",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Mysore Bonda",
+    "model_key": "MysoreBonda",
+    "calories": 210.0,
+    "protein": 3.0,
+    "carbs": 27.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Mirchi Vada",
+    "model_key": "MirchiVada",
+    "calories": 250.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Pyaz Kachori",
+    "model_key": "PyazKachori",
+    "calories": 270.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Aloo Kachori",
+    "model_key": "AlooKachori",
+    "calories": 260.0,
+    "protein": 3.8,
+    "carbs": 31.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Dal Kachori",
+    "model_key": "DalKachori",
+    "calories": 265.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Samosa",
+    "model_key": "Samosa",
+    "calories": 260.0,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Aloo Samosa",
+    "model_key": "AlooSamosa",
+    "calories": 255.0,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fats": 13.5
+  },
+  {
+    "frontend_label": "Paneer Samosa",
+    "model_key": "PaneerSamosa",
+    "calories": 280.0,
+    "protein": 7.0,
+    "carbs": 25.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Veg Cutlet",
+    "model_key": "VegCutlet",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Bread Roll",
+    "model_key": "BreadRoll",
+    "calories": 210.0,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Sabudana Khichdi",
+    "model_key": "SabudanaKhichdi",
+    "calories": 230.0,
+    "protein": 1.5,
+    "carbs": 38.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Sabudana Vada",
+    "model_key": "SabudanaVada",
+    "calories": 240.0,
+    "protein": 2.0,
+    "carbs": 32.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Misal Pav",
+    "model_key": "MisalPav",
+    "calories": 300.0,
+    "protein": 8.0,
+    "carbs": 40.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Vada Pav",
+    "model_key": "VadaPav",
+    "calories": 280.0,
+    "protein": 6.0,
+    "carbs": 40.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Dabeli",
+    "model_key": "Dabeli",
+    "calories": 290.0,
+    "protein": 5.0,
+    "carbs": 42.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ragda Patties",
+    "model_key": "RagdaPatties",
+    "calories": 310.0,
+    "protein": 7.0,
+    "carbs": 45.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Aloo Tikki",
+    "model_key": "AlooTikki",
+    "calories": 220.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Pani Puri",
+    "model_key": "PaniPuri",
+    "calories": 180.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Sev Puri",
+    "model_key": "SevPuri",
+    "calories": 250.0,
+    "protein": 3.5,
+    "carbs": 35.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Dahi Puri",
+    "model_key": "DahiPuri",
+    "calories": 260.0,
+    "protein": 4.5,
+    "carbs": 32.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Bhel Puri",
+    "model_key": "BhelPuri",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Papdi Chaat",
+    "model_key": "PapdiChaat",
+    "calories": 240.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Raj Kachori",
+    "model_key": "RajKachori",
+    "calories": 300.0,
+    "protein": 5.0,
+    "carbs": 35.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Dhokla",
+    "model_key": "Dhokla",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Khandvi",
+    "model_key": "Khandvi",
+    "calories": 150.0,
+    "protein": 4.5,
+    "carbs": 24.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Fafda",
+    "model_key": "Fafda",
+    "calories": 320.0,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Jalebi Fafda",
+    "model_key": "JalebiFafda",
+    "calories": 380.0,
+    "protein": 3.0,
+    "carbs": 55.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Handvo",
+    "model_key": "Handvo",
+    "calories": 210.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Thepla",
+    "model_key": "Thepla",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Muthiya",
+    "model_key": "Muthiya",
+    "calories": 180.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Dal Vada",
+    "model_key": "DalVada",
+    "calories": 250.0,
+    "protein": 8.0,
+    "carbs": 30.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Batata Vada",
+    "model_key": "BatataVada",
+    "calories": 230.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Paratha Aloo",
+    "model_key": "ParathaAloo",
+    "calories": 240.0,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Paratha Paneer",
+    "model_key": "ParathaPaneer",
+    "calories": 280.0,
+    "protein": 9.0,
+    "carbs": 32.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Paratha Gobhi",
+    "model_key": "ParathaGobhi",
+    "calories": 210.0,
+    "protein": 4.5,
+    "carbs": 30.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Paratha Mooli",
+    "model_key": "ParathaMooli",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Paratha Pyaz",
+    "model_key": "ParathaPyaz",
+    "calories": 220.0,
+    "protein": 4.5,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Stuffed Kulcha",
+    "model_key": "StuffedKulcha",
+    "calories": 260.0,
+    "protein": 6.0,
+    "carbs": 38.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Chole Bhature",
+    "model_key": "CholeBhature",
+    "calories": 450.0,
+    "protein": 10.0,
+    "carbs": 55.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Bedmi Poori",
+    "model_key": "BedmiPoori",
+    "calories": 300.0,
+    "protein": 5.0,
+    "carbs": 38.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Nagori Halwa",
+    "model_key": "NagoriHalwa",
+    "calories": 350.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Luchi",
+    "model_key": "Luchi",
+    "calories": 320.0,
+    "protein": 5.0,
+    "carbs": 40.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Aloor Dom",
+    "model_key": "AloorDom",
+    "calories": 140.0,
+    "protein": 2.0,
+    "carbs": 18.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Kachori Bengali",
+    "model_key": "KachoriBengali",
+    "calories": 270.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Ghugni",
+    "model_key": "Ghugni",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 18.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Phuchka",
+    "model_key": "Phuchka",
+    "calories": 180.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Jhal Muri",
+    "model_key": "JhalMuri",
+    "calories": 200.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Moong Dal Chilla",
+    "model_key": "MoongDalChilla",
+    "calories": 160.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Besan Chilla",
+    "model_key": "BesanChilla",
+    "calories": 170.0,
+    "protein": 7.0,
+    "carbs": 25.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Paneer Chilla",
+    "model_key": "PaneerChilla",
+    "calories": 200.0,
+    "protein": 10.0,
+    "carbs": 22.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Oats Idli",
+    "model_key": "OatsIdli",
+    "calories": 140.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Ragi Dosa",
+    "model_key": "RagiDosa",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Set Dosa",
+    "model_key": "SetDosa",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 32.0,
+    "fats": 1.0
+  },
+  {
+    "frontend_label": "Neer Dosa",
+    "model_key": "NeerDosa",
+    "calories": 150.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 1.0
+  },
+  {
+    "frontend_label": "Pesarattu",
+    "model_key": "Pesarattu",
+    "calories": 170.0,
+    "protein": 9.0,
+    "carbs": 25.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Akki Roti",
+    "model_key": "AkkiRoti",
+    "calories": 200.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Jolada Roti",
+    "model_key": "JoladaRoti",
+    "calories": 210.0,
+    "protein": 4.0,
+    "carbs": 42.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Thalipeeth",
+    "model_key": "Thalipeeth",
+    "calories": 190.0,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Kanda Pohe",
+    "model_key": "KandaPohe",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dadpe Pohe",
+    "model_key": "DadpePohe",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Misal",
+    "model_key": "Misal",
+    "calories": 280.0,
+    "protein": 7.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Usal Pav",
+    "model_key": "UsalPav",
+    "calories": 270.0,
+    "protein": 6.0,
+    "carbs": 38.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Sabudana Thalipeeth",
+    "model_key": "SabudanaThalipeeth",
+    "calories": 220.0,
+    "protein": 2.0,
+    "carbs": 35.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Alu Vadi",
+    "model_key": "AluVadi",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Kothimbir Vadi",
+    "model_key": "KothimbirVadi",
+    "calories": 170.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Surali Vadi",
+    "model_key": "SuraliVadi",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 26.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Puran Poli",
+    "model_key": "PuranPoli",
+    "calories": 350.0,
+    "protein": 6.0,
+    "carbs": 60.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Modak",
+    "model_key": "Modak",
+    "calories": 320.0,
+    "protein": 3.0,
+    "carbs": 55.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Ukadiche Modak",
+    "model_key": "UkadicheModak",
+    "calories": 300.0,
+    "protein": 2.5,
+    "carbs": 58.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Shira",
+    "model_key": "Shira",
+    "calories": 340.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Suji Ka Halwa",
+    "model_key": "SujiKaHalwa",
+    "calories": 330.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Sheera",
+    "model_key": "Sheera",
+    "calories": 340.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Maggi Masala",
+    "model_key": "MaggiMasala",
+    "calories": 450.0,
+    "protein": 8.0,
+    "carbs": 65.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Cheese Maggi",
+    "model_key": "CheeseMaggi",
+    "calories": 500.0,
+    "protein": 12.0,
+    "carbs": 60.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Veg Sandwich",
+    "model_key": "VegSandwich",
+    "calories": 300.0,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Grilled Sandwich",
+    "model_key": "GrilledSandwich",
+    "calories": 320.0,
+    "protein": 8.5,
+    "carbs": 44.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Club Sandwich",
+    "model_key": "ClubSandwich",
+    "calories": 400.0,
+    "protein": 12.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Bombay Toast",
+    "model_key": "BombayToast",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 35.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Butter Toast",
+    "model_key": "ButterToast",
+    "calories": 260.0,
+    "protein": 4.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Garlic Bread",
+    "model_key": "GarlicBread",
+    "calories": 350.0,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Spring Roll",
+    "model_key": "SpringRoll",
+    "calories": 220.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Veg Momos",
+    "model_key": "VegMomos",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Paneer Momos",
+    "model_key": "PaneerMomos",
+    "calories": 220.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fried Momos",
+    "model_key": "FriedMomos",
+    "calories": 250.0,
+    "protein": 4.5,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chilli Paneer",
+    "model_key": "ChilliPaneer",
+    "calories": 280.0,
+    "protein": 12.0,
+    "carbs": 18.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Veg Manchurian",
+    "model_key": "VegManchurian",
+    "calories": 240.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chilli Idli",
+    "model_key": "ChilliIdli",
+    "calories": 220.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Masala Papad",
+    "model_key": "MasalaPapad",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Roasted Chana",
+    "model_key": "RoastedChana",
+    "calories": 180.0,
+    "protein": 10.0,
+    "carbs": 28.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Makhana Fry",
+    "model_key": "MakhanaFry",
+    "calories": 170.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Murmura Laddu",
+    "model_key": "MurmuraLaddu",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 45.0,
+    "fats": 1.0
+  },
+  {
+    "frontend_label": "Chikki",
+    "model_key": "Chikki",
+    "calories": 250.0,
+    "protein": 6.0,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Peanut Chikki",
+    "model_key": "PeanutChikki",
+    "calories": 260.0,
+    "protein": 7.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Til Laddu",
+    "model_key": "TilLaddu",
+    "calories": 240.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Besan Laddu",
+    "model_key": "BesanLaddu",
+    "calories": 270.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Motichoor Laddu",
+    "model_key": "MotichoorLaddu",
+    "calories": 280.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Atta Halwa",
+    "model_key": "AttaHalwa",
+    "calories": 360.0,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Gajar Halwa",
+    "model_key": "GajarHalwa",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Moong Dal Halwa",
+    "model_key": "MoongDalHalwa",
+    "calories": 380.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Badam Halwa",
+    "model_key": "BadamHalwa",
+    "calories": 400.0,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Sooji Upma",
+    "model_key": "SoojiUpma",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Vermicelli Upma",
+    "model_key": "VermicelliUpma",
+    "calories": 170.0,
+    "protein": 3.5,
+    "carbs": 26.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Vegetable Dalia",
+    "model_key": "VegetableDalia",
+    "calories": 200.0,
+    "protein": 6.0,
+    "carbs": 35.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dalia Khichdi",
+    "model_key": "DaliaKhichdi",
+    "calories": 210.0,
+    "protein": 6.5,
+    "carbs": 35.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Oats Upma",
+    "model_key": "OatsUpma",
+    "calories": 150.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Masala Oats",
+    "model_key": "MasalaOats",
+    "calories": 160.0,
+    "protein": 5.5,
+    "carbs": 25.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Corn Chaat",
+    "model_key": "CornChaat",
+    "calories": 140.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Sprouted Salad",
+    "model_key": "SproutedSalad",
+    "calories": 120.0,
+    "protein": 8.0,
+    "carbs": 22.0,
+    "fats": 1.0
+  },
+  {
+    "frontend_label": "Moong Salad",
+    "model_key": "MoongSalad",
+    "calories": 130.0,
+    "protein": 8.5,
+    "carbs": 22.0,
+    "fats": 1.5
+  },
+  {
+    "frontend_label": "Chana Salad",
+    "model_key": "ChanaSalad",
+    "calories": 150.0,
+    "protein": 9.0,
+    "carbs": 25.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Boiled Corn",
+    "model_key": "BoiledCorn",
+    "calories": 110.0,
+    "protein": 3.5,
+    "carbs": 22.0,
+    "fats": 1.5
+  },
+  {
+    "frontend_label": "Roasted Corn",
+    "model_key": "RoastedCorn",
+    "calories": 120.0,
+    "protein": 3.8,
+    "carbs": 25.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Masala Peanuts",
+    "model_key": "MasalaPeanuts",
+    "calories": 280.0,
+    "protein": 12.0,
+    "carbs": 15.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Fried Cashews",
+    "model_key": "FriedCashews",
+    "calories": 290.0,
+    "protein": 9.0,
+    "carbs": 15.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Masala Makhana",
+    "model_key": "MasalaMakhana",
+    "calories": 180.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Khakhra",
+    "model_key": "Khakhra",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Methi Khakhra",
+    "model_key": "MethiKhakhra",
+    "calories": 125.0,
+    "protein": 4.2,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Masala Khakhra",
+    "model_key": "MasalaKhakhra",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Papadum",
+    "model_key": "Papadum",
+    "calories": 70.0,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fats": 1.0
+  },
+  {
+    "frontend_label": "Masala Papad",
+    "model_key": "MasalaPapad",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 18.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Fryums",
+    "model_key": "Fryums",
+    "calories": 150.0,
+    "protein": 0.5,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chakli",
+    "model_key": "Chakli",
+    "calories": 240.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Murukku",
+    "model_key": "Murukku",
+    "calories": 250.0,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Kodubale",
+    "model_key": "Kodubale",
+    "calories": 260.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Nippattu",
+    "model_key": "Nippattu",
+    "calories": 270.0,
+    "protein": 5.5,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Maddur Vada",
+    "model_key": "MaddurVada",
+    "calories": 230.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Masala Vada",
+    "model_key": "MasalaVada",
+    "calories": 240.0,
+    "protein": 7.0,
+    "carbs": 30.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Ambode",
+    "model_key": "Ambode",
+    "calories": 230.0,
+    "protein": 7.5,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Punugulu",
+    "model_key": "Punugulu",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Bonda Soup",
+    "model_key": "BondaSoup",
+    "calories": 200.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Goli Baje",
+    "model_key": "GoliBaje",
+    "calories": 210.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Mangalore Buns",
+    "model_key": "MangaloreBuns",
+    "calories": 280.0,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Pathrode",
+    "model_key": "Pathrode",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Semiya Upma",
+    "model_key": "SemiyaUpma",
+    "calories": 180.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Rava Dosa",
+    "model_key": "RavaDosa",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Onion Rava Dosa",
+    "model_key": "OnionRavaDosa",
+    "calories": 190.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Masala Rava Dosa",
+    "model_key": "MasalaRavaDosa",
+    "calories": 210.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Pesarattu Upma",
+    "model_key": "PesarattuUpma",
+    "calories": 200.0,
+    "protein": 9.0,
+    "carbs": 30.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Chana Sundal",
+    "model_key": "ChanaSundal",
+    "calories": 160.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Peanut Sundal",
+    "model_key": "PeanutSundal",
+    "calories": 250.0,
+    "protein": 10.0,
+    "carbs": 15.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Dal Tadka",
+    "model_key": "DalTadka",
+    "calories": 120.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Makhani",
+    "model_key": "DalMakhani",
+    "calories": 200.0,
+    "protein": 6.0,
+    "carbs": 15.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Dal Fry",
+    "model_key": "DalFry",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 17.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Yellow Dal",
+    "model_key": "YellowDal",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Chana Dal",
+    "model_key": "ChanaDal",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 20.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Masoor Dal",
+    "model_key": "MasoorDal",
+    "calories": 120.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Rajma Masala",
+    "model_key": "RajmaMasala",
+    "calories": 150.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Chole Masala",
+    "model_key": "CholeMasala",
+    "calories": 160.0,
+    "protein": 7.5,
+    "carbs": 23.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Pindi Chole",
+    "model_key": "PindiChole",
+    "calories": 170.0,
+    "protein": 8.0,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Paneer Butter Masala",
+    "model_key": "PaneerButterMasala",
+    "calories": 280.0,
+    "protein": 10.0,
+    "carbs": 15.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Paneer Tikka Masala",
+    "model_key": "PaneerTikkaMasala",
+    "calories": 250.0,
+    "protein": 9.0,
+    "carbs": 15.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Lababdar",
+    "model_key": "PaneerLababdar",
+    "calories": 260.0,
+    "protein": 9.5,
+    "carbs": 14.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Bhurji",
+    "model_key": "PaneerBhurji",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 10.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Shahi Paneer",
+    "model_key": "ShahiPaneer",
+    "calories": 270.0,
+    "protein": 9.0,
+    "carbs": 15.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Matar Paneer",
+    "model_key": "MatarPaneer",
+    "calories": 180.0,
+    "protein": 7.0,
+    "carbs": 15.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Palak Paneer",
+    "model_key": "PalakPaneer",
+    "calories": 160.0,
+    "protein": 8.0,
+    "carbs": 12.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Kadai Paneer",
+    "model_key": "KadaiPaneer",
+    "calories": 210.0,
+    "protein": 8.5,
+    "carbs": 12.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Aloo Matar",
+    "model_key": "AlooMatar",
+    "calories": 130.0,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dum Aloo",
+    "model_key": "DumAloo",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Jeera Aloo",
+    "model_key": "JeeraAloo",
+    "calories": 120.0,
+    "protein": 2.0,
+    "carbs": 18.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Aloo Gobhi",
+    "model_key": "AlooGobhi",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Baingan Bharta",
+    "model_key": "BainganBharta",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mix Veg",
+    "model_key": "MixVeg",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 17.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Veg Korma",
+    "model_key": "VegKorma",
+    "calories": 140.0,
+    "protein": 3.5,
+    "carbs": 16.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Veg Jalfrezi",
+    "model_key": "VegJalfrezi",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 17.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Bhindi Masala",
+    "model_key": "BhindiMasala",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Mushroom Masala",
+    "model_key": "MushroomMasala",
+    "calories": 110.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Malai Kofta",
+    "model_key": "MalaiKofta",
+    "calories": 300.0,
+    "protein": 6.0,
+    "carbs": 25.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Veg Biryani",
+    "model_key": "VegBiryani",
+    "calories": 320.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Masala Rice",
+    "model_key": "MasalaRice",
+    "calories": 280.0,
+    "protein": 5.0,
+    "carbs": 45.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Veg Pulav",
+    "model_key": "VegPulav",
+    "calories": 260.0,
+    "protein": 5.0,
+    "carbs": 42.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Kashmiri Pulav",
+    "model_key": "KashmiriPulav",
+    "calories": 350.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Curd Rice",
+    "model_key": "CurdRice",
+    "calories": 220.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Sambar Rice",
+    "model_key": "SambarRice",
+    "calories": 240.0,
+    "protein": 6.0,
+    "carbs": 40.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Lemon Rice",
+    "model_key": "LemonRice",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Tomato Rice",
+    "model_key": "TomatoRice",
+    "calories": 260.0,
+    "protein": 4.5,
+    "carbs": 40.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Coconut Rice",
+    "model_key": "CoconutRice",
+    "calories": 300.0,
+    "protein": 5.0,
+    "carbs": 40.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Tamarind Rice",
+    "model_key": "TamarindRice",
+    "calories": 270.0,
+    "protein": 4.5,
+    "carbs": 40.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Methi Matar Malai",
+    "model_key": "MethiMatarMalai",
+    "calories": 190.0,
+    "protein": 4.5,
+    "carbs": 15.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Sev Tamatar",
+    "model_key": "SevTamatar",
+    "calories": 220.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Besan Gatta",
+    "model_key": "BesanGatta",
+    "calories": 180.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Kaju Curry",
+    "model_key": "KajuCurry",
+    "calories": 350.0,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Veg Handi",
+    "model_key": "VegHandi",
+    "calories": 130.0,
+    "protein": 3.5,
+    "carbs": 15.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Aloo Methi",
+    "model_key": "AlooMethi",
+    "calories": 120.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Paneer Do Pyaza",
+    "model_key": "PaneerDoPyaza",
+    "calories": 230.0,
+    "protein": 9.0,
+    "carbs": 12.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Pasanda",
+    "model_key": "PaneerPasanda",
+    "calories": 260.0,
+    "protein": 10.0,
+    "carbs": 14.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Kofta",
+    "model_key": "PaneerKofta",
+    "calories": 275.0,
+    "protein": 8.0,
+    "carbs": 16.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Paneer Achari",
+    "model_key": "PaneerAchari",
+    "calories": 220.0,
+    "protein": 9.0,
+    "carbs": 10.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Hyderabadi",
+    "model_key": "PaneerHyderabadi",
+    "calories": 240.0,
+    "protein": 9.5,
+    "carbs": 12.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Jalfrezi",
+    "model_key": "PaneerJalfrezi",
+    "calories": 210.0,
+    "protein": 8.5,
+    "carbs": 11.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Makhani",
+    "model_key": "PaneerMakhani",
+    "calories": 270.0,
+    "protein": 9.0,
+    "carbs": 13.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Paneer Kali Mirch",
+    "model_key": "PaneerKaliMirch",
+    "calories": 250.0,
+    "protein": 9.5,
+    "carbs": 12.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Corn Masala",
+    "model_key": "PaneerCornMasala",
+    "calories": 230.0,
+    "protein": 8.0,
+    "carbs": 15.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Capsicum",
+    "model_key": "PaneerCapsicum",
+    "calories": 200.0,
+    "protein": 8.0,
+    "carbs": 10.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Paneer Dhokla Masala",
+    "model_key": "PaneerDhoklaMasala",
+    "calories": 240.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Tawa Masala",
+    "model_key": "PaneerTawaMasala",
+    "calories": 230.0,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Kolhapuri",
+    "model_key": "PaneerKolhapuri",
+    "calories": 245.0,
+    "protein": 8.5,
+    "carbs": 13.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Lazeez",
+    "model_key": "PaneerLazeez",
+    "calories": 265.0,
+    "protein": 9.0,
+    "carbs": 14.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Chatpata",
+    "model_key": "PaneerChatpata",
+    "calories": 225.0,
+    "protein": 8.5,
+    "carbs": 12.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Shahi Korma",
+    "model_key": "PaneerShahiKorma",
+    "calories": 280.0,
+    "protein": 8.0,
+    "carbs": 15.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Paneer Punjabi",
+    "model_key": "PaneerPunjabi",
+    "calories": 250.0,
+    "protein": 9.5,
+    "carbs": 11.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Karahi",
+    "model_key": "PaneerKarahi",
+    "calories": 220.0,
+    "protein": 8.5,
+    "carbs": 10.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Handi",
+    "model_key": "PaneerHandi",
+    "calories": 260.0,
+    "protein": 9.0,
+    "carbs": 12.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Nawabi",
+    "model_key": "PaneerNawabi",
+    "calories": 275.0,
+    "protein": 8.5,
+    "carbs": 14.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Paneer Lahori",
+    "model_key": "PaneerLahori",
+    "calories": 235.0,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Malai",
+    "model_key": "PaneerMalai",
+    "calories": 290.0,
+    "protein": 7.5,
+    "carbs": 12.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Paneer Begum Bahar",
+    "model_key": "PaneerBegumBahar",
+    "calories": 280.0,
+    "protein": 8.5,
+    "carbs": 14.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Paneer Angara",
+    "model_key": "PaneerAngara",
+    "calories": 255.0,
+    "protein": 9.0,
+    "carbs": 12.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Tikka Dry",
+    "model_key": "PaneerTikkaDry",
+    "calories": 240.0,
+    "protein": 11.0,
+    "carbs": 8.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Kadhai Style",
+    "model_key": "PaneerKadhaiStyle",
+    "calories": 225.0,
+    "protein": 8.5,
+    "carbs": 11.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Masala Dry",
+    "model_key": "PaneerMasalaDry",
+    "calories": 230.0,
+    "protein": 9.5,
+    "carbs": 9.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Stuffed Capsicum",
+    "model_key": "PaneerStuffedCapsicum",
+    "calories": 260.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Aloo Dum Kashmiri",
+    "model_key": "AlooDumKashmiri",
+    "calories": 160.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Aloo Jeera Dry",
+    "model_key": "AlooJeeraDry",
+    "calories": 130.0,
+    "protein": 2.0,
+    "carbs": 18.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Aloo Methi Dry",
+    "model_key": "AlooMethiDry",
+    "calories": 125.0,
+    "protein": 2.5,
+    "carbs": 17.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Aloo Gobhi Adraki",
+    "model_key": "AlooGobhiAdraki",
+    "calories": 115.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Aloo Baingan",
+    "model_key": "AlooBaingan",
+    "calories": 105.0,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Aloo Beans",
+    "model_key": "AlooBeans",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Aloo Capsicum",
+    "model_key": "AlooCapsicum",
+    "calories": 115.0,
+    "protein": 2.5,
+    "carbs": 17.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Aloo Matar Dry",
+    "model_key": "AlooMatarDry",
+    "calories": 140.0,
+    "protein": 3.5,
+    "carbs": 20.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Aloo Panchmel",
+    "model_key": "AlooPanchmel",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Aloo Simla Mirch",
+    "model_key": "AlooSimlaMirch",
+    "calories": 115.0,
+    "protein": 2.5,
+    "carbs": 17.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Aloo Mushroom",
+    "model_key": "AlooMushroom",
+    "calories": 115.0,
+    "protein": 3.5,
+    "carbs": 17.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Aloo Gajar Matar",
+    "model_key": "AlooGajarMatar",
+    "calories": 125.0,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Aloo Patta Gobhi",
+    "model_key": "AlooPattaGobhi",
+    "calories": 105.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Aloo Papaya",
+    "model_key": "AlooPapaya",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 17.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Aloo Papad Sabzi",
+    "model_key": "AlooPapadSabzi",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Aloo Bari Sabzi",
+    "model_key": "AlooBariSabzi",
+    "calories": 180.0,
+    "protein": 6.0,
+    "carbs": 22.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Aloo Poshto",
+    "model_key": "AlooPoshto",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 17.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Aloo Dum Banarasi",
+    "model_key": "AlooDumBanarasi",
+    "calories": 155.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 7.5
+  },
+  {
+    "frontend_label": "Aloo Dum Bengali",
+    "model_key": "AlooDumBengali",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Aloo Dum Punjabi",
+    "model_key": "AlooDumPunjabi",
+    "calories": 165.0,
+    "protein": 3.0,
+    "carbs": 21.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Aloo Dum Hyderabadi",
+    "model_key": "AlooDumHyderabadi",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 21.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Aloo Dum Lucknowi",
+    "model_key": "AlooDumLucknowi",
+    "calories": 160.0,
+    "protein": 2.5,
+    "carbs": 21.0,
+    "fats": 7.5
+  },
+  {
+    "frontend_label": "Baingan Bharta Smoky",
+    "model_key": "BainganBhartaSmoky",
+    "calories": 105.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Baingan Masala",
+    "model_key": "BainganMasala",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Baingan Fry",
+    "model_key": "BainganFry",
+    "calories": 160.0,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Baingan Aloo",
+    "model_key": "BainganAloo",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Baingan Chana Dal",
+    "model_key": "BainganChanaDal",
+    "calories": 130.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Baingan Dahi",
+    "model_key": "BainganDahi",
+    "calories": 115.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Baingan Achari",
+    "model_key": "BainganAchari",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Baingan Kalonji",
+    "model_key": "BainganKalonji",
+    "calories": 115.0,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Baingan Kohlapuri",
+    "model_key": "BainganKohlapuri",
+    "calories": 120.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Baingan Pachranga",
+    "model_key": "BainganPachranga",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Baingan Hyderabadi",
+    "model_key": "BainganHyderabadi",
+    "calories": 130.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Bhindi Do Pyaza",
+    "model_key": "BhindiDoPyaza",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Bhindi Fry",
+    "model_key": "BhindiFry",
+    "calories": 170.0,
+    "protein": 2.5,
+    "carbs": 14.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Bhindi Masala Dry",
+    "model_key": "BhindiMasalaDry",
+    "calories": 120.0,
+    "protein": 2.5,
+    "carbs": 14.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Bhindi Kurkuri",
+    "model_key": "BhindiKurkuri",
+    "calories": 200.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Bhindi Stuffed",
+    "model_key": "BhindiStuffed",
+    "calories": 140.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Bhindi Dahi",
+    "model_key": "BhindiDahi",
+    "calories": 120.0,
+    "protein": 3.5,
+    "carbs": 13.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Bhindi Besan",
+    "model_key": "BhindiBesan",
+    "calories": 150.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Bhindi Kadhi",
+    "model_key": "BhindiKadhi",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 17.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Bhindi Achari",
+    "model_key": "BhindiAchari",
+    "calories": 120.0,
+    "protein": 2.5,
+    "carbs": 14.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Bhindi Corn",
+    "model_key": "BhindiCorn",
+    "calories": 130.0,
+    "protein": 3.5,
+    "carbs": 18.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Bhindi Paneer",
+    "model_key": "BhindiPaneer",
+    "calories": 170.0,
+    "protein": 7.0,
+    "carbs": 14.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Bhindi Capsicum",
+    "model_key": "BhindiCapsicum",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Bhindi Potato",
+    "model_key": "BhindiPotato",
+    "calories": 130.0,
+    "protein": 2.5,
+    "carbs": 18.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mushroom Do Pyaza",
+    "model_key": "MushroomDoPyaza",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 13.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mushroom Matar",
+    "model_key": "MushroomMatar",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mushroom Palak",
+    "model_key": "MushroomPalak",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 10.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mushroom Masala Dry",
+    "model_key": "MushroomMasalaDry",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 12.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mushroom Tikka",
+    "model_key": "MushroomTikka",
+    "calories": 160.0,
+    "protein": 5.0,
+    "carbs": 10.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Mushroom Kadhai",
+    "model_key": "MushroomKadhai",
+    "calories": 130.0,
+    "protein": 4.5,
+    "carbs": 12.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mushroom Handi",
+    "model_key": "MushroomHandi",
+    "calories": 150.0,
+    "protein": 4.5,
+    "carbs": 12.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Mushroom Achari",
+    "model_key": "MushroomAchari",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 12.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mushroom Corn",
+    "model_key": "MushroomCorn",
+    "calories": 140.0,
+    "protein": 4.5,
+    "carbs": 16.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mushroom Paneer",
+    "model_key": "MushroomPaneer",
+    "calories": 180.0,
+    "protein": 8.0,
+    "carbs": 12.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Mushroom Corn Palak",
+    "model_key": "MushroomCornPalak",
+    "calories": 130.0,
+    "protein": 5.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mushroom Kali Mirch",
+    "model_key": "MushroomKaliMirch",
+    "calories": 140.0,
+    "protein": 4.5,
+    "carbs": 10.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Mushroom Nawabi",
+    "model_key": "MushroomNawabi",
+    "calories": 170.0,
+    "protein": 5.0,
+    "carbs": 12.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Mix Veg Kadhai",
+    "model_key": "MixVegKadhai",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mix Veg Handi",
+    "model_key": "MixVegHandi",
+    "calories": 130.0,
+    "protein": 3.5,
+    "carbs": 16.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mix Veg Kolhapuri",
+    "model_key": "MixVegKolhapuri",
+    "calories": 140.0,
+    "protein": 3.5,
+    "carbs": 16.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mix Veg Jalfrezi",
+    "model_key": "MixVegJalfrezi",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mix Veg Achari",
+    "model_key": "MixVegAchari",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mix Veg Paneer",
+    "model_key": "MixVegPaneer",
+    "calories": 160.0,
+    "protein": 6.0,
+    "carbs": 15.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Mix Veg Corn",
+    "model_key": "MixVegCorn",
+    "calories": 130.0,
+    "protein": 3.5,
+    "carbs": 18.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mix Veg Masala",
+    "model_key": "MixVegMasala",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Dal Panchmel",
+    "model_key": "DalPanchmel",
+    "calories": 130.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Dal Moradabadi",
+    "model_key": "DalMoradabadi",
+    "calories": 110.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Dal Bukara",
+    "model_key": "DalBukara",
+    "calories": 220.0,
+    "protein": 7.0,
+    "carbs": 16.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Dal Palak",
+    "model_key": "DalPalak",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 15.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Makhani Slow Cooked",
+    "model_key": "DalMakhaniSlowCooked",
+    "calories": 210.0,
+    "protein": 6.5,
+    "carbs": 15.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Dal Amritsari",
+    "model_key": "DalAmritsari",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 19.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dal Sultani",
+    "model_key": "DalSultani",
+    "calories": 150.0,
+    "protein": 6.0,
+    "carbs": 19.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Dal Jodhpuri",
+    "model_key": "DalJodhpuri",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Dal Maharani",
+    "model_key": "DalMaharani",
+    "calories": 160.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Dal Banjara",
+    "model_key": "DalBanjara",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 19.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dal Methi",
+    "model_key": "DalMethi",
+    "calories": 120.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Chana Punjabi",
+    "model_key": "DalChanaPunjabi",
+    "calories": 150.0,
+    "protein": 6.5,
+    "carbs": 21.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dal Urad",
+    "model_key": "DalUrad",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 20.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Moong",
+    "model_key": "DalMoong",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Masoor Punjabi",
+    "model_key": "DalMasoorPunjabi",
+    "calories": 125.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Tadka Extra Spicy",
+    "model_key": "DalTadkaExtraSpicy",
+    "calories": 130.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Chole Punjabi",
+    "model_key": "CholePunjabi",
+    "calories": 170.0,
+    "protein": 8.0,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chole Pindi",
+    "model_key": "CholePindi",
+    "calories": 175.0,
+    "protein": 8.5,
+    "carbs": 23.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chole Amritsari",
+    "model_key": "CholeAmritsari",
+    "calories": 180.0,
+    "protein": 8.0,
+    "carbs": 23.0,
+    "fats": 5.5
+  },
+  {
+    "frontend_label": "Chole Palak",
+    "model_key": "CholePalak",
+    "calories": 150.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Chole Paneer",
+    "model_key": "CholePaneer",
+    "calories": 220.0,
+    "protein": 10.0,
+    "carbs": 18.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chole Mushroom",
+    "model_key": "CholeMushroom",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Chole Aloo",
+    "model_key": "CholeAloo",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Chole Masala Dry",
+    "model_key": "CholeMasalaDry",
+    "calories": 180.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chole Kadhai",
+    "model_key": "CholeKadhai",
+    "calories": 170.0,
+    "protein": 7.5,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chole Achari",
+    "model_key": "CholeAchari",
+    "calories": 170.0,
+    "protein": 7.5,
+    "carbs": 22.0,
+    "fats": 5.5
+  },
+  {
+    "frontend_label": "Chole Handi",
+    "model_key": "CholeHandi",
+    "calories": 175.0,
+    "protein": 7.5,
+    "carbs": 22.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Rajma Punjabi",
+    "model_key": "RajmaPunjabi",
+    "calories": 150.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Rajma Kashmiri",
+    "model_key": "RajmaKashmiri",
+    "calories": 160.0,
+    "protein": 7.0,
+    "carbs": 23.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Rajma Palak",
+    "model_key": "RajmaPalak",
+    "calories": 130.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Rajma Paneer",
+    "model_key": "RajmaPaneer",
+    "calories": 210.0,
+    "protein": 9.0,
+    "carbs": 18.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Rajma Mushroom",
+    "model_key": "RajmaMushroom",
+    "calories": 135.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Rajma Dal",
+    "model_key": "RajmaDal",
+    "calories": 140.0,
+    "protein": 6.5,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Rajma Masala Dry",
+    "model_key": "RajmaMasalaDry",
+    "calories": 170.0,
+    "protein": 7.5,
+    "carbs": 24.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Rajma Handi",
+    "model_key": "RajmaHandi",
+    "calories": 160.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Rajma Achari",
+    "model_key": "RajmaAchari",
+    "calories": 160.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Kadhi Pakora",
+    "model_key": "KadhiPakora",
+    "calories": 250.0,
+    "protein": 7.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Kadhi Punjabi",
+    "model_key": "KadhiPunjabi",
+    "calories": 220.0,
+    "protein": 6.0,
+    "carbs": 25.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Kadhi Gujarati",
+    "model_key": "KadhiGujarati",
+    "calories": 210.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Kadhi Rajasthani",
+    "model_key": "KadhiRajasthani",
+    "calories": 230.0,
+    "protein": 6.0,
+    "carbs": 26.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Kadhi Bhindi",
+    "model_key": "KadhiBhindi",
+    "calories": 200.0,
+    "protein": 5.0,
+    "carbs": 24.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Kadhi Pakodi Dry",
+    "model_key": "KadhiPakodiDry",
+    "calories": 260.0,
+    "protein": 7.0,
+    "carbs": 26.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Kadhi Paneer",
+    "model_key": "KadhiPaneer",
+    "calories": 280.0,
+    "protein": 10.0,
+    "carbs": 25.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kadhi Aloo",
+    "model_key": "KadhiAloo",
+    "calories": 210.0,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Kadhi Methi",
+    "model_key": "KadhiMethi",
+    "calories": 200.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Kadhi Palak",
+    "model_key": "KadhiPalak",
+    "calories": 190.0,
+    "protein": 5.5,
+    "carbs": 22.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Gatte Ki Sabzi",
+    "model_key": "GatteKiSabzi",
+    "calories": 190.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gatte Ki Sabzi Dry",
+    "model_key": "GatteKiSabziDry",
+    "calories": 200.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Gatte Masala",
+    "model_key": "GatteMasala",
+    "calories": 190.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Gatte Kadhi",
+    "model_key": "GatteKadhi",
+    "calories": 240.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Gatte Paneer",
+    "model_key": "GattePaneer",
+    "calories": 250.0,
+    "protein": 11.0,
+    "carbs": 18.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Gatte Corn",
+    "model_key": "GatteCorn",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gatte Handi",
+    "model_key": "GatteHandi",
+    "calories": 210.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Gatte Achari",
+    "model_key": "GatteAchari",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Gatte Punjabi",
+    "model_key": "GattePunjabi",
+    "calories": 200.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Indori",
+    "model_key": "SevTamatarIndori",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 22.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Gujarati",
+    "model_key": "SevTamatarGujarati",
+    "calories": 240.0,
+    "protein": 4.0,
+    "carbs": 21.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Punjabi",
+    "model_key": "SevTamatarPunjabi",
+    "calories": 260.0,
+    "protein": 4.5,
+    "carbs": 22.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Paneer",
+    "model_key": "SevTamatarPaneer",
+    "calories": 300.0,
+    "protein": 9.0,
+    "carbs": 20.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Kadhi",
+    "model_key": "SevTamatarKadhi",
+    "calories": 280.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Aloo",
+    "model_key": "SevTamatarAloo",
+    "calories": 230.0,
+    "protein": 3.5,
+    "carbs": 22.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Masala",
+    "model_key": "SevTamatarMasala",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 22.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Handi",
+    "model_key": "SevTamatarHandi",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 22.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Corn",
+    "model_key": "SevTamatarCorn",
+    "calories": 240.0,
+    "protein": 4.5,
+    "carbs": 22.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Sev Tamatar Achari",
+    "model_key": "SevTamatarAchari",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 22.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Kaju Paneer",
+    "model_key": "KajuPaneer",
+    "calories": 320.0,
+    "protein": 9.0,
+    "carbs": 18.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Korma",
+    "model_key": "KajuKorma",
+    "calories": 340.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Masala",
+    "model_key": "KajuMasala",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Mushroom",
+    "model_key": "KajuMushroom",
+    "calories": 310.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Corn",
+    "model_key": "KajuCorn",
+    "calories": 300.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Kaju Matar",
+    "model_key": "KajuMatar",
+    "calories": 310.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Handi",
+    "model_key": "KajuHandi",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Achari",
+    "model_key": "KajuAchari",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Punjabi",
+    "model_key": "KajuPunjabi",
+    "calories": 330.0,
+    "protein": 8.5,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Shahi",
+    "model_key": "KajuShahi",
+    "calories": 350.0,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kadai",
+    "model_key": "KajuKadai",
+    "calories": 320.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Palak",
+    "model_key": "KajuPalak",
+    "calories": 300.0,
+    "protein": 8.5,
+    "carbs": 15.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Kaju Paneer Tikka",
+    "model_key": "KajuPaneerTikka",
+    "calories": 330.0,
+    "protein": 12.0,
+    "carbs": 15.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Kofta",
+    "model_key": "KajuKofta",
+    "calories": 340.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Aloo",
+    "model_key": "KajuAloo",
+    "calories": 280.0,
+    "protein": 6.0,
+    "carbs": 20.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Kaju Mix Veg",
+    "model_key": "KajuMixVeg",
+    "calories": 290.0,
+    "protein": 7.0,
+    "carbs": 18.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Kaju Bhindi",
+    "model_key": "KajuBhindi",
+    "calories": 280.0,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Kaju Baingan",
+    "model_key": "KajuBaingan",
+    "calories": 270.0,
+    "protein": 6.0,
+    "carbs": 17.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Kaju Makhana",
+    "model_key": "KajuMakhana",
+    "calories": 320.0,
+    "protein": 6.0,
+    "carbs": 22.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Paneer Makhani",
+    "model_key": "KajuPaneerMakhani",
+    "calories": 350.0,
+    "protein": 9.0,
+    "carbs": 18.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Shahi",
+    "model_key": "KajuKoftaShahi",
+    "calories": 360.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Kadhai",
+    "model_key": "KajuKoftaKadhai",
+    "calories": 340.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Makhani",
+    "model_key": "KajuKoftaMakhani",
+    "calories": 360.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Lababdar",
+    "model_key": "KajuKoftaLababdar",
+    "calories": 360.0,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Achari",
+    "model_key": "KajuKoftaAchari",
+    "calories": 340.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Handi",
+    "model_key": "KajuKoftaHandi",
+    "calories": 350.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Paneer",
+    "model_key": "KajuKoftaPaneer",
+    "calories": 370.0,
+    "protein": 11.0,
+    "carbs": 18.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Mix Veg",
+    "model_key": "KajuKoftaMixVeg",
+    "calories": 320.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Matar",
+    "model_key": "KajuKoftaMatar",
+    "calories": 330.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Chicken Curry",
+    "model_key": "ChickenCurry",
+    "calories": 280.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Butter Chicken",
+    "model_key": "ButterChicken",
+    "calories": 350.0,
+    "protein": 25.0,
+    "carbs": 10.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Chicken Tikka Masala",
+    "model_key": "ChickenTikkaMasala",
+    "calories": 320.0,
+    "protein": 24.0,
+    "carbs": 9.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Korma",
+    "model_key": "ChickenKorma",
+    "calories": 340.0,
+    "protein": 23.0,
+    "carbs": 10.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Chicken Masala",
+    "model_key": "ChickenMasala",
+    "calories": 290.0,
+    "protein": 22.0,
+    "carbs": 9.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Mughlai",
+    "model_key": "ChickenMughlai",
+    "calories": 360.0,
+    "protein": 25.0,
+    "carbs": 12.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Chicken Do Pyaza",
+    "model_key": "ChickenDoPyaza",
+    "calories": 270.0,
+    "protein": 21.0,
+    "carbs": 10.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Handi",
+    "model_key": "ChickenHandi",
+    "calories": 310.0,
+    "protein": 23.0,
+    "carbs": 10.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Chicken Fry",
+    "model_key": "ChickenFry",
+    "calories": 400.0,
+    "protein": 28.0,
+    "carbs": 10.0,
+    "fats": 28.0
+  },
+  {
+    "frontend_label": "Chicken65",
+    "model_key": "Chicken65",
+    "calories": 380.0,
+    "protein": 26.0,
+    "carbs": 12.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Chicken Tikka",
+    "model_key": "ChickenTikka",
+    "calories": 250.0,
+    "protein": 28.0,
+    "carbs": 5.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chicken Hariyali",
+    "model_key": "ChickenHariyali",
+    "calories": 260.0,
+    "protein": 28.0,
+    "carbs": 6.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Chicken Achari",
+    "model_key": "ChickenAchari",
+    "calories": 280.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Kadai",
+    "model_key": "ChickenKadai",
+    "calories": 290.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Lababdar",
+    "model_key": "ChickenLababdar",
+    "calories": 320.0,
+    "protein": 24.0,
+    "carbs": 10.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Rogan Josh",
+    "model_key": "ChickenRoganJosh",
+    "calories": 330.0,
+    "protein": 25.0,
+    "carbs": 8.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Stew",
+    "model_key": "ChickenStew",
+    "calories": 220.0,
+    "protein": 20.0,
+    "carbs": 12.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Chicken Jalfrezi",
+    "model_key": "ChickenJalfrezi",
+    "calories": 260.0,
+    "protein": 22.0,
+    "carbs": 10.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Chettinad",
+    "model_key": "ChickenChettinad",
+    "calories": 300.0,
+    "protein": 24.0,
+    "carbs": 8.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Chicken Vindaloo",
+    "model_key": "ChickenVindaloo",
+    "calories": 310.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Xacuti",
+    "model_key": "ChickenXacuti",
+    "calories": 320.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Chicken Cafreal",
+    "model_key": "ChickenCafreal",
+    "calories": 280.0,
+    "protein": 26.0,
+    "carbs": 7.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Sukka",
+    "model_key": "ChickenSukka",
+    "calories": 290.0,
+    "protein": 27.0,
+    "carbs": 6.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Saag",
+    "model_key": "ChickenSaag",
+    "calories": 240.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Chicken Bharta",
+    "model_key": "ChickenBharta",
+    "calories": 270.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Keema",
+    "model_key": "ChickenKeema",
+    "calories": 280.0,
+    "protein": 24.0,
+    "carbs": 8.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Chicken Shaam Kebab",
+    "model_key": "ChickenShaamKebab",
+    "calories": 260.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Tangri Kebab",
+    "model_key": "ChickenTangriKebab",
+    "calories": 300.0,
+    "protein": 28.0,
+    "carbs": 5.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Reshmi Kebab",
+    "model_key": "ChickenReshmiKebab",
+    "calories": 280.0,
+    "protein": 27.0,
+    "carbs": 6.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Malai Kebab",
+    "model_key": "ChickenMalaiKebab",
+    "calories": 320.0,
+    "protein": 26.0,
+    "carbs": 6.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Seekh Kebab",
+    "model_key": "ChickenSeekhKebab",
+    "calories": 250.0,
+    "protein": 22.0,
+    "carbs": 6.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Shami Kebab",
+    "model_key": "ChickenShamiKebab",
+    "calories": 240.0,
+    "protein": 21.0,
+    "carbs": 7.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Chicken Boti Kebab",
+    "model_key": "ChickenBotiKebab",
+    "calories": 270.0,
+    "protein": 26.0,
+    "carbs": 5.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Kalmi Kebab",
+    "model_key": "ChickenKalmiKebab",
+    "calories": 310.0,
+    "protein": 28.0,
+    "carbs": 5.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Chicken Ghee Roast",
+    "model_key": "ChickenGheeRoast",
+    "calories": 350.0,
+    "protein": 25.0,
+    "carbs": 7.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Chicken Kolhapuri",
+    "model_key": "ChickenKolhapuri",
+    "calories": 300.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Chicken Hyderabadi",
+    "model_key": "ChickenHyderabadi",
+    "calories": 310.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Lucknowi",
+    "model_key": "ChickenLucknowi",
+    "calories": 320.0,
+    "protein": 24.0,
+    "carbs": 10.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Punjabi",
+    "model_key": "ChickenPunjabi",
+    "calories": 290.0,
+    "protein": 22.0,
+    "carbs": 9.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Amritsari",
+    "model_key": "ChickenAmritsari",
+    "calories": 300.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Chicken Bengali",
+    "model_key": "ChickenBengali",
+    "calories": 270.0,
+    "protein": 21.0,
+    "carbs": 9.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Chicken Kashmiri",
+    "model_key": "ChickenKashmiri",
+    "calories": 330.0,
+    "protein": 22.0,
+    "carbs": 11.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Chicken Goan",
+    "model_key": "ChickenGoan",
+    "calories": 310.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Mangalorean",
+    "model_key": "ChickenMangalorean",
+    "calories": 320.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Chicken Malwani",
+    "model_key": "ChickenMalwani",
+    "calories": 310.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Awadhi",
+    "model_key": "ChickenAwadhi",
+    "calories": 320.0,
+    "protein": 24.0,
+    "carbs": 10.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Nawabi",
+    "model_key": "ChickenNawabi",
+    "calories": 340.0,
+    "protein": 24.0,
+    "carbs": 11.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Chicken Afghani",
+    "model_key": "ChickenAfghani",
+    "calories": 330.0,
+    "protein": 26.0,
+    "carbs": 7.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Chicken Turkish",
+    "model_key": "ChickenTurkish",
+    "calories": 300.0,
+    "protein": 25.0,
+    "carbs": 9.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Chinese",
+    "model_key": "ChickenChinese",
+    "calories": 280.0,
+    "protein": 22.0,
+    "carbs": 12.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Schezwan",
+    "model_key": "ChickenSchezwan",
+    "calories": 290.0,
+    "protein": 22.0,
+    "carbs": 13.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Chicken Manchurian",
+    "model_key": "ChickenManchurian",
+    "calories": 280.0,
+    "protein": 20.0,
+    "carbs": 12.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Chilli",
+    "model_key": "ChickenChilli",
+    "calories": 270.0,
+    "protein": 20.0,
+    "carbs": 11.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Chicken Honey Garlic",
+    "model_key": "ChickenHoneyGarlic",
+    "calories": 300.0,
+    "protein": 21.0,
+    "carbs": 18.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Chicken Lemon",
+    "model_key": "ChickenLemon",
+    "calories": 240.0,
+    "protein": 22.0,
+    "carbs": 10.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chicken Pepper",
+    "model_key": "ChickenPepper",
+    "calories": 250.0,
+    "protein": 23.0,
+    "carbs": 10.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Chicken Garlic",
+    "model_key": "ChickenGarlic",
+    "calories": 260.0,
+    "protein": 22.0,
+    "carbs": 10.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Chicken Dry",
+    "model_key": "ChickenDry",
+    "calories": 270.0,
+    "protein": 25.0,
+    "carbs": 8.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Gravy",
+    "model_key": "ChickenGravy",
+    "calories": 260.0,
+    "protein": 22.0,
+    "carbs": 10.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Chicken Soup",
+    "model_key": "ChickenSoup",
+    "calories": 150.0,
+    "protein": 12.0,
+    "carbs": 10.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Chicken Biryani",
+    "model_key": "ChickenBiryani",
+    "calories": 400.0,
+    "protein": 20.0,
+    "carbs": 45.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Pulav",
+    "model_key": "ChickenPulav",
+    "calories": 350.0,
+    "protein": 18.0,
+    "carbs": 42.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chicken Fried Rice",
+    "model_key": "ChickenFriedRice",
+    "calories": 380.0,
+    "protein": 18.0,
+    "carbs": 45.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Chicken Rice",
+    "model_key": "ChickenRice",
+    "calories": 320.0,
+    "protein": 17.0,
+    "carbs": 40.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Chicken Khichdi",
+    "model_key": "ChickenKhichdi",
+    "calories": 300.0,
+    "protein": 16.0,
+    "carbs": 40.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Chicken Dalia",
+    "model_key": "ChickenDalia",
+    "calories": 280.0,
+    "protein": 16.0,
+    "carbs": 38.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Chicken Pasta",
+    "model_key": "ChickenPasta",
+    "calories": 350.0,
+    "protein": 18.0,
+    "carbs": 42.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chicken Sandwich",
+    "model_key": "ChickenSandwich",
+    "calories": 300.0,
+    "protein": 18.0,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chicken Burger",
+    "model_key": "ChickenBurger",
+    "calories": 450.0,
+    "protein": 20.0,
+    "carbs": 45.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Pizza",
+    "model_key": "ChickenPizza",
+    "calories": 400.0,
+    "protein": 18.0,
+    "carbs": 40.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Roll",
+    "model_key": "ChickenRoll",
+    "calories": 350.0,
+    "protein": 18.0,
+    "carbs": 35.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Chicken Wrap",
+    "model_key": "ChickenWrap",
+    "calories": 320.0,
+    "protein": 18.0,
+    "carbs": 32.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Chicken Salad",
+    "model_key": "ChickenSalad",
+    "calories": 200.0,
+    "protein": 25.0,
+    "carbs": 8.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Chicken Popcorn",
+    "model_key": "ChickenPopcorn",
+    "calories": 350.0,
+    "protein": 20.0,
+    "carbs": 20.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Chicken Nuggets",
+    "model_key": "ChickenNuggets",
+    "calories": 320.0,
+    "protein": 18.0,
+    "carbs": 20.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Wings",
+    "model_key": "ChickenWings",
+    "calories": 380.0,
+    "protein": 22.0,
+    "carbs": 12.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Chicken Leg",
+    "model_key": "ChickenLeg",
+    "calories": 300.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Chicken Breast",
+    "model_key": "ChickenBreast",
+    "calories": 250.0,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Chicken Liver",
+    "model_key": "ChickenLiver",
+    "calories": 170.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chicken Gizzard",
+    "model_key": "ChickenGizzard",
+    "calories": 150.0,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Chicken Heart",
+    "model_key": "ChickenHeart",
+    "calories": 160.0,
+    "protein": 28.0,
+    "carbs": 0.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Chicken Neck",
+    "model_key": "ChickenNeck",
+    "calories": 200.0,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Mutton Rogan Josh",
+    "model_key": "MuttonRoganJosh",
+    "calories": 350.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Mutton Curry",
+    "model_key": "MuttonCurry",
+    "calories": 320.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Mutton Keema",
+    "model_key": "MuttonKeema",
+    "calories": 300.0,
+    "protein": 22.0,
+    "carbs": 6.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Mutton Stew",
+    "model_key": "MuttonStew",
+    "calories": 260.0,
+    "protein": 20.0,
+    "carbs": 10.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Mutton Do Pyaza",
+    "model_key": "MuttonDoPyaza",
+    "calories": 330.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Handi",
+    "model_key": "MuttonHandi",
+    "calories": 340.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Masala",
+    "model_key": "MuttonMasala",
+    "calories": 310.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Mutton Korma",
+    "model_key": "MuttonKorma",
+    "calories": 360.0,
+    "protein": 20.0,
+    "carbs": 10.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Mutton Kadai",
+    "model_key": "MuttonKadai",
+    "calories": 320.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Mutton Achari",
+    "model_key": "MuttonAchari",
+    "calories": 330.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Lababdar",
+    "model_key": "MuttonLababdar",
+    "calories": 350.0,
+    "protein": 22.0,
+    "carbs": 9.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Hariyali",
+    "model_key": "MuttonHariyali",
+    "calories": 300.0,
+    "protein": 23.0,
+    "carbs": 7.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Mutton Sukka",
+    "model_key": "MuttonSukka",
+    "calories": 340.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Ghee Roast",
+    "model_key": "MuttonGheeRoast",
+    "calories": 380.0,
+    "protein": 24.0,
+    "carbs": 6.0,
+    "fats": 28.0
+  },
+  {
+    "frontend_label": "Mutton Kolhapuri",
+    "model_key": "MuttonKolhapuri",
+    "calories": 330.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Hyderabadi",
+    "model_key": "MuttonHyderabadi",
+    "calories": 320.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Mutton Lucknowi",
+    "model_key": "MuttonLucknowi",
+    "calories": 340.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Punjabi",
+    "model_key": "MuttonPunjabi",
+    "calories": 310.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Mutton Amritsari",
+    "model_key": "MuttonAmritsari",
+    "calories": 320.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Mutton Bengali",
+    "model_key": "MuttonBengali",
+    "calories": 290.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Mutton Kashmiri",
+    "model_key": "MuttonKashmiri",
+    "calories": 350.0,
+    "protein": 21.0,
+    "carbs": 10.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Mutton Goan",
+    "model_key": "MuttonGoan",
+    "calories": 330.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Mangalorean",
+    "model_key": "MuttonMangalorean",
+    "calories": 340.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Malwani",
+    "model_key": "MuttonMalwani",
+    "calories": 330.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mutton Awadhi",
+    "model_key": "MuttonAwadhi",
+    "calories": 340.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Nawabi",
+    "model_key": "MuttonNawabi",
+    "calories": 360.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Mutton Afghani",
+    "model_key": "MuttonAfghani",
+    "calories": 350.0,
+    "protein": 25.0,
+    "carbs": 6.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Seekh Kebab",
+    "model_key": "MuttonSeekhKebab",
+    "calories": 280.0,
+    "protein": 22.0,
+    "carbs": 6.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Shami Kebab",
+    "model_key": "MuttonShamiKebab",
+    "calories": 270.0,
+    "protein": 21.0,
+    "carbs": 7.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Mutton Boti Kebab",
+    "model_key": "MuttonBotiKebab",
+    "calories": 290.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Galouti Kebab",
+    "model_key": "MuttonGaloutiKebab",
+    "calories": 310.0,
+    "protein": 18.0,
+    "carbs": 5.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Kakori Kebab",
+    "model_key": "MuttonKakoriKebab",
+    "calories": 300.0,
+    "protein": 20.0,
+    "carbs": 5.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Mutton Shammi Kebab",
+    "model_key": "MuttonShammiKebab",
+    "calories": 270.0,
+    "protein": 21.0,
+    "carbs": 7.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Mutton Pasanda",
+    "model_key": "MuttonPasanda",
+    "calories": 350.0,
+    "protein": 24.0,
+    "carbs": 7.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Mutton Chaap",
+    "model_key": "MuttonChaap",
+    "calories": 380.0,
+    "protein": 26.0,
+    "carbs": 6.0,
+    "fats": 27.0
+  },
+  {
+    "frontend_label": "Mutton Nalli Nihari",
+    "model_key": "MuttonNalliNihari",
+    "calories": 450.0,
+    "protein": 28.0,
+    "carbs": 8.0,
+    "fats": 32.0
+  },
+  {
+    "frontend_label": "Mutton Paya",
+    "model_key": "MuttonPaya",
+    "calories": 300.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Brain Masala",
+    "model_key": "MuttonBrainMasala",
+    "calories": 220.0,
+    "protein": 18.0,
+    "carbs": 4.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Mutton Liver Masala",
+    "model_key": "MuttonLiverMasala",
+    "calories": 190.0,
+    "protein": 26.0,
+    "carbs": 5.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mutton Kidney Masala",
+    "model_key": "MuttonKidneyMasala",
+    "calories": 180.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mutton Biryani",
+    "model_key": "MuttonBiryani",
+    "calories": 550.0,
+    "protein": 22.0,
+    "carbs": 55.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Mutton Pulav",
+    "model_key": "MuttonPulav",
+    "calories": 450.0,
+    "protein": 20.0,
+    "carbs": 50.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Mutton Rice",
+    "model_key": "MuttonRice",
+    "calories": 400.0,
+    "protein": 18.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Mutton Khichdi",
+    "model_key": "MuttonKhichdi",
+    "calories": 420.0,
+    "protein": 18.0,
+    "carbs": 48.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Mutton Dalia",
+    "model_key": "MuttonDalia",
+    "calories": 350.0,
+    "protein": 18.0,
+    "carbs": 42.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Mutton Pasta",
+    "model_key": "MuttonPasta",
+    "calories": 400.0,
+    "protein": 20.0,
+    "carbs": 45.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Sandwich",
+    "model_key": "MuttonSandwich",
+    "calories": 350.0,
+    "protein": 20.0,
+    "carbs": 30.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Burger",
+    "model_key": "MuttonBurger",
+    "calories": 500.0,
+    "protein": 22.0,
+    "carbs": 48.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Mutton Roll",
+    "model_key": "MuttonRoll",
+    "calories": 400.0,
+    "protein": 20.0,
+    "carbs": 35.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Mutton Wrap",
+    "model_key": "MuttonWrap",
+    "calories": 380.0,
+    "protein": 20.0,
+    "carbs": 35.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Mutton Salad",
+    "model_key": "MuttonSalad",
+    "calories": 250.0,
+    "protein": 28.0,
+    "carbs": 10.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Egg Curry",
+    "model_key": "EggCurry",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Anda Masala",
+    "model_key": "AndaMasala",
+    "calories": 210.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Bhurji",
+    "model_key": "EggBhurji",
+    "calories": 180.0,
+    "protein": 11.0,
+    "carbs": 5.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Boiled Egg",
+    "model_key": "BoiledEgg",
+    "calories": 75.0,
+    "protein": 6.0,
+    "carbs": 0.5,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Fried Egg",
+    "model_key": "FriedEgg",
+    "calories": 90.0,
+    "protein": 6.0,
+    "carbs": 0.5,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Poached Egg",
+    "model_key": "PoachedEgg",
+    "calories": 70.0,
+    "protein": 6.0,
+    "carbs": 0.5,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Scrambled Egg",
+    "model_key": "ScrambledEgg",
+    "calories": 150.0,
+    "protein": 11.0,
+    "carbs": 1.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Egg Omelette",
+    "model_key": "EggOmelette",
+    "calories": 160.0,
+    "protein": 11.0,
+    "carbs": 2.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Egg Masala Fry",
+    "model_key": "EggMasalaFry",
+    "calories": 190.0,
+    "protein": 11.0,
+    "carbs": 5.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Egg Korma",
+    "model_key": "EggKorma",
+    "calories": 240.0,
+    "protein": 12.0,
+    "carbs": 9.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Egg Kadai",
+    "model_key": "EggKadai",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Achari",
+    "model_key": "EggAchari",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Lababdar",
+    "model_key": "EggLababdar",
+    "calories": 250.0,
+    "protein": 13.0,
+    "carbs": 9.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Egg Hariyali",
+    "model_key": "EggHariyali",
+    "calories": 210.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Egg Sukka",
+    "model_key": "EggSukka",
+    "calories": 230.0,
+    "protein": 13.0,
+    "carbs": 6.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Egg Kolhapuri",
+    "model_key": "EggKolhapuri",
+    "calories": 230.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Egg Hyderabadi",
+    "model_key": "EggHyderabadi",
+    "calories": 230.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Egg Punjabi",
+    "model_key": "EggPunjabi",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Bengali",
+    "model_key": "EggBengali",
+    "calories": 220.0,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Kashmiri",
+    "model_key": "EggKashmiri",
+    "calories": 240.0,
+    "protein": 12.0,
+    "carbs": 9.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Egg Biryani",
+    "model_key": "EggBiryani",
+    "calories": 380.0,
+    "protein": 18.0,
+    "carbs": 45.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Egg Pulav",
+    "model_key": "EggPulav",
+    "calories": 350.0,
+    "protein": 16.0,
+    "carbs": 42.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Egg Fried Rice",
+    "model_key": "EggFriedRice",
+    "calories": 360.0,
+    "protein": 16.0,
+    "carbs": 45.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Rice",
+    "model_key": "EggRice",
+    "calories": 320.0,
+    "protein": 15.0,
+    "carbs": 40.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Egg Khichdi",
+    "model_key": "EggKhichdi",
+    "calories": 300.0,
+    "protein": 15.0,
+    "carbs": 40.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Egg Pasta",
+    "model_key": "EggPasta",
+    "calories": 340.0,
+    "protein": 16.0,
+    "carbs": 40.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Sandwich",
+    "model_key": "EggSandwich",
+    "calories": 280.0,
+    "protein": 14.0,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Egg Burger",
+    "model_key": "EggBurger",
+    "calories": 420.0,
+    "protein": 16.0,
+    "carbs": 45.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Egg Roll",
+    "model_key": "EggRoll",
+    "calories": 320.0,
+    "protein": 15.0,
+    "carbs": 35.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Egg Wrap",
+    "model_key": "EggWrap",
+    "calories": 300.0,
+    "protein": 15.0,
+    "carbs": 32.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Egg Salad",
+    "model_key": "EggSalad",
+    "calories": 180.0,
+    "protein": 15.0,
+    "carbs": 8.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Curry",
+    "model_key": "FishCurry",
+    "calories": 180.0,
+    "protein": 20.0,
+    "carbs": 6.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Fish Fry",
+    "model_key": "FishFry",
+    "calories": 250.0,
+    "protein": 22.0,
+    "carbs": 6.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Prawn Masala",
+    "model_key": "PrawnMasala",
+    "calories": 200.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Fish Tikka",
+    "model_key": "FishTikka",
+    "calories": 220.0,
+    "protein": 24.0,
+    "carbs": 5.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Masala",
+    "model_key": "FishMasala",
+    "calories": 190.0,
+    "protein": 20.0,
+    "carbs": 6.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Fish Kadai",
+    "model_key": "FishKadai",
+    "calories": 200.0,
+    "protein": 20.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Achari",
+    "model_key": "FishAchari",
+    "calories": 200.0,
+    "protein": 20.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Lababdar",
+    "model_key": "FishLababdar",
+    "calories": 230.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Fish Hariyali",
+    "model_key": "FishHariyali",
+    "calories": 190.0,
+    "protein": 21.0,
+    "carbs": 6.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Fish Sukka",
+    "model_key": "FishSukka",
+    "calories": 220.0,
+    "protein": 22.0,
+    "carbs": 5.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Fish Ghee Roast",
+    "model_key": "FishGheeRoast",
+    "calories": 280.0,
+    "protein": 21.0,
+    "carbs": 6.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Fish Kolhapuri",
+    "model_key": "FishKolhapuri",
+    "calories": 210.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Hyderabadi",
+    "model_key": "FishHyderabadi",
+    "calories": 210.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Punjabi",
+    "model_key": "FishPunjabi",
+    "calories": 200.0,
+    "protein": 20.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Bengali",
+    "model_key": "FishBengali",
+    "calories": 200.0,
+    "protein": 20.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Fish Kashmiri",
+    "model_key": "FishKashmiri",
+    "calories": 220.0,
+    "protein": 20.0,
+    "carbs": 9.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Goan",
+    "model_key": "FishGoan",
+    "calories": 210.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Mangalorean",
+    "model_key": "FishMangalorean",
+    "calories": 210.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Malwani",
+    "model_key": "FishMalwani",
+    "calories": 210.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Awadhi",
+    "model_key": "FishAwadhi",
+    "calories": 220.0,
+    "protein": 21.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Fish Nawabi",
+    "model_key": "FishNawabi",
+    "calories": 240.0,
+    "protein": 21.0,
+    "carbs": 9.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Fish Afghani",
+    "model_key": "FishAfghani",
+    "calories": 230.0,
+    "protein": 22.0,
+    "carbs": 6.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Prawn Curry",
+    "model_key": "PrawnCurry",
+    "calories": 210.0,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Prawn Fry",
+    "model_key": "PrawnFry",
+    "calories": 260.0,
+    "protein": 24.0,
+    "carbs": 7.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Prawn Tikka",
+    "model_key": "PrawnTikka",
+    "calories": 230.0,
+    "protein": 25.0,
+    "carbs": 6.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Prawn Masala",
+    "model_key": "PrawnMasala",
+    "calories": 220.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Prawn Kadai",
+    "model_key": "PrawnKadai",
+    "calories": 220.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Prawn Achari",
+    "model_key": "PrawnAchari",
+    "calories": 220.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Prawn Lababdar",
+    "model_key": "PrawnLababdar",
+    "calories": 250.0,
+    "protein": 24.0,
+    "carbs": 9.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Prawn Hariyali",
+    "model_key": "PrawnHariyali",
+    "calories": 210.0,
+    "protein": 24.0,
+    "carbs": 6.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Prawn Sukka",
+    "model_key": "PrawnSukka",
+    "calories": 240.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Prawn Ghee Roast",
+    "model_key": "PrawnGheeRoast",
+    "calories": 300.0,
+    "protein": 24.0,
+    "carbs": 7.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Prawn Kolhapuri",
+    "model_key": "PrawnKolhapuri",
+    "calories": 230.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Hyderabadi",
+    "model_key": "PrawnHyderabadi",
+    "calories": 230.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Punjabi",
+    "model_key": "PrawnPunjabi",
+    "calories": 220.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Prawn Bengali",
+    "model_key": "PrawnBengali",
+    "calories": 220.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Prawn Kashmiri",
+    "model_key": "PrawnKashmiri",
+    "calories": 240.0,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Goan",
+    "model_key": "PrawnGoan",
+    "calories": 230.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Mangalorean",
+    "model_key": "PrawnMangalorean",
+    "calories": 230.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Malwani",
+    "model_key": "PrawnMalwani",
+    "calories": 230.0,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Awadhi",
+    "model_key": "PrawnAwadhi",
+    "calories": 240.0,
+    "protein": 24.0,
+    "carbs": 8.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Prawn Nawabi",
+    "model_key": "PrawnNawabi",
+    "calories": 260.0,
+    "protein": 24.0,
+    "carbs": 9.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Prawn Afghani",
+    "model_key": "PrawnAfghani",
+    "calories": 250.0,
+    "protein": 25.0,
+    "carbs": 6.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Fish Biryani",
+    "model_key": "FishBiryani",
+    "calories": 420.0,
+    "protein": 25.0,
+    "carbs": 45.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Fish Pulav",
+    "model_key": "FishPulav",
+    "calories": 380.0,
+    "protein": 22.0,
+    "carbs": 42.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Fish Fried Rice",
+    "model_key": "FishFriedRice",
+    "calories": 400.0,
+    "protein": 22.0,
+    "carbs": 45.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Fish Rice",
+    "model_key": "FishRice",
+    "calories": 350.0,
+    "protein": 20.0,
+    "carbs": 40.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Fish Khichdi",
+    "model_key": "FishKhichdi",
+    "calories": 330.0,
+    "protein": 20.0,
+    "carbs": 40.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Fish Pasta",
+    "model_key": "FishPasta",
+    "calories": 380.0,
+    "protein": 22.0,
+    "carbs": 40.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Fish Sandwich",
+    "model_key": "FishSandwich",
+    "calories": 320.0,
+    "protein": 20.0,
+    "carbs": 30.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Prawn Biryani",
+    "model_key": "PrawnBiryani",
+    "calories": 450.0,
+    "protein": 28.0,
+    "carbs": 45.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Prawn Pulav",
+    "model_key": "PrawnPulav",
+    "calories": 400.0,
+    "protein": 25.0,
+    "carbs": 42.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Prawn Fried Rice",
+    "model_key": "PrawnFriedRice",
+    "calories": 420.0,
+    "protein": 25.0,
+    "carbs": 45.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Prawn Rice",
+    "model_key": "PrawnRice",
+    "calories": 370.0,
+    "protein": 23.0,
+    "carbs": 40.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Prawn Khichdi",
+    "model_key": "PrawnKhichdi",
+    "calories": 350.0,
+    "protein": 23.0,
+    "carbs": 40.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Prawn Pasta",
+    "model_key": "PrawnPasta",
+    "calories": 400.0,
+    "protein": 25.0,
+    "carbs": 40.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Prawn Sandwich",
+    "model_key": "PrawnSandwich",
+    "calories": 340.0,
+    "protein": 23.0,
+    "carbs": 30.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Crab Masala",
+    "model_key": "CrabMasala",
+    "calories": 180.0,
+    "protein": 25.0,
+    "carbs": 8.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Crab Curry",
+    "model_key": "CrabCurry",
+    "calories": 170.0,
+    "protein": 24.0,
+    "carbs": 8.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Crab Fry",
+    "model_key": "CrabFry",
+    "calories": 220.0,
+    "protein": 26.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Lobster Masala",
+    "model_key": "LobsterMasala",
+    "calories": 200.0,
+    "protein": 30.0,
+    "carbs": 7.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Lobster Curry",
+    "model_key": "LobsterCurry",
+    "calories": 190.0,
+    "protein": 29.0,
+    "carbs": 7.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Lobster Fry",
+    "model_key": "LobsterFry",
+    "calories": 250.0,
+    "protein": 32.0,
+    "carbs": 7.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Squid Masala",
+    "model_key": "SquidMasala",
+    "calories": 190.0,
+    "protein": 28.0,
+    "carbs": 7.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Squid Curry",
+    "model_key": "SquidCurry",
+    "calories": 180.0,
+    "protein": 27.0,
+    "carbs": 7.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Squid Fry",
+    "model_key": "SquidFry",
+    "calories": 230.0,
+    "protein": 29.0,
+    "carbs": 6.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Duck Curry",
+    "model_key": "DuckCurry",
+    "calories": 380.0,
+    "protein": 25.0,
+    "carbs": 7.0,
+    "fats": 28.0
+  },
+  {
+    "frontend_label": "Duck Fry",
+    "model_key": "DuckFry",
+    "calories": 420.0,
+    "protein": 28.0,
+    "carbs": 6.0,
+    "fats": 30.0
+  },
+  {
+    "frontend_label": "Duck Masala",
+    "model_key": "DuckMasala",
+    "calories": 400.0,
+    "protein": 26.0,
+    "carbs": 8.0,
+    "fats": 29.0
+  },
+  {
+    "frontend_label": "Quail Masala",
+    "model_key": "QuailMasala",
+    "calories": 210.0,
+    "protein": 25.0,
+    "carbs": 5.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Quail Fry",
+    "model_key": "QuailFry",
+    "calories": 250.0,
+    "protein": 27.0,
+    "carbs": 4.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Quail Curry",
+    "model_key": "QuailCurry",
+    "calories": 220.0,
+    "protein": 26.0,
+    "carbs": 5.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Turkey Masala",
+    "model_key": "TurkeyMasala",
+    "calories": 260.0,
+    "protein": 30.0,
+    "carbs": 6.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Turkey Fry",
+    "model_key": "TurkeyFry",
+    "calories": 300.0,
+    "protein": 32.0,
+    "carbs": 5.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Turkey Curry",
+    "model_key": "TurkeyCurry",
+    "calories": 280.0,
+    "protein": 31.0,
+    "carbs": 6.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Butter Masala Jain",
+    "model_key": "PaneerButterMasalaJain",
+    "calories": 270.0,
+    "protein": 9.0,
+    "carbs": 14.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Dal Tadka Jain",
+    "model_key": "DalTadkaJain",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Makhani Jain",
+    "model_key": "DalMakhaniJain",
+    "calories": 190.0,
+    "protein": 5.5,
+    "carbs": 14.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Kadhi Pakora Jain",
+    "model_key": "KadhiPakoraJain",
+    "calories": 240.0,
+    "protein": 6.0,
+    "carbs": 25.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Matar Paneer Jain",
+    "model_key": "MatarPaneerJain",
+    "calories": 170.0,
+    "protein": 6.5,
+    "carbs": 14.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Palak Paneer Jain",
+    "model_key": "PalakPaneerJain",
+    "calories": 150.0,
+    "protein": 7.5,
+    "carbs": 11.0,
+    "fats": 7.5
+  },
+  {
+    "frontend_label": "Kadai Paneer Jain",
+    "model_key": "KadaiPaneerJain",
+    "calories": 200.0,
+    "protein": 8.0,
+    "carbs": 11.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Paneer Lababdar Jain",
+    "model_key": "PaneerLababdarJain",
+    "calories": 250.0,
+    "protein": 9.0,
+    "carbs": 13.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Malai Kofta Jain",
+    "model_key": "MalaiKoftaJain",
+    "calories": 290.0,
+    "protein": 5.5,
+    "carbs": 22.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Veg Korma Jain",
+    "model_key": "VegKormaJain",
+    "calories": 130.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 5.5
+  },
+  {
+    "frontend_label": "Veg Jalfrezi Jain",
+    "model_key": "VegJalfreziJain",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Mushroom Masala Jain",
+    "model_key": "MushroomMasalaJain",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 14.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Mix Veg Jain",
+    "model_key": "MixVegJain",
+    "calories": 100.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Fry Jain",
+    "model_key": "DalFryJain",
+    "calories": 120.0,
+    "protein": 5.0,
+    "carbs": 16.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Yellow Dal Jain",
+    "model_key": "YellowDalJain",
+    "calories": 100.0,
+    "protein": 4.5,
+    "carbs": 16.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Chana Dal Jain",
+    "model_key": "ChanaDalJain",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Masoor Dal Jain",
+    "model_key": "MasoorDalJain",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 16.0,
+    "fats": 1.5
+  },
+  {
+    "frontend_label": "Paneer Bhurji Jain",
+    "model_key": "PaneerBhurjiJain",
+    "calories": 210.0,
+    "protein": 11.0,
+    "carbs": 9.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Shahi Paneer Jain",
+    "model_key": "ShahiPaneerJain",
+    "calories": 260.0,
+    "protein": 8.5,
+    "carbs": 14.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Pasanda Jain",
+    "model_key": "PaneerPasandaJain",
+    "calories": 250.0,
+    "protein": 9.5,
+    "carbs": 13.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Kofta Jain",
+    "model_key": "PaneerKoftaJain",
+    "calories": 265.0,
+    "protein": 7.5,
+    "carbs": 15.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Achari Jain",
+    "model_key": "PaneerAchariJain",
+    "calories": 210.0,
+    "protein": 8.5,
+    "carbs": 9.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Hyderabadi Jain",
+    "model_key": "PaneerHyderabadiJain",
+    "calories": 230.0,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Jalfrezi Jain",
+    "model_key": "PaneerJalfreziJain",
+    "calories": 200.0,
+    "protein": 8.0,
+    "carbs": 10.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Paneer Makhani Jain",
+    "model_key": "PaneerMakhaniJain",
+    "calories": 260.0,
+    "protein": 8.5,
+    "carbs": 12.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Kali Mirch Jain",
+    "model_key": "PaneerKaliMirchJain",
+    "calories": 240.0,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Corn Masala Jain",
+    "model_key": "PaneerCornMasalaJain",
+    "calories": 220.0,
+    "protein": 7.5,
+    "carbs": 14.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Capsicum Jain",
+    "model_key": "PaneerCapsicumJain",
+    "calories": 190.0,
+    "protein": 7.5,
+    "carbs": 9.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Paneer Dhokla Masala Jain",
+    "model_key": "PaneerDhoklaMasalaJain",
+    "calories": 230.0,
+    "protein": 7.0,
+    "carbs": 19.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Tawa Masala Jain",
+    "model_key": "PaneerTawaMasalaJain",
+    "calories": 220.0,
+    "protein": 8.5,
+    "carbs": 10.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Kolhapuri Jain",
+    "model_key": "PaneerKolhapuriJain",
+    "calories": 235.0,
+    "protein": 8.0,
+    "carbs": 12.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Lazeez Jain",
+    "model_key": "PaneerLazeezJain",
+    "calories": 255.0,
+    "protein": 8.5,
+    "carbs": 13.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Chatpata Jain",
+    "model_key": "PaneerChatpataJain",
+    "calories": 215.0,
+    "protein": 8.0,
+    "carbs": 11.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Shahi Korma Jain",
+    "model_key": "PaneerShahiKormaJain",
+    "calories": 270.0,
+    "protein": 7.5,
+    "carbs": 14.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Paneer Punjabi Jain",
+    "model_key": "PaneerPunjabiJain",
+    "calories": 240.0,
+    "protein": 9.0,
+    "carbs": 10.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Karahi Jain",
+    "model_key": "PaneerKarahiJain",
+    "calories": 210.0,
+    "protein": 8.0,
+    "carbs": 9.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Handi Jain",
+    "model_key": "PaneerHandiJain",
+    "calories": 250.0,
+    "protein": 8.5,
+    "carbs": 11.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Paneer Nawabi Jain",
+    "model_key": "PaneerNawabiJain",
+    "calories": 265.0,
+    "protein": 8.0,
+    "carbs": 13.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Paneer Lahori Jain",
+    "model_key": "PaneerLahoriJain",
+    "calories": 225.0,
+    "protein": 8.5,
+    "carbs": 10.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Paneer Malai Jain",
+    "model_key": "PaneerMalaiJain",
+    "calories": 280.0,
+    "protein": 7.0,
+    "carbs": 11.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Paneer Begum Bahar Jain",
+    "model_key": "PaneerBegumBaharJain",
+    "calories": 270.0,
+    "protein": 8.0,
+    "carbs": 13.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Paneer Angara Jain",
+    "model_key": "PaneerAngaraJain",
+    "calories": 245.0,
+    "protein": 8.5,
+    "carbs": 11.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Paneer Kadai Style Jain",
+    "model_key": "PaneerKadaiStyleJain",
+    "calories": 215.0,
+    "protein": 8.0,
+    "carbs": 10.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Paneer Masala Dry Jain",
+    "model_key": "PaneerMasalaDryJain",
+    "calories": 220.0,
+    "protein": 9.0,
+    "carbs": 8.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Paneer Stuffed Capsicum Jain",
+    "model_key": "PaneerStuffedCapsicumJain",
+    "calories": 250.0,
+    "protein": 7.5,
+    "carbs": 17.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Mix Veg Kadhai Jain",
+    "model_key": "MixVegKadhaiJain",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mix Veg Handi Jain",
+    "model_key": "MixVegHandiJain",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mix Veg Kolhapuri Jain",
+    "model_key": "MixVegKolhapuriJain",
+    "calories": 130.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mix Veg Jalfrezi Jain",
+    "model_key": "MixVegJalfreziJain",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mix Veg Achari Jain",
+    "model_key": "MixVegAchariJain",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mix Veg Paneer Jain",
+    "model_key": "MixVegPaneerJain",
+    "calories": 150.0,
+    "protein": 5.5,
+    "carbs": 14.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mix Veg Corn Jain",
+    "model_key": "MixVegCornJain",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 17.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mix Veg Masala Jain",
+    "model_key": "MixVegMasalaJain",
+    "calories": 110.0,
+    "protein": 2.5,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Dal Panchmel Jain",
+    "model_key": "DalPanchmelJain",
+    "calories": 120.0,
+    "protein": 5.5,
+    "carbs": 17.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Moradabadi Jain",
+    "model_key": "DalMoradabadiJain",
+    "calories": 100.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 1.5
+  },
+  {
+    "frontend_label": "Dal Bukara Jain",
+    "model_key": "DalBukaraJain",
+    "calories": 200.0,
+    "protein": 6.5,
+    "carbs": 15.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Dal Palak Jain",
+    "model_key": "DalPalakJain",
+    "calories": 100.0,
+    "protein": 4.5,
+    "carbs": 14.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Dal Makhani Slow Cooked Jain",
+    "model_key": "DalMakhaniSlowCookedJain",
+    "calories": 195.0,
+    "protein": 6.0,
+    "carbs": 14.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Dal Amritsari Jain",
+    "model_key": "DalAmritsariJain",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Dal Sultani Jain",
+    "model_key": "DalSultaniJain",
+    "calories": 140.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Dal Jodhpuri Jain",
+    "model_key": "DalJodhpuriJain",
+    "calories": 120.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Dal Maharani Jain",
+    "model_key": "DalMaharaniJain",
+    "calories": 150.0,
+    "protein": 5.5,
+    "carbs": 17.0,
+    "fats": 5.5
+  },
+  {
+    "frontend_label": "Dal Banjara Jain",
+    "model_key": "DalBanjaraJain",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Dal Methi Jain",
+    "model_key": "DalMethiJain",
+    "calories": 110.0,
+    "protein": 4.5,
+    "carbs": 16.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Chana Punjabi Jain",
+    "model_key": "DalChanaPunjabiJain",
+    "calories": 140.0,
+    "protein": 6.0,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Dal Urad Jain",
+    "model_key": "DalUradJain",
+    "calories": 130.0,
+    "protein": 5.5,
+    "carbs": 19.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Moong Jain",
+    "model_key": "DalMoongJain",
+    "calories": 100.0,
+    "protein": 4.5,
+    "carbs": 17.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Dal Masoor Punjabi Jain",
+    "model_key": "DalMasoorPunjabiJain",
+    "calories": 115.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Dal Tadka Extra Spicy Jain",
+    "model_key": "DalTadkaExtraSpicyJain",
+    "calories": 120.0,
+    "protein": 5.0,
+    "carbs": 17.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Kadhi Gujarati Jain",
+    "model_key": "KadhiGujaratiJain",
+    "calories": 210.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Kadhi Rajasthani Jain",
+    "model_key": "KadhiRajasthaniJain",
+    "calories": 230.0,
+    "protein": 6.0,
+    "carbs": 26.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Kadhi Paneer Jain",
+    "model_key": "KadhiPaneerJain",
+    "calories": 280.0,
+    "protein": 10.0,
+    "carbs": 25.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kadhi Methi Jain",
+    "model_key": "KadhiMethiJain",
+    "calories": 200.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Kadhi Palak Jain",
+    "model_key": "KadhiPalakJain",
+    "calories": 190.0,
+    "protein": 5.5,
+    "carbs": 22.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Gatte Ki Sabzi Jain",
+    "model_key": "GatteKiSabziJain",
+    "calories": 190.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gatte Ki Sabzi Dry Jain",
+    "model_key": "GatteKiSabziDryJain",
+    "calories": 200.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Gatte Masala Jain",
+    "model_key": "GatteMasalaJain",
+    "calories": 190.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Gatte Kadhi Jain",
+    "model_key": "GatteKadhiJain",
+    "calories": 240.0,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Gatte Paneer Jain",
+    "model_key": "GattePaneerJain",
+    "calories": 250.0,
+    "protein": 11.0,
+    "carbs": 18.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Gatte Corn Jain",
+    "model_key": "GatteCornJain",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 22.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gatte Handi Jain",
+    "model_key": "GatteHandiJain",
+    "calories": 210.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Gatte Achari Jain",
+    "model_key": "GatteAchariJain",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Gatte Punjabi Jain",
+    "model_key": "GattePunjabiJain",
+    "calories": 200.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Kaju Paneer Jain",
+    "model_key": "KajuPaneerJain",
+    "calories": 320.0,
+    "protein": 9.0,
+    "carbs": 18.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Korma Jain",
+    "model_key": "KajuKormaJain",
+    "calories": 340.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Masala Jain",
+    "model_key": "KajuMasalaJain",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Mushroom Jain",
+    "model_key": "KajuMushroomJain",
+    "calories": 310.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Corn Jain",
+    "model_key": "KajuCornJain",
+    "calories": 300.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Kaju Matar Jain",
+    "model_key": "KajuMatarJain",
+    "calories": 310.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Handi Jain",
+    "model_key": "KajuHandiJain",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Achari Jain",
+    "model_key": "KajuAchariJain",
+    "calories": 330.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Punjabi Jain",
+    "model_key": "KajuPunjabiJain",
+    "calories": 330.0,
+    "protein": 8.5,
+    "carbs": 18.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Kaju Shahi Jain",
+    "model_key": "KajuShahiJain",
+    "calories": 350.0,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kadai Jain",
+    "model_key": "KajuKadaiJain",
+    "calories": 320.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Palak Jain",
+    "model_key": "KajuPalakJain",
+    "calories": 300.0,
+    "protein": 8.5,
+    "carbs": 15.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Kaju Paneer Tikka Jain",
+    "model_key": "KajuPaneerTikkaJain",
+    "calories": 330.0,
+    "protein": 12.0,
+    "carbs": 15.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Jain",
+    "model_key": "KajuKoftaJain",
+    "calories": 340.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Mix Veg Jain",
+    "model_key": "KajuMixVegJain",
+    "calories": 290.0,
+    "protein": 7.0,
+    "carbs": 18.0,
+    "fats": 19.0
+  },
+  {
+    "frontend_label": "Kaju Makhana Jain",
+    "model_key": "KajuMakhanaJain",
+    "calories": 320.0,
+    "protein": 6.0,
+    "carbs": 22.0,
+    "fats": 21.0
+  },
+  {
+    "frontend_label": "Kaju Paneer Makhani Jain",
+    "model_key": "KajuPaneerMakhaniJain",
+    "calories": 350.0,
+    "protein": 9.0,
+    "carbs": 18.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Shahi Jain",
+    "model_key": "KajuKoftaShahiJain",
+    "calories": 360.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Kadhai Jain",
+    "model_key": "KajuKoftaKadhaiJain",
+    "calories": 340.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Makhani Jain",
+    "model_key": "KajuKoftaMakhaniJain",
+    "calories": 360.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Lababdar Jain",
+    "model_key": "KajuKoftaLababdarJain",
+    "calories": 360.0,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Achari Jain",
+    "model_key": "KajuKoftaAchariJain",
+    "calories": 340.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 24.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Handi Jain",
+    "model_key": "KajuKoftaHandiJain",
+    "calories": 350.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Paneer Jain",
+    "model_key": "KajuKoftaPaneerJain",
+    "calories": 370.0,
+    "protein": 11.0,
+    "carbs": 18.0,
+    "fats": 26.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Mix Veg Jain",
+    "model_key": "KajuKoftaMixVegJain",
+    "calories": 320.0,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Kaju Kofta Matar Jain",
+    "model_key": "KajuKoftaMatarJain",
+    "calories": 330.0,
+    "protein": 7.5,
+    "carbs": 20.0,
+    "fats": 23.0
+  },
+  {
+    "frontend_label": "Mushroom Matar Jain",
+    "model_key": "MushroomMatarJain",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mushroom Palak Jain",
+    "model_key": "MushroomPalakJain",
+    "calories": 110.0,
+    "protein": 5.0,
+    "carbs": 10.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Mushroom Masala Dry Jain",
+    "model_key": "MushroomMasalaDryJain",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 12.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mushroom Kadhai Jain",
+    "model_key": "MushroomKadhaiJain",
+    "calories": 130.0,
+    "protein": 4.5,
+    "carbs": 12.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mushroom Handi Jain",
+    "model_key": "MushroomHandiJain",
+    "calories": 150.0,
+    "protein": 4.5,
+    "carbs": 12.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Mushroom Achari Jain",
+    "model_key": "MushroomAchariJain",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 12.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Mushroom Corn Jain",
+    "model_key": "MushroomCornJain",
+    "calories": 140.0,
+    "protein": 4.5,
+    "carbs": 16.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Mushroom Paneer Jain",
+    "model_key": "MushroomPaneerJain",
+    "calories": 180.0,
+    "protein": 8.0,
+    "carbs": 12.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Mushroom Corn Palak Jain",
+    "model_key": "MushroomCornPalakJain",
+    "calories": 130.0,
+    "protein": 5.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mushroom Kali Mirch Jain",
+    "model_key": "MushroomKaliMirchJain",
+    "calories": 140.0,
+    "protein": 4.5,
+    "carbs": 10.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Mushroom Nawabi Jain",
+    "model_key": "MushroomNawabiJain",
+    "calories": 170.0,
+    "protein": 5.0,
+    "carbs": 12.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Corn Masala Jain",
+    "model_key": "CornMasalaJain",
+    "calories": 150.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Corn Palak Jain",
+    "model_key": "CornPalakJain",
+    "calories": 120.0,
+    "protein": 4.5,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Corn Makhani Jain",
+    "model_key": "CornMakhaniJain",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 18.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Corn Kadhai Jain",
+    "model_key": "CornKadhaiJain",
+    "calories": 160.0,
+    "protein": 4.5,
+    "carbs": 18.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Corn Paneer Jain",
+    "model_key": "CornPaneerJain",
+    "calories": 210.0,
+    "protein": 7.5,
+    "carbs": 16.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Corn Mushroom Jain",
+    "model_key": "CornMushroomJain",
+    "calories": 150.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Corn Handi Jain",
+    "model_key": "CornHandiJain",
+    "calories": 170.0,
+    "protein": 4.5,
+    "carbs": 18.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Corn Achari Jain",
+    "model_key": "CornAchariJain",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 18.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Corn Nawabi Jain",
+    "model_key": "CornNawabiJain",
+    "calories": 190.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Corn Lababdar Jain",
+    "model_key": "CornLababdarJain",
+    "calories": 200.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Lauki Kofta Jain",
+    "model_key": "LaukiKoftaJain",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 20.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Lauki Masala Jain",
+    "model_key": "LaukiMasalaJain",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Lauki Chana Dal Jain",
+    "model_key": "LaukiChanaDalJain",
+    "calories": 140.0,
+    "protein": 5.0,
+    "carbs": 20.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Lauki Paneer Jain",
+    "model_key": "LaukiPaneerJain",
+    "calories": 160.0,
+    "protein": 6.0,
+    "carbs": 17.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Lauki Makhani Jain",
+    "model_key": "LaukiMakhaniJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Lauki Kadhai Jain",
+    "model_key": "LaukiKadhaiJain",
+    "calories": 120.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Lauki Handi Jain",
+    "model_key": "LaukiHandiJain",
+    "calories": 130.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Lauki Achari Jain",
+    "model_key": "LaukiAchariJain",
+    "calories": 120.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Lauki Nawabi Jain",
+    "model_key": "LaukiNawabiJain",
+    "calories": 160.0,
+    "protein": 3.5,
+    "carbs": 17.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Lauki Palak Jain",
+    "model_key": "LaukiPalakJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Bottle Gourd Masala Jain",
+    "model_key": "BottleGourdMasalaJain",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Pumpkin Masala Jain",
+    "model_key": "PumpkinMasalaJain",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Pumpkin Makhani Jain",
+    "model_key": "PumpkinMakhaniJain",
+    "calories": 160.0,
+    "protein": 2.5,
+    "carbs": 18.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Pumpkin Kadhai Jain",
+    "model_key": "PumpkinKadhaiJain",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Pumpkin Handi Jain",
+    "model_key": "PumpkinHandiJain",
+    "calories": 120.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Pumpkin Achari Jain",
+    "model_key": "PumpkinAchariJain",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Pumpkin Paneer Jain",
+    "model_key": "PumpkinPaneerJain",
+    "calories": 160.0,
+    "protein": 6.0,
+    "carbs": 16.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Pumpkin Corn Jain",
+    "model_key": "PumpkinCornJain",
+    "calories": 130.0,
+    "protein": 3.0,
+    "carbs": 19.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Pumpkin Nawabi Jain",
+    "model_key": "PumpkinNawabiJain",
+    "calories": 150.0,
+    "protein": 3.0,
+    "carbs": 17.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Pumpkin Lababdar Jain",
+    "model_key": "PumpkinLababdarJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 17.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Pumpkin Palak Jain",
+    "model_key": "PumpkinPalakJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Capsicum Masala Jain",
+    "model_key": "CapsicumMasalaJain",
+    "calories": 90.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Capsicum Paneer Jain",
+    "model_key": "CapsicumPaneerJain",
+    "calories": 150.0,
+    "protein": 6.5,
+    "carbs": 13.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Capsicum Corn Jain",
+    "model_key": "CapsicumCornJain",
+    "calories": 120.0,
+    "protein": 3.5,
+    "carbs": 17.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Capsicum Kadhai Jain",
+    "model_key": "CapsicumKadhaiJain",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Capsicum Handi Jain",
+    "model_key": "CapsicumHandiJain",
+    "calories": 110.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Capsicum Achari Jain",
+    "model_key": "CapsicumAchariJain",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Capsicum Makhani Jain",
+    "model_key": "CapsicumMakhaniJain",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Capsicum Nawabi Jain",
+    "model_key": "CapsicumNawabiJain",
+    "calories": 140.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Capsicum Lababdar Jain",
+    "model_key": "CapsicumLababdarJain",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Capsicum Palak Jain",
+    "model_key": "CapsicumPalakJain",
+    "calories": 100.0,
+    "protein": 3.0,
+    "carbs": 13.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Peas Masala Jain",
+    "model_key": "PeasMasalaJain",
+    "calories": 140.0,
+    "protein": 5.0,
+    "carbs": 22.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Peas Paneer Jain",
+    "model_key": "PeasPaneerJain",
+    "calories": 200.0,
+    "protein": 8.0,
+    "carbs": 18.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Peas Corn Jain",
+    "model_key": "PeasCornJain",
+    "calories": 160.0,
+    "protein": 5.0,
+    "carbs": 24.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Peas Kadhai Jain",
+    "model_key": "PeasKadhaiJain",
+    "calories": 150.0,
+    "protein": 5.0,
+    "carbs": 21.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Peas Handi Jain",
+    "model_key": "PeasHandiJain",
+    "calories": 160.0,
+    "protein": 5.0,
+    "carbs": 21.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Peas Achari Jain",
+    "model_key": "PeasAchariJain",
+    "calories": 150.0,
+    "protein": 5.0,
+    "carbs": 21.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Peas Makhani Jain",
+    "model_key": "PeasMakhaniJain",
+    "calories": 190.0,
+    "protein": 5.5,
+    "carbs": 22.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Peas Nawabi Jain",
+    "model_key": "PeasNawabiJain",
+    "calories": 180.0,
+    "protein": 5.5,
+    "carbs": 21.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Peas Lababdar Jain",
+    "model_key": "PeasLababdarJain",
+    "calories": 200.0,
+    "protein": 5.5,
+    "carbs": 22.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Peas Palak Jain",
+    "model_key": "PeasPalakJain",
+    "calories": 140.0,
+    "protein": 5.5,
+    "carbs": 18.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Beans Masala Jain",
+    "model_key": "BeansMasalaJain",
+    "calories": 100.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Beans Paneer Jain",
+    "model_key": "BeansPaneerJain",
+    "calories": 160.0,
+    "protein": 7.5,
+    "carbs": 14.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Beans Corn Jain",
+    "model_key": "BeansCornJain",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 19.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Beans Kadhai Jain",
+    "model_key": "BeansKadhaiJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Beans Handi Jain",
+    "model_key": "BeansHandiJain",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Beans Achari Jain",
+    "model_key": "BeansAchariJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Beans Makhani Jain",
+    "model_key": "BeansMakhaniJain",
+    "calories": 150.0,
+    "protein": 3.5,
+    "carbs": 16.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Beans Nawabi Jain",
+    "model_key": "BeansNawabiJain",
+    "calories": 140.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Beans Lababdar Jain",
+    "model_key": "BeansLababdarJain",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 16.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Beans Palak Jain",
+    "model_key": "BeansPalakJain",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 12.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Raw Banana Masala Jain",
+    "model_key": "RawBananaMasalaJain",
+    "calories": 140.0,
+    "protein": 2.0,
+    "carbs": 25.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Raw Banana Kofta Jain",
+    "model_key": "RawBananaKoftaJain",
+    "calories": 200.0,
+    "protein": 3.0,
+    "carbs": 27.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Raw Banana Paneer Jain",
+    "model_key": "RawBananaPaneerJain",
+    "calories": 190.0,
+    "protein": 6.0,
+    "carbs": 23.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Raw Banana Kadhai Jain",
+    "model_key": "RawBananaKadhaiJain",
+    "calories": 150.0,
+    "protein": 2.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Raw Banana Handi Jain",
+    "model_key": "RawBananaHandiJain",
+    "calories": 160.0,
+    "protein": 2.0,
+    "carbs": 25.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Raw Banana Achari Jain",
+    "model_key": "RawBananaAchariJain",
+    "calories": 150.0,
+    "protein": 2.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Raw Banana Makhani Jain",
+    "model_key": "RawBananaMakhaniJain",
+    "calories": 190.0,
+    "protein": 2.5,
+    "carbs": 26.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Raw Banana Nawabi Jain",
+    "model_key": "RawBananaNawabiJain",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Raw Banana Lababdar Jain",
+    "model_key": "RawBananaLababdarJain",
+    "calories": 200.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Raw Banana Palak Jain",
+    "model_key": "RawBananaPalakJain",
+    "calories": 140.0,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Cluster Beans Masala Jain",
+    "model_key": "ClusterBeansMasalaJain",
+    "calories": 90.0,
+    "protein": 3.5,
+    "carbs": 13.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Cluster Beans Paneer Jain",
+    "model_key": "ClusterBeansPaneerJain",
+    "calories": 150.0,
+    "protein": 7.5,
+    "carbs": 12.0,
+    "fats": 7.5
+  },
+  {
+    "frontend_label": "Cluster Beans Corn Jain",
+    "model_key": "ClusterBeansCornJain",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 17.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Cluster Beans Kadhai Jain",
+    "model_key": "ClusterBeansKadhaiJain",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 13.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Cluster Beans Handi Jain",
+    "model_key": "ClusterBeansHandiJain",
+    "calories": 110.0,
+    "protein": 3.5,
+    "carbs": 13.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Cluster Beans Achari Jain",
+    "model_key": "ClusterBeansAchariJain",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 13.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Cluster Beans Makhani Jain",
+    "model_key": "ClusterBeansMakhaniJain",
+    "calories": 140.0,
+    "protein": 4.0,
+    "carbs": 14.0,
+    "fats": 7.5
+  },
+  {
+    "frontend_label": "Cluster Beans Nawabi Jain",
+    "model_key": "ClusterBeansNawabiJain",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 13.0,
+    "fats": 6.5
+  },
+  {
+    "frontend_label": "Cluster Beans Lababdar Jain",
+    "model_key": "ClusterBeansLababdarJain",
+    "calories": 150.0,
+    "protein": 4.0,
+    "carbs": 14.0,
+    "fats": 8.5
+  },
+  {
+    "frontend_label": "Cluster Beans Palak Jain",
+    "model_key": "ClusterBeansPalakJain",
+    "calories": 90.0,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Drumstick Masala Jain",
+    "model_key": "DrumstickMasalaJain",
+    "calories": 100.0,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Drumstick Paneer Jain",
+    "model_key": "DrumstickPaneerJain",
+    "calories": 160.0,
+    "protein": 7.5,
+    "carbs": 14.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Drumstick Corn Jain",
+    "model_key": "DrumstickCornJain",
+    "calories": 130.0,
+    "protein": 4.0,
+    "carbs": 19.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Drumstick Kadhai Jain",
+    "model_key": "DrumstickKadhaiJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Drumstick Handi Jain",
+    "model_key": "DrumstickHandiJain",
+    "calories": 120.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Drumstick Achari Jain",
+    "model_key": "DrumstickAchariJain",
+    "calories": 110.0,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Drumstick Makhani Jain",
+    "model_key": "DrumstickMakhaniJain",
+    "calories": 150.0,
+    "protein": 3.5,
+    "carbs": 16.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Drumstick Nawabi Jain",
+    "model_key": "DrumstickNawabiJain",
+    "calories": 140.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Drumstick Lababdar Jain",
+    "model_key": "DrumstickLababdarJain",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 16.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Drumstick Palak Jain",
+    "model_key": "DrumstickPalakJain",
+    "calories": 100.0,
+    "protein": 3.5,
+    "carbs": 12.0,
+    "fats": 3.5
+  },
+  {
+    "frontend_label": "Suran Masala Jain",
+    "model_key": "SuranMasalaJain",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Suran Kofta Jain",
+    "model_key": "SuranKoftaJain",
+    "calories": 210.0,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Suran Paneer Jain",
+    "model_key": "SuranPaneerJain",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 26.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Suran Kadhai Jain",
+    "model_key": "SuranKadhaiJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Suran Handi Jain",
+    "model_key": "SuranHandiJain",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Suran Achari Jain",
+    "model_key": "SuranAchariJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Suran Makhani Jain",
+    "model_key": "SuranMakhaniJain",
+    "calories": 210.0,
+    "protein": 3.5,
+    "carbs": 29.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Suran Nawabi Jain",
+    "model_key": "SuranNawabiJain",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Suran Lababdar Jain",
+    "model_key": "SuranLababdarJain",
+    "calories": 220.0,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Suran Palak Jain",
+    "model_key": "SuranPalakJain",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Arbi Masala Jain",
+    "model_key": "ArbiMasalaJain",
+    "calories": 150.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Arbi Kofta Jain",
+    "model_key": "ArbiKoftaJain",
+    "calories": 200.0,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Arbi Paneer Jain",
+    "model_key": "ArbiPaneerJain",
+    "calories": 190.0,
+    "protein": 7.0,
+    "carbs": 24.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Arbi Kadhai Jain",
+    "model_key": "ArbiKadhaiJain",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Arbi Handi Jain",
+    "model_key": "ArbiHandiJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Arbi Achari Jain",
+    "model_key": "ArbiAchariJain",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Arbi Makhani Jain",
+    "model_key": "ArbiMakhaniJain",
+    "calories": 200.0,
+    "protein": 3.5,
+    "carbs": 27.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Arbi Nawabi Jain",
+    "model_key": "ArbiNawabiJain",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Arbi Lababdar Jain",
+    "model_key": "ArbiLababdarJain",
+    "calories": 210.0,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Arbi Palak Jain",
+    "model_key": "ArbiPalakJain",
+    "calories": 150.0,
+    "protein": 4.0,
+    "carbs": 23.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Jimikand Masala Jain",
+    "model_key": "JimikandMasalaJain",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Jimikand Kofta Jain",
+    "model_key": "JimikandKoftaJain",
+    "calories": 220.0,
+    "protein": 4.0,
+    "carbs": 31.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Jimikand Paneer Jain",
+    "model_key": "JimikandPaneerJain",
+    "calories": 210.0,
+    "protein": 7.0,
+    "carbs": 28.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Jimikand Kadhai Jain",
+    "model_key": "JimikandKadhaiJain",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Jimikand Handi Jain",
+    "model_key": "JimikandHandiJain",
+    "calories": 190.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Jimikand Achari Jain",
+    "model_key": "JimikandAchariJain",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Jimikand Makhani Jain",
+    "model_key": "JimikandMakhaniJain",
+    "calories": 220.0,
+    "protein": 3.5,
+    "carbs": 31.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Jimikand Nawabi Jain",
+    "model_key": "JimikandNawabiJain",
+    "calories": 200.0,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Jimikand Lababdar Jain",
+    "model_key": "JimikandLababdarJain",
+    "calories": 230.0,
+    "protein": 4.0,
+    "carbs": 31.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Jimikand Palak Jain",
+    "model_key": "JimikandPalakJain",
+    "calories": 170.0,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Chai Masala",
+    "model_key": "ChaiMasala",
+    "calories": 60.0,
+    "protein": 1.5,
+    "carbs": 8.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Adrak Chai",
+    "model_key": "AdrakChai",
+    "calories": 55.0,
+    "protein": 1.5,
+    "carbs": 7.5,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Elaichi Chai",
+    "model_key": "ElaichiChai",
+    "calories": 60.0,
+    "protein": 1.5,
+    "carbs": 8.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Tulsi Chai",
+    "model_key": "TulsiChai",
+    "calories": 50.0,
+    "protein": 1.5,
+    "carbs": 7.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Lemon Tea",
+    "model_key": "LemonTea",
+    "calories": 30.0,
+    "protein": 0.0,
+    "carbs": 7.5,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Green Tea",
+    "model_key": "GreenTea",
+    "calories": 5.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Black Tea",
+    "model_key": "BlackTea",
+    "calories": 5.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Ice Tea Lemon",
+    "model_key": "IceTeaLemon",
+    "calories": 80.0,
+    "protein": 0.0,
+    "carbs": 20.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Ice Tea Peach",
+    "model_key": "IceTeaPeach",
+    "calories": 90.0,
+    "protein": 0.0,
+    "carbs": 22.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Cold Coffee",
+    "model_key": "ColdCoffee",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 40.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Hot Coffee",
+    "model_key": "HotCoffee",
+    "calories": 60.0,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Espresso Indian Style",
+    "model_key": "EspressoIndianStyle",
+    "calories": 20.0,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Filter Coffee",
+    "model_key": "FilterCoffee",
+    "calories": 70.0,
+    "protein": 2.5,
+    "carbs": 9.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Cappuccino Indian Style",
+    "model_key": "CappuccinoIndianStyle",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Mango Shake",
+    "model_key": "MangoShake",
+    "calories": 280.0,
+    "protein": 4.0,
+    "carbs": 52.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Banana Shake",
+    "model_key": "BananaShake",
+    "calories": 260.0,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Strawberry Shake",
+    "model_key": "StrawberryShake",
+    "calories": 240.0,
+    "protein": 4.0,
+    "carbs": 42.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Chocolate Shake",
+    "model_key": "ChocolateShake",
+    "calories": 320.0,
+    "protein": 5.0,
+    "carbs": 50.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Vanilla Shake",
+    "model_key": "VanillaShake",
+    "calories": 280.0,
+    "protein": 4.0,
+    "carbs": 46.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Butterscotch Shake",
+    "model_key": "ButterscotchShake",
+    "calories": 300.0,
+    "protein": 4.0,
+    "carbs": 50.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Oreo Shake",
+    "model_key": "OreoShake",
+    "calories": 350.0,
+    "protein": 5.0,
+    "carbs": 55.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Kitkat Shake",
+    "model_key": "KitkatShake",
+    "calories": 360.0,
+    "protein": 5.0,
+    "carbs": 55.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Rose Milk",
+    "model_key": "RoseMilk",
+    "calories": 200.0,
+    "protein": 6.0,
+    "carbs": 28.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Badam Milk",
+    "model_key": "BadamMilk",
+    "calories": 250.0,
+    "protein": 8.0,
+    "carbs": 30.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Thandai",
+    "model_key": "Thandai",
+    "calories": 280.0,
+    "protein": 6.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Kesar Doodh",
+    "model_key": "KesarDoodh",
+    "calories": 220.0,
+    "protein": 7.0,
+    "carbs": 28.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Haldi Doodh",
+    "model_key": "HaldiDoodh",
+    "calories": 180.0,
+    "protein": 7.0,
+    "carbs": 25.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Lassi Sweet",
+    "model_key": "LassiSweet",
+    "calories": 220.0,
+    "protein": 6.0,
+    "carbs": 35.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Lassi Salted",
+    "model_key": "LassiSalted",
+    "calories": 150.0,
+    "protein": 6.0,
+    "carbs": 15.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Masala Chaas",
+    "model_key": "MasalaChaas",
+    "calories": 80.0,
+    "protein": 4.0,
+    "carbs": 8.0,
+    "fats": 3.0
+  },
+  {
+    "frontend_label": "Nimbu Pani",
+    "model_key": "NimbuPani",
+    "calories": 100.0,
+    "protein": 0.5,
+    "carbs": 25.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Shikanji",
+    "model_key": "Shikanji",
+    "calories": 110.0,
+    "protein": 0.5,
+    "carbs": 28.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Jaljeera",
+    "model_key": "Jaljeera",
+    "calories": 40.0,
+    "protein": 0.5,
+    "carbs": 10.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Coconut Water",
+    "model_key": "CoconutWater",
+    "calories": 45.0,
+    "protein": 1.0,
+    "carbs": 10.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Rooh Afza",
+    "model_key": "RoohAfza",
+    "calories": 160.0,
+    "protein": 0.0,
+    "carbs": 40.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Khus Sharbat",
+    "model_key": "KhusSharbat",
+    "calories": 180.0,
+    "protein": 0.0,
+    "carbs": 45.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Gulab Sharbat",
+    "model_key": "GulabSharbat",
+    "calories": 170.0,
+    "protein": 0.0,
+    "carbs": 42.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Kokum Sharbat",
+    "model_key": "KokumSharbat",
+    "calories": 120.0,
+    "protein": 0.5,
+    "carbs": 30.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Bel Sharbat",
+    "model_key": "BelSharbat",
+    "calories": 140.0,
+    "protein": 1.0,
+    "carbs": 35.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Aam Panna",
+    "model_key": "AamPanna",
+    "calories": 130.0,
+    "protein": 0.5,
+    "carbs": 32.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Bael Sharbat",
+    "model_key": "BaelSharbat",
+    "calories": 140.0,
+    "protein": 1.0,
+    "carbs": 35.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Sugarcane Juice",
+    "model_key": "SugarcaneJuice",
+    "calories": 180.0,
+    "protein": 1.0,
+    "carbs": 45.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Watermelon Juice",
+    "model_key": "WatermelonJuice",
+    "calories": 90.0,
+    "protein": 1.5,
+    "carbs": 22.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Orange Juice",
+    "model_key": "OrangeJuice",
+    "calories": 120.0,
+    "protein": 2.0,
+    "carbs": 28.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Pineapple Juice",
+    "model_key": "PineappleJuice",
+    "calories": 130.0,
+    "protein": 1.0,
+    "carbs": 32.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Mixed Fruit Juice",
+    "model_key": "MixedFruitJuice",
+    "calories": 140.0,
+    "protein": 1.0,
+    "carbs": 35.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Pomegranate Juice",
+    "model_key": "PomegranateJuice",
+    "calories": 150.0,
+    "protein": 1.5,
+    "carbs": 38.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Grape Juice",
+    "model_key": "GrapeJuice",
+    "calories": 160.0,
+    "protein": 1.0,
+    "carbs": 40.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Papaya Juice",
+    "model_key": "PapayaJuice",
+    "calories": 110.0,
+    "protein": 1.0,
+    "carbs": 28.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Carrot Beetroot Juice",
+    "model_key": "CarrotBeetrootJuice",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 24.0,
+    "fats": 0.5
+  },
+  {
+    "frontend_label": "Chocolate Cake",
+    "model_key": "ChocolateCake",
+    "calories": 350.0,
+    "protein": 4.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Vanilla Cake",
+    "model_key": "VanillaCake",
+    "calories": 330.0,
+    "protein": 3.5,
+    "carbs": 50.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Butterscotch Cake",
+    "model_key": "ButterscotchCake",
+    "calories": 360.0,
+    "protein": 4.0,
+    "carbs": 52.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Strawberry Cake",
+    "model_key": "StrawberryCake",
+    "calories": 320.0,
+    "protein": 3.5,
+    "carbs": 52.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Black Forest Cake",
+    "model_key": "BlackForestCake",
+    "calories": 340.0,
+    "protein": 4.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "White Forest Cake",
+    "model_key": "WhiteForestCake",
+    "calories": 340.0,
+    "protein": 4.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Pineapple Cake",
+    "model_key": "PineappleCake",
+    "calories": 320.0,
+    "protein": 3.0,
+    "carbs": 52.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Red Velvet Cake",
+    "model_key": "RedVelvetCake",
+    "calories": 360.0,
+    "protein": 4.5,
+    "carbs": 48.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Coffee Cake",
+    "model_key": "CoffeeCake",
+    "calories": 340.0,
+    "protein": 4.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Fruit Cake",
+    "model_key": "FruitCake",
+    "calories": 350.0,
+    "protein": 4.0,
+    "carbs": 55.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Marble Cake",
+    "model_key": "MarbleCake",
+    "calories": 340.0,
+    "protein": 4.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Carrot Cake",
+    "model_key": "CarrotCake",
+    "calories": 360.0,
+    "protein": 4.0,
+    "carbs": 50.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Blueberry Cake",
+    "model_key": "BlueberryCake",
+    "calories": 330.0,
+    "protein": 3.5,
+    "carbs": 52.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Mango Cake",
+    "model_key": "MangoCake",
+    "calories": 320.0,
+    "protein": 3.5,
+    "carbs": 52.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Truffle Cake",
+    "model_key": "TruffleCake",
+    "calories": 400.0,
+    "protein": 5.0,
+    "carbs": 45.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Choco Chip Cake",
+    "model_key": "ChocoChipCake",
+    "calories": 370.0,
+    "protein": 4.5,
+    "carbs": 50.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Oreo Cake",
+    "model_key": "OreoCake",
+    "calories": 380.0,
+    "protein": 5.0,
+    "carbs": 50.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Kitkat Cake",
+    "model_key": "KitkatCake",
+    "calories": 400.0,
+    "protein": 5.0,
+    "carbs": 52.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Nutella Cake",
+    "model_key": "NutellaCake",
+    "calories": 420.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Rainbow Cake",
+    "model_key": "RainbowCake",
+    "calories": 350.0,
+    "protein": 3.5,
+    "carbs": 52.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Brownie",
+    "model_key": "Brownie",
+    "calories": 230.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chocolate Brownie",
+    "model_key": "ChocolateBrownie",
+    "calories": 240.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Walnut Brownie",
+    "model_key": "WalnutBrownie",
+    "calories": 260.0,
+    "protein": 4.0,
+    "carbs": 26.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Fudge Brownie",
+    "model_key": "FudgeBrownie",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Choco Lava Cake",
+    "model_key": "ChocoLavaCake",
+    "calories": 450.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Cupcake Vanilla",
+    "model_key": "CupcakeVanilla",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 28.0,
+    "fats": 9.0
+  },
+  {
+    "frontend_label": "Cupcake Chocolate",
+    "model_key": "CupcakeChocolate",
+    "calories": 220.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Cupcake Strawberry",
+    "model_key": "CupcakeStrawberry",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Cupcake Red Velvet",
+    "model_key": "CupcakeRedVelvet",
+    "calories": 230.0,
+    "protein": 2.5,
+    "carbs": 28.0,
+    "fats": 11.0
+  },
+  {
+    "frontend_label": "Cupcake Blueberry",
+    "model_key": "CupcakeBlueberry",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Muffin Vanilla",
+    "model_key": "MuffinVanilla",
+    "calories": 280.0,
+    "protein": 3.0,
+    "carbs": 40.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Muffin Chocolate",
+    "model_key": "MuffinChocolate",
+    "calories": 300.0,
+    "protein": 3.5,
+    "carbs": 40.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Muffin Blueberry",
+    "model_key": "MuffinBlueberry",
+    "calories": 280.0,
+    "protein": 3.0,
+    "carbs": 40.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Cheesecake Classic",
+    "model_key": "CheesecakeClassic",
+    "calories": 350.0,
+    "protein": 6.0,
+    "carbs": 30.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Cheesecake Blueberry",
+    "model_key": "CheesecakeBlueberry",
+    "calories": 360.0,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Cheesecake Strawberry",
+    "model_key": "CheesecakeStrawberry",
+    "calories": 360.0,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Cheesecake Mango",
+    "model_key": "CheesecakeMango",
+    "calories": 360.0,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fats": 25.0
+  },
+  {
+    "frontend_label": "Cheesecake Chocolate",
+    "model_key": "CheesecakeChocolate",
+    "calories": 400.0,
+    "protein": 7.0,
+    "carbs": 30.0,
+    "fats": 28.0
+  },
+  {
+    "frontend_label": "Donut Glazed",
+    "model_key": "DonutGlazed",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 32.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Donut Chocolate",
+    "model_key": "DonutChocolate",
+    "calories": 280.0,
+    "protein": 3.5,
+    "carbs": 32.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Donut Strawberry",
+    "model_key": "DonutStrawberry",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 32.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Donut Caramel",
+    "model_key": "DonutCaramel",
+    "calories": 270.0,
+    "protein": 3.0,
+    "carbs": 32.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Pastry Chocolate",
+    "model_key": "PastryChocolate",
+    "calories": 280.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Pastry Pineapple",
+    "model_key": "PastryPineapple",
+    "calories": 260.0,
+    "protein": 2.5,
+    "carbs": 30.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Pastry Black Forest",
+    "model_key": "PastryBlackForest",
+    "calories": 270.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Pastry Red Velvet",
+    "model_key": "PastryRedVelvet",
+    "calories": 290.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Pastry Truffle",
+    "model_key": "PastryTruffle",
+    "calories": 320.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Ice Cream Vanilla",
+    "model_key": "IceCreamVanilla",
+    "calories": 210.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ice Cream Chocolate",
+    "model_key": "IceCreamChocolate",
+    "calories": 240.0,
+    "protein": 3.5,
+    "carbs": 26.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Ice Cream Butterscotch",
+    "model_key": "IceCreamButterscotch",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Ice Cream Strawberry",
+    "model_key": "IceCreamStrawberry",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ice Cream Mango",
+    "model_key": "IceCreamMango",
+    "calories": 230.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ice Cream Pista",
+    "model_key": "IceCreamPista",
+    "calories": 260.0,
+    "protein": 4.0,
+    "carbs": 26.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Ice Cream Kesar Pista",
+    "model_key": "IceCreamKesarPista",
+    "calories": 270.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Ice Cream Choco Chip",
+    "model_key": "IceCreamChocoChip",
+    "calories": 250.0,
+    "protein": 3.5,
+    "carbs": 26.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Ice Cream Coffee",
+    "model_key": "IceCreamCoffee",
+    "calories": 230.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Ice Cream Oreo",
+    "model_key": "IceCreamOreo",
+    "calories": 270.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Ice Cream Kitkat",
+    "model_key": "IceCreamKitkat",
+    "calories": 280.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Ice Cream Nutella",
+    "model_key": "IceCreamNutella",
+    "calories": 290.0,
+    "protein": 3.5,
+    "carbs": 30.0,
+    "fats": 17.0
+  },
+  {
+    "frontend_label": "Ice Cream Blueberry",
+    "model_key": "IceCreamBlueberry",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ice Cream Black Currant",
+    "model_key": "IceCreamBlackCurrant",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ice Cream Anjeer",
+    "model_key": "IceCreamAnjeer",
+    "calories": 240.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Ice Cream Sitaphal",
+    "model_key": "IceCreamSitaphal",
+    "calories": 240.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Ice Cream Tender Coconut",
+    "model_key": "IceCreamTenderCoconut",
+    "calories": 230.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Ice Cream Rajbhog",
+    "model_key": "IceCreamRajbhog",
+    "calories": 280.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Ice Cream Kaju Draksh",
+    "model_key": "IceCreamKajuDraksh",
+    "calories": 270.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Ice Cream Caramel",
+    "model_key": "IceCreamCaramel",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Kulfi Malai",
+    "model_key": "KulfiMalai",
+    "calories": 260.0,
+    "protein": 5.0,
+    "carbs": 26.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kulfi Pista",
+    "model_key": "KulfiPista",
+    "calories": 280.0,
+    "protein": 6.0,
+    "carbs": 26.0,
+    "fats": 16.0
+  },
+  {
+    "frontend_label": "Kulfi Kesar",
+    "model_key": "KulfiKesar",
+    "calories": 270.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kulfi Mango",
+    "model_key": "KulfiMango",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Kulfi Rose",
+    "model_key": "KulfiRose",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Kulfi Badam",
+    "model_key": "KulfiBadam",
+    "calories": 290.0,
+    "protein": 7.0,
+    "carbs": 26.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Falooda",
+    "model_key": "Falooda",
+    "calories": 300.0,
+    "protein": 5.0,
+    "carbs": 50.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Falooda Kulfi",
+    "model_key": "FaloodaKulfi",
+    "calories": 400.0,
+    "protein": 8.0,
+    "carbs": 50.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Falooda Royal",
+    "model_key": "FaloodaRoyal",
+    "calories": 350.0,
+    "protein": 6.0,
+    "carbs": 55.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Falooda Chocolate",
+    "model_key": "FaloodaChocolate",
+    "calories": 380.0,
+    "protein": 6.0,
+    "carbs": 55.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Gulab Jamun",
+    "model_key": "GulabJamun",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gulab Jamun Kesar",
+    "model_key": "GulabJamunKesar",
+    "calories": 210.0,
+    "protein": 2.0,
+    "carbs": 32.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Gulab Jamun Rabri",
+    "model_key": "GulabJamunRabri",
+    "calories": 350.0,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Rasgulla",
+    "model_key": "Rasgulla",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 30.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Rasgulla Nolen Gur",
+    "model_key": "RasgullaNolenGur",
+    "calories": 160.0,
+    "protein": 2.5,
+    "carbs": 32.0,
+    "fats": 2.0
+  },
+  {
+    "frontend_label": "Ras Malai",
+    "model_key": "RasMalai",
+    "calories": 220.0,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Ras Malai Kesar",
+    "model_key": "RasMalaiKesar",
+    "calories": 230.0,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Jalebi",
+    "model_key": "Jalebi",
+    "calories": 250.0,
+    "protein": 1.0,
+    "carbs": 40.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Jalebi Rabri",
+    "model_key": "JalebiRabri",
+    "calories": 350.0,
+    "protein": 4.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kaju Katli",
+    "model_key": "KajuKatli",
+    "calories": 100.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Kaju Pista Katli",
+    "model_key": "KajuPistaKatli",
+    "calories": 105.0,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fats": 4.5
+  },
+  {
+    "frontend_label": "Badam Barfi",
+    "model_key": "BadamBarfi",
+    "calories": 150.0,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Kesar Barfi",
+    "model_key": "KesarBarfi",
+    "calories": 140.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Pista Barfi",
+    "model_key": "PistaBarfi",
+    "calories": 145.0,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Chocolate Barfi",
+    "model_key": "ChocolateBarfi",
+    "calories": 150.0,
+    "protein": 2.5,
+    "carbs": 20.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Besan Ladoo",
+    "model_key": "BesanLadoo",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Motichoor Ladoo",
+    "model_key": "MotichoorLadoo",
+    "calories": 260.0,
+    "protein": 3.5,
+    "carbs": 32.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Boondi Ladoo",
+    "model_key": "BoondiLadoo",
+    "calories": 250.0,
+    "protein": 3.5,
+    "carbs": 32.0,
+    "fats": 13.0
+  },
+  {
+    "frontend_label": "Coconut Ladoo",
+    "model_key": "CoconutLadoo",
+    "calories": 180.0,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Til Ladoo",
+    "model_key": "TilLadoo",
+    "calories": 200.0,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Gajar Halwa",
+    "model_key": "GajarHalwa",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Moong Dal Halwa",
+    "model_key": "MoongDalHalwa",
+    "calories": 380.0,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Sooji Halwa",
+    "model_key": "SoojiHalwa",
+    "calories": 330.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 14.0
+  },
+  {
+    "frontend_label": "Atta Halwa",
+    "model_key": "AttaHalwa",
+    "calories": 360.0,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Badam Halwa",
+    "model_key": "BadamHalwa",
+    "calories": 400.0,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Doodhi Halwa",
+    "model_key": "DoodhiHalwa",
+    "calories": 210.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Kheer",
+    "model_key": "Kheer",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Payasam",
+    "model_key": "Payasam",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Rice Kheer",
+    "model_key": "RiceKheer",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Vermicelli Kheer",
+    "model_key": "VermicelliKheer",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 5.5
+  },
+  {
+    "frontend_label": "Sago Kheer",
+    "model_key": "SagoKheer",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 35.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Rabri",
+    "model_key": "Rabri",
+    "calories": 250.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Shrikhand",
+    "model_key": "Shrikhand",
+    "calories": 230.0,
+    "protein": 5.0,
+    "carbs": 35.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Shrikhand Amrakhand",
+    "model_key": "ShrikhandAmrakhand",
+    "calories": 240.0,
+    "protein": 5.0,
+    "carbs": 38.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Shrikhand Elaichi",
+    "model_key": "ShrikhandElaichi",
+    "calories": 230.0,
+    "protein": 5.0,
+    "carbs": 35.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Sandesh",
+    "model_key": "Sandesh",
+    "calories": 120.0,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Cham Cham",
+    "model_key": "ChamCham",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Petha",
+    "model_key": "Petha",
+    "calories": 180.0,
+    "protein": 0.5,
+    "carbs": 45.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Agra Petha",
+    "model_key": "AgraPetha",
+    "calories": 180.0,
+    "protein": 0.5,
+    "carbs": 45.0,
+    "fats": 0.0
+  },
+  {
+    "frontend_label": "Mishti Doi",
+    "model_key": "MishtiDoi",
+    "calories": 150.0,
+    "protein": 4.0,
+    "carbs": 22.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Phirni",
+    "model_key": "Phirni",
+    "calories": 180.0,
+    "protein": 4.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Phirni Kesar",
+    "model_key": "PhirniKesar",
+    "calories": 190.0,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Phirni Badam",
+    "model_key": "PhirniBadam",
+    "calories": 200.0,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fats": 7.0
+  },
+  {
+    "frontend_label": "Doda Barfi",
+    "model_key": "DodaBarfi",
+    "calories": 220.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Patishapta",
+    "model_key": "Patishapta",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Malpua",
+    "model_key": "Malpua",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Malpua Rabri",
+    "model_key": "MalpuaRabri",
+    "calories": 350.0,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Lobongo Latika",
+    "model_key": "LobongoLatika",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Kalakand",
+    "model_key": "Kalakand",
+    "calories": 180.0,
+    "protein": 5.0,
+    "carbs": 22.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Mysore Pak",
+    "model_key": "MysorePak",
+    "calories": 280.0,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Puran Poli",
+    "model_key": "PuranPoli",
+    "calories": 350.0,
+    "protein": 6.0,
+    "carbs": 60.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Modak",
+    "model_key": "Modak",
+    "calories": 160.0,
+    "protein": 1.5,
+    "carbs": 30.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Ukadiche Modak",
+    "model_key": "UkadicheModak",
+    "calories": 150.0,
+    "protein": 1.2,
+    "carbs": 30.0,
+    "fats": 2.5
+  },
+  {
+    "frontend_label": "Shira",
+    "model_key": "Shira",
+    "calories": 340.0,
+    "protein": 3.0,
+    "carbs": 50.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Kheer Kadam",
+    "model_key": "KheerKadam",
+    "calories": 170.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Ledikeni",
+    "model_key": "Ledikeni",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Sitabhog",
+    "model_key": "Sitabhog",
+    "calories": 300.0,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Mihidana",
+    "model_key": "Mihidana",
+    "calories": 320.0,
+    "protein": 4.0,
+    "carbs": 50.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Chandrakala",
+    "model_key": "Chandrakala",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Suryakala",
+    "model_key": "Suryakala",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fats": 12.0
+  },
+  {
+    "frontend_label": "Ghevar",
+    "model_key": "Ghevar",
+    "calories": 350.0,
+    "protein": 4.0,
+    "carbs": 40.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Ghevar Rabri",
+    "model_key": "GhevarRabri",
+    "calories": 400.0,
+    "protein": 6.0,
+    "carbs": 45.0,
+    "fats": 22.0
+  },
+  {
+    "frontend_label": "Ghevar Plain",
+    "model_key": "GhevarPlain",
+    "calories": 320.0,
+    "protein": 3.5,
+    "carbs": 40.0,
+    "fats": 18.0
+  },
+  {
+    "frontend_label": "Sohan Papdi",
+    "model_key": "SohanPapdi",
+    "calories": 200.0,
+    "protein": 2.0,
+    "carbs": 26.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Makhana Kheer",
+    "model_key": "MakhanaKheer",
+    "calories": 160.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Paneer Kheer",
+    "model_key": "PaneerKheer",
+    "calories": 200.0,
+    "protein": 7.0,
+    "carbs": 25.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Apple Halwa",
+    "model_key": "AppleHalwa",
+    "calories": 180.0,
+    "protein": 1.0,
+    "carbs": 35.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Pumpkin Halwa",
+    "model_key": "PumpkinHalwa",
+    "calories": 170.0,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Anjeer Halwa",
+    "model_key": "AnjeerHalwa",
+    "calories": 250.0,
+    "protein": 3.0,
+    "carbs": 42.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Banana Halwa",
+    "model_key": "BananaHalwa",
+    "calories": 200.0,
+    "protein": 1.5,
+    "carbs": 38.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Custard Fruit",
+    "model_key": "CustardFruit",
+    "calories": 180.0,
+    "protein": 3.0,
+    "carbs": 32.0,
+    "fats": 4.0
+  },
+  {
+    "frontend_label": "Custard Vanilla",
+    "model_key": "CustardVanilla",
+    "calories": 160.0,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fats": 5.0
+  },
+  {
+    "frontend_label": "Custard Chocolate",
+    "model_key": "CustardChocolate",
+    "calories": 180.0,
+    "protein": 3.5,
+    "carbs": 28.0,
+    "fats": 6.0
+  },
+  {
+    "frontend_label": "Trifle Pudding",
+    "model_key": "TriflePudding",
+    "calories": 250.0,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Caramel Custard",
+    "model_key": "CaramelCustard",
+    "calories": 220.0,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fats": 8.0
+  },
+  {
+    "frontend_label": "Bread Pudding",
+    "model_key": "BreadPudding",
+    "calories": 260.0,
+    "protein": 5.0,
+    "carbs": 38.0,
+    "fats": 10.0
+  },
+  {
+    "frontend_label": "Chocolate Mousse",
+    "model_key": "ChocolateMousse",
+    "calories": 300.0,
+    "protein": 4.0,
+    "carbs": 28.0,
+    "fats": 20.0
+  },
+  {
+    "frontend_label": "Mango Mousse",
+    "model_key": "MangoMousse",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  },
+  {
+    "frontend_label": "Strawberry Mousse",
+    "model_key": "StrawberryMousse",
+    "calories": 260.0,
+    "protein": 3.0,
+    "carbs": 28.0,
+    "fats": 15.0
+  }
+]
